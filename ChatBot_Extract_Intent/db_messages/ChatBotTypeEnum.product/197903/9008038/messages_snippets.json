@@ -1,0 +1,2783 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "tồn kho",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tồn kho",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tồn kho",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tồn kho",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tồn kho",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tồn kho",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tồn kho",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tồn kho",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "hi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "hi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "term",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Lỗi Rasa rồi!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "term",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Lỗi Rasa rồi!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi muốn biết VCC bán những gì?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:\n    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất\n    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi\n    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời\nHôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Bạn đang quan tâm đến dịch vụ, chính sách của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Quý khách xin thông cảm! Tôi không hiểu câu hỏi của bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Đèn Năng Lượng Mặt Trời KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\n  1. Đèn Trụ cổng Năng Lượng Mặt Trời.\n  Giá tiền: 745030 VND\n  2. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200\n  Giá tiền: 1724030 VND\n  3. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300\n  Giá tiền: 1851740 VND\n  4. ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300\n  Giá tiền: 1915540 VND\n  5. Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK\n  Giá tiền: 2606230 VND\n  6. Bộ đèn đường năng lượng mặt trời .Model:S500 ,hiệu:SUNTEK\n  Giá tiền: 2873530 VND\n  7. Đèn led ốp trần năng lượng mặt trời .Model:H05, hiệu:SUNTEK.\n  Giá tiền: 1123320 VND\n  8. Đèn Sân Vườn Năng Lượng Mặt Trời. Mã: GD-09\n  Giá tiền: 1167980 VND\n  9. Bộ đèn led năng lượng mặt trời SV08. Hiệu: SUNTEK\n  Giá tiền: 1937980 VND\n  10. Bộ đèn đường năng lượng mặt trời Suntek, Model: S150\n  Giá tiền: 1349920 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi có các sản phẩm đèn năng lượng mặt trời với giá bình dân như sau:\n1. Đèn Trụ cổng Năng Lượng Mặt Trời - Giá: 745030 VND\n2. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200 - Giá: 1724030 VND\n3. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300 - Giá: 1851740 VND\n4. ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300 - Giá: 1915540 VND\n5. Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK - Giá: 2606230 VND\n6. Bộ đèn đường năng lượng mặt trời .Model:S500 ,hiệu:SUNTEK - Giá: 2873530 VND\n7. Đèn led ốp trần năng lượng mặt trời .Model:H05, hiệu:SUNTEK - Giá: 1123320 VND\n8. Đèn Sân Vườn Năng Lượng Mặt Trời. Mã: GD-09 - Giá: 1167980 VND\n9. Bộ đèn led năng lượng mặt trời SV08. Hiệu: SUNTEK - Giá: 1937980 VND\n10. Bộ đèn đường năng lượng mặt trời Suntek, Model: S150 - Giá: 1349920 VND",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi có các sản phẩm đèn năng lượng mặt trời với giá bình dân như sau:\n1. Đèn Trụ cổng Năng Lượng Mặt Trời - Giá: 745030 VND\n2. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200 - Giá: 1724030 VND\n3. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300 - Giá: 1851740 VND\n4. ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300 - Giá: 1915540 VND\n5. Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK - Giá: 2606230 VND\n6. Bộ đèn đường năng lượng mặt trời .Model:S500 ,hiệu:SUNTEK - Giá: 2873530 VND\n7. Đèn led ốp trần năng lượng mặt trời .Model:H05, hiệu:SUNTEK - Giá: 1123320 VND\n8. Đèn Sân Vườn Năng Lượng Mặt Trời. Mã: GD-09 - Giá: 1167980 VND\n9. Bộ đèn led năng lượng mặt trời SV08. Hiệu: SUNTEK - Giá: 1937980 VND\n10. Bộ đèn đường năng lượng mặt trời Suntek, Model: S150 - Giá: 1349920 VND",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Đèn Năng Lượng Mặt Trời KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\n  1. Đèn Trụ cổng Năng Lượng Mặt Trời.\n  Giá tiền: 745030 VND\n  2. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200\n  Giá tiền: 1724030 VND\n  3. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300\n  Giá tiền: 1851740 VND\n  4. ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300\n  Giá tiền: 1915540 VND\n  5. Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK\n  Giá tiền: 2606230 VND\n  6. Bộ đèn đường năng lượng mặt trời .Model:S500 ,hiệu:SUNTEK\n  Giá tiền: 2873530 VND\n  7. Đèn led ốp trần năng lượng mặt trời .Model:H05, hiệu:SUNTEK.\n  Giá tiền: 1123320 VND\n  8. Đèn Sân Vườn Năng Lượng Mặt Trời. Mã: GD-09\n  Giá tiền: 1167980 VND\n  9. Bộ đèn led năng lượng mặt trời SV08. Hiệu: SUNTEK\n  Giá tiền: 1937980 VND\n  10. Bộ đèn đường năng lượng mặt trời Suntek, Model: S150\n  Giá tiền: 1349920 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi có các sản phẩm đèn năng lượng mặt trời với giá bình dân như sau:\n1. Đèn Trụ cổng Năng Lượng Mặt Trời - Giá: 745030 VND\n2. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200 - Giá: 1724030 VND\n3. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300 - Giá: 1851740 VND\n4. ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300 - Giá: 1915540 VND\n5. Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK - Giá: 2606230 VND\n6. Bộ đèn đường năng lượng mặt trời .Model:S500 ,hiệu:SUNTEK - Giá: 2873530 VND\n7. Đèn led ốp trần năng lượng mặt trời .Model:H05, hiệu:SUNTEK - Giá: 1123320 VND\n8. Đèn Sân Vườn Năng Lượng Mặt Trời. Mã: GD-09 - Giá: 1167980 VND\n9. Bộ đèn led năng lượng mặt trời SV08. Hiệu: SUNTEK - Giá: 1937980 VND\n10. Bộ đèn đường năng lượng mặt trời Suntek, Model: S150 - Giá: 1349920 VND",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi có các sản phẩm đèn năng lượng mặt trời với giá bình dân như sau:\n1. Đèn Trụ cổng Năng Lượng Mặt Trời - Giá: 745030 VND\n2. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200 - Giá: 1724030 VND\n3. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300 - Giá: 1851740 VND\n4. ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300 - Giá: 1915540 VND\n5. Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK - Giá: 2606230 VND\n6. Bộ đèn đường năng lượng mặt trời .Model:S500 ,hiệu:SUNTEK - Giá: 2873530 VND\n7. Đèn led ốp trần năng lượng mặt trời .Model:H05, hiệu:SUNTEK - Giá: 1123320 VND\n8. Đèn Sân Vườn Năng Lượng Mặt Trời. Mã: GD-09 - Giá: 1167980 VND\n9. Bộ đèn led năng lượng mặt trời SV08. Hiệu: SUNTEK - Giá: 1937980 VND\n10. Bộ đèn đường năng lượng mặt trời Suntek, Model: S150 - Giá: 1349920 VND",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "ok",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dường như có một sự nhầm lẫn ở đây. Nếu bạn có câu hỏi cụ thể hoặc cần hỗ trợ về sản phẩm hoặc dịch vụ nào đó, đừng ngần ngại chia sẻ. Tôi sẽ cố gắng hỗ trợ bạn một cách tốt nhất có thể!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "hi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Đèn Năng Lượng Mặt Trời KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\n  1. Đèn Trụ cổng Năng Lượng Mặt Trời.\n  Giá tiền: 745030 VND\n  2. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200\n  Giá tiền: 1724030 VND\n  3. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300\n  Giá tiền: 1851740 VND\n  4. ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300\n  Giá tiền: 1915540 VND\n  5. Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK\n  Giá tiền: 2606230 VND\n  6. Bộ đèn đường năng lượng mặt trời .Model:S500 ,hiệu:SUNTEK\n  Giá tiền: 2873530 VND\n  7. Đèn led ốp trần năng lượng mặt trời .Model:H05, hiệu:SUNTEK.\n  Giá tiền: 1123320 VND\n  8. Đèn Sân Vườn Năng Lượng Mặt Trời. Mã: GD-09\n  Giá tiền: 1167980 VND\n  9. Bộ đèn led năng lượng mặt trời SV08. Hiệu: SUNTEK\n  Giá tiền: 1937980 VND\n  10. Bộ đèn đường năng lượng mặt trời Suntek, Model: S150\n  Giá tiền: 1349920 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Trong danh sách sản phẩm của chúng tôi, có một số sản phẩm đèn năng lượng mặt trời có giá bình dân như sau:\n1. Đèn Trụ cổng Năng Lượng Mặt Trời - Giá: 745030 VND\n2. Đèn led ốp trần năng lượng mặt trời Model:H05, hiệu:SUNTEK - Giá: 1123320 VND\n3. Đèn Sân Vườn Năng Lượng Mặt Trời Mã: GD-09 - Giá: 1167980 VND\nBạn có thể lựa chọn một trong các sản phẩm này.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Trong danh sách sản phẩm của chúng tôi, có một số sản phẩm đèn năng lượng mặt trời có giá bình dân như sau:\n1. Đèn Trụ cổng Năng Lượng Mặt Trời - Giá: 745030 VND\n2. Đèn led ốp trần năng lượng mặt trời Model:H05, hiệu:SUNTEK - Giá: 1123320 VND\n3. Đèn Sân Vườn Năng Lượng Mặt Trời Mã: GD-09 - Giá: 1167980 VND\nBạn có thể lựa chọn một trong các sản phẩm này.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Đèn Năng Lượng Mặt Trời KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\n  1. Đèn Trụ cổng Năng Lượng Mặt Trời.\n  Giá tiền: 745030 VND\n  2. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200\n  Giá tiền: 1724030 VND\n  3. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300\n  Giá tiền: 1851740 VND\n  4. ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300\n  Giá tiền: 1915540 VND\n  5. Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK\n  Giá tiền: 2606230 VND\n  6. Bộ đèn đường năng lượng mặt trời .Model:S500 ,hiệu:SUNTEK\n  Giá tiền: 2873530 VND\n  7. Đèn led ốp trần năng lượng mặt trời .Model:H05, hiệu:SUNTEK.\n  Giá tiền: 1123320 VND\n  8. Đèn Sân Vườn Năng Lượng Mặt Trời. Mã: GD-09\n  Giá tiền: 1167980 VND\n  9. Bộ đèn led năng lượng mặt trời SV08. Hiệu: SUNTEK\n  Giá tiền: 1937980 VND\n  10. Bộ đèn đường năng lượng mặt trời Suntek, Model: S150\n  Giá tiền: 1349920 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Trong danh sách sản phẩm của chúng tôi, có một số sản phẩm đèn năng lượng mặt trời có giá bình dân như sau:\n1. Đèn Trụ cổng Năng Lượng Mặt Trời - Giá: 745030 VND\n2. Đèn led ốp trần năng lượng mặt trời Model:H05, hiệu:SUNTEK - Giá: 1123320 VND\n3. Đèn Sân Vườn Năng Lượng Mặt Trời Mã: GD-09 - Giá: 1167980 VND\nBạn có thể lựa chọn một trong các sản phẩm này.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Trong danh sách sản phẩm của chúng tôi, có một số sản phẩm đèn năng lượng mặt trời có giá bình dân như sau:\n1. Đèn Trụ cổng Năng Lượng Mặt Trời - Giá: 745030 VND\n2. Đèn led ốp trần năng lượng mặt trời Model:H05, hiệu:SUNTEK - Giá: 1123320 VND\n3. Đèn Sân Vườn Năng Lượng Mặt Trời Mã: GD-09 - Giá: 1167980 VND\nBạn có thể lựa chọn một trong các sản phẩm này.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Máy Giặt KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S\n  Thông số kỹ thuật: \n• Loại máy giặt: Cửa trên \n• Lồng giặt: Lồng đứng \n• Khối lượng giặt: 9 Kg \n• Số người sử dụng: Từ 3 - 5 người \n• Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n• Tốc độ quay vắt tối đa: 700 vòng/phút \n• Chất liệu lồng giặt: Thép không gỉ \n• Chất liệu vỏ máy: Kim loại sơn tĩnh điện \n• Chất liệu nắp máy: Kính chịu lực \n• Hiệu suất sử dụng điện: 10.9 Wh/kg \n• Chương trình giặt: Chăn mền, Vắt cực khô, Giặt mạnh, Giặt ngâm, Giặt nhanh, Giặt nhẹ, Giặt thơm, Giặt tiêu chuẩn \n• Công nghệ giặt: Diệt khuẩn khử mùi Nano Ag+ Giặt nhiều luồng nước phun MultiJet \n• Bảng điều khiển: Song ngữ Anh - Việt \n• Tiện ích: Hẹn giờ giặt, Khóa trẻ em, Van sử dụng mực nước thấp, Vệ sinh lồng giặt \n• Kích thước, khối lượng: Cao 100.6 cm - Ngang 53.3 cm - Sâu 58 cm - Nặng 36 kg \n• Chiều dài ống cấp nước: 128 cm \n• Chiều dài ống thoát nước: 77 cm\ngiá: 5759050\n\n2. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S\n  Thông số kỹ thuật: Cửa trên - Lồng đứng \nKhối lượng giặt: 8 Kg \nKiểu động cơ: Truyền động gián tiếp (dây Curoa) \nTốc độ quay vắt tối đa: 775 vòng/ phút \nChất liệu lồng giặt: Thép không gỉ \nChất liệu vỏ máy: Kim loại sơn tĩnh điện \nChất liệu nắp máy: Nhựa ABS + Kính \nThời gian bảo hành động cơ:2 năm \nHiệu suất sử dụng điện: 11.3 Wh/kg \nMâm giặt kháng khuẩn ABT \nBảng điều khiển: Song ngữ Anh - Việt có nút nhấn Khóa trẻ em \nTự khởi động lại khi có điện \nVan sử dụng mực nước thấp \nCao 93 cm - Ngang 52.7 cm - Sâu 56.9 cm - Nặng 30.1 kg\ngiá: 4726370\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "đm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Dường như có một sự nhầm lẫn ở đây. Nếu bạn có câu hỏi cụ thể hoặc cần hỗ trợ về sản phẩm hoặc dịch vụ nào đó, đừng ngần ngại chia sẻ. Tôi sẽ cố gắng hỗ trợ bạn một cách tốt nhất có thể!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "này",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Lỗi Rasa rồi!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "ngu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi rất tiếc, nhưng tôi không hiểu yêu cầu của bạn. Bạn có thể cung cấp thông tin chi tiết hơn không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "ok",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi là bot được tạo ra để hỗ trợ tư vẫn bán hàng nên những câu hỏi không liên quan tôi sẽ không thể giải đáp được.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bán hàng đi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, nhưng tôi không hiểu câu hỏi của bạn. Bạn có thể giải thích rõ hơn được không? Tôi sẽ cố gắng giúp bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Máy Giặt KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\n  1. Máy Giặt Aqua 9 Kg AQW-F91GT.S\n  Giá tiền: 5759050 VND\n  2. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB\n  Giá tiền: 14450040 VND\n  3. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S\n  Giá tiền: 4726370 VND\n  4. Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK\n  Giá tiền: 6074970 VND\n  5. Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB\n  Giá tiền: 11898480 VND\n  6. Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB\n  Giá tiền: 12749000 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có các sản phẩm máy giặt sau đây:\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S - Giá: 5,759,050 VND\n2. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB - Giá: 14,450,040 VND\n3. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S - Giá: 4,726,370 VND\n4. Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK - Giá: 6,074,970 VND\n5. Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB - Giá: 11,898,480 VND\n6. Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB - Giá: 12,749,000 VND\n\nXin vui lòng cho biết bạn quan tâm đến sản phẩm nào để tôi có thể cung cấp thông tin chi tiết hơn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bán máy giặt cho tôi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "AI: Chúng tôi có các sản phẩm máy giặt sau đây:\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S - Giá: 5,759,050 VND\n2. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB - Giá: 14,450,040 VND\n3. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S - Giá: 4,726,370 VND\n4. Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK - Giá: 6,074,970 VND\n5. Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB - Giá: 11,898,480 VND\n6. Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB - Giá: 12,749,000 VND\n\nXin vui lòng cho biết bạn quan tâm đến sản phẩm nào để tôi có thể cung cấp thông tin chi tiết hơn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi muốn biết VCC bán những gì?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:\n    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất\n    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi\n    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời\nHôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Máy Giặt KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S\n  Thông số kỹ thuật: \n• Loại máy giặt: Cửa trên \n• Lồng giặt: Lồng đứng \n• Khối lượng giặt: 9 Kg \n• Số người sử dụng: Từ 3 - 5 người \n• Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n• Tốc độ quay vắt tối đa: 700 vòng/phút \n• Chất liệu lồng giặt: Thép không gỉ \n• Chất liệu vỏ máy: Kim loại sơn tĩnh điện \n• Chất liệu nắp máy: Kính chịu lực \n• Hiệu suất sử dụng điện: 10.9 Wh/kg \n• Chương trình giặt: Chăn mền, Vắt cực khô, Giặt mạnh, Giặt ngâm, Giặt nhanh, Giặt nhẹ, Giặt thơm, Giặt tiêu chuẩn \n• Công nghệ giặt: Diệt khuẩn khử mùi Nano Ag+ Giặt nhiều luồng nước phun MultiJet \n• Bảng điều khiển: Song ngữ Anh - Việt \n• Tiện ích: Hẹn giờ giặt, Khóa trẻ em, Van sử dụng mực nước thấp, Vệ sinh lồng giặt \n• Kích thước, khối lượng: Cao 100.6 cm - Ngang 53.3 cm - Sâu 58 cm - Nặng 36 kg \n• Chiều dài ống cấp nước: 128 cm \n• Chiều dài ống thoát nước: 77 cm\ngiá: 5759050\n\n2. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S\n  Thông số kỹ thuật: Cửa trên - Lồng đứng \nKhối lượng giặt: 8 Kg \nKiểu động cơ: Truyền động gián tiếp (dây Curoa) \nTốc độ quay vắt tối đa: 775 vòng/ phút \nChất liệu lồng giặt: Thép không gỉ \nChất liệu vỏ máy: Kim loại sơn tĩnh điện \nChất liệu nắp máy: Nhựa ABS + Kính \nThời gian bảo hành động cơ:2 năm \nHiệu suất sử dụng điện: 11.3 Wh/kg \nMâm giặt kháng khuẩn ABT \nBảng điều khiển: Song ngữ Anh - Việt có nút nhấn Khóa trẻ em \nTự khởi động lại khi có điện \nVan sử dụng mực nước thấp \nCao 93 cm - Ngang 52.7 cm - Sâu 56.9 cm - Nặng 30.1 kg\ngiá: 4726370\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Máy Giặt KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S\n  Thông số kỹ thuật: \n• Loại máy giặt: Cửa trên \n• Lồng giặt: Lồng đứng \n• Khối lượng giặt: 9 Kg \n• Số người sử dụng: Từ 3 - 5 người \n• Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n• Tốc độ quay vắt tối đa: 700 vòng/phút \n• Chất liệu lồng giặt: Thép không gỉ \n• Chất liệu vỏ máy: Kim loại sơn tĩnh điện \n• Chất liệu nắp máy: Kính chịu lực \n• Hiệu suất sử dụng điện: 10.9 Wh/kg \n• Chương trình giặt: Chăn mền, Vắt cực khô, Giặt mạnh, Giặt ngâm, Giặt nhanh, Giặt nhẹ, Giặt thơm, Giặt tiêu chuẩn \n• Công nghệ giặt: Diệt khuẩn khử mùi Nano Ag+ Giặt nhiều luồng nước phun MultiJet \n• Bảng điều khiển: Song ngữ Anh - Việt \n• Tiện ích: Hẹn giờ giặt, Khóa trẻ em, Van sử dụng mực nước thấp, Vệ sinh lồng giặt \n• Kích thước, khối lượng: Cao 100.6 cm - Ngang 53.3 cm - Sâu 58 cm - Nặng 36 kg \n• Chiều dài ống cấp nước: 128 cm \n• Chiều dài ống thoát nước: 77 cm\ngiá: 5759050\n\n2. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S\n  Thông số kỹ thuật: Cửa trên - Lồng đứng \nKhối lượng giặt: 8 Kg \nKiểu động cơ: Truyền động gián tiếp (dây Curoa) \nTốc độ quay vắt tối đa: 775 vòng/ phút \nChất liệu lồng giặt: Thép không gỉ \nChất liệu vỏ máy: Kim loại sơn tĩnh điện \nChất liệu nắp máy: Nhựa ABS + Kính \nThời gian bảo hành động cơ:2 năm \nHiệu suất sử dụng điện: 11.3 Wh/kg \nMâm giặt kháng khuẩn ABT \nBảng điều khiển: Song ngữ Anh - Việt có nút nhấn Khóa trẻ em \nTự khởi động lại khi có điện \nVan sử dụng mực nước thấp \nCao 93 cm - Ngang 52.7 cm - Sâu 56.9 cm - Nặng 30.1 kg\ngiá: 4726370\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/similarity_status_true",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, nhưng tôi không hiểu câu hỏi của bạn. Bạn có thể giải thích rõ hơn được không? Tôi sẽ cố gắng giúp bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Máy Giặt KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S\n  Thông số kỹ thuật: \n• Loại máy giặt: Cửa trên \n• Lồng giặt: Lồng đứng \n• Khối lượng giặt: 9 Kg \n• Số người sử dụng: Từ 3 - 5 người \n• Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n• Tốc độ quay vắt tối đa: 700 vòng/phút \n• Chất liệu lồng giặt: Thép không gỉ \n• Chất liệu vỏ máy: Kim loại sơn tĩnh điện \n• Chất liệu nắp máy: Kính chịu lực \n• Hiệu suất sử dụng điện: 10.9 Wh/kg \n• Chương trình giặt: Chăn mền, Vắt cực khô, Giặt mạnh, Giặt ngâm, Giặt nhanh, Giặt nhẹ, Giặt thơm, Giặt tiêu chuẩn \n• Công nghệ giặt: Diệt khuẩn khử mùi Nano Ag+ Giặt nhiều luồng nước phun MultiJet \n• Bảng điều khiển: Song ngữ Anh - Việt \n• Tiện ích: Hẹn giờ giặt, Khóa trẻ em, Van sử dụng mực nước thấp, Vệ sinh lồng giặt \n• Kích thước, khối lượng: Cao 100.6 cm - Ngang 53.3 cm - Sâu 58 cm - Nặng 36 kg \n• Chiều dài ống cấp nước: 128 cm \n• Chiều dài ống thoát nước: 77 cm\ngiá: 5759050\n\n2. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S\n  Thông số kỹ thuật: Cửa trên - Lồng đứng \nKhối lượng giặt: 8 Kg \nKiểu động cơ: Truyền động gián tiếp (dây Curoa) \nTốc độ quay vắt tối đa: 775 vòng/ phút \nChất liệu lồng giặt: Thép không gỉ \nChất liệu vỏ máy: Kim loại sơn tĩnh điện \nChất liệu nắp máy: Nhựa ABS + Kính \nThời gian bảo hành động cơ:2 năm \nHiệu suất sử dụng điện: 11.3 Wh/kg \nMâm giặt kháng khuẩn ABT \nBảng điều khiển: Song ngữ Anh - Việt có nút nhấn Khóa trẻ em \nTự khởi động lại khi có điện \nVan sử dụng mực nước thấp \nCao 93 cm - Ngang 52.7 cm - Sâu 56.9 cm - Nặng 30.1 kg\ngiá: 4726370\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Máy Giặt KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\nKhông tìm thấy sản phẩm phù hợp. Vui lòng ghi rõ thông tin của sản phẩm",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào anh/chị! Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi đang quan tâm Máy Giặt Aqua lồng đứng?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào anh/chị! Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Máy Giặt KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S\n  Thông số kỹ thuật: \n• Loại máy giặt: Cửa trên \n• Lồng giặt: Lồng đứng \n• Khối lượng giặt: 9 Kg \n• Số người sử dụng: Từ 3 - 5 người \n• Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n• Tốc độ quay vắt tối đa: 700 vòng/phút \n• Chất liệu lồng giặt: Thép không gỉ \n• Chất liệu vỏ máy: Kim loại sơn tĩnh điện \n• Chất liệu nắp máy: Kính chịu lực \n• Hiệu suất sử dụng điện: 10.9 Wh/kg \n• Chương trình giặt: Chăn mền, Vắt cực khô, Giặt mạnh, Giặt ngâm, Giặt nhanh, Giặt nhẹ, Giặt thơm, Giặt tiêu chuẩn \n• Công nghệ giặt: Diệt khuẩn khử mùi Nano Ag+ Giặt nhiều luồng nước phun MultiJet \n• Bảng điều khiển: Song ngữ Anh - Việt \n• Tiện ích: Hẹn giờ giặt, Khóa trẻ em, Van sử dụng mực nước thấp, Vệ sinh lồng giặt \n• Kích thước, khối lượng: Cao 100.6 cm - Ngang 53.3 cm - Sâu 58 cm - Nặng 36 kg \n• Chiều dài ống cấp nước: 128 cm \n• Chiều dài ống thoát nước: 77 cm\ngiá: 5759050\n\n2. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S\n  Thông số kỹ thuật: Cửa trên - Lồng đứng \nKhối lượng giặt: 8 Kg \nKiểu động cơ: Truyền động gián tiếp (dây Curoa) \nTốc độ quay vắt tối đa: 775 vòng/ phút \nChất liệu lồng giặt: Thép không gỉ \nChất liệu vỏ máy: Kim loại sơn tĩnh điện \nChất liệu nắp máy: Nhựa ABS + Kính \nThời gian bảo hành động cơ:2 năm \nHiệu suất sử dụng điện: 11.3 Wh/kg \nMâm giặt kháng khuẩn ABT \nBảng điều khiển: Song ngữ Anh - Việt có nút nhấn Khóa trẻ em \nTự khởi động lại khi có điện \nVan sử dụng mực nước thấp \nCao 93 cm - Ngang 52.7 cm - Sâu 56.9 cm - Nặng 30.1 kg\ngiá: 4726370\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào anh/chị! Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng. Hiện tại, chúng tôi có 2 sản phẩm Máy Giặt Aqua lồng đứng:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S\n2. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S\n\nAnh/chị có thể đọc thông tin chi tiết về sản phẩm để chọn lựa phù hợp với nhu cầu của mình.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào anh/chị! Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng. Hiện tại, chúng tôi có 2 sản phẩm Máy Giặt Aqua lồng đứng:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S\n2. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S\n\nAnh/chị có thể đọc thông tin chi tiết về sản phẩm để chọn lựa phù hợp với nhu cầu của mình.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Đèn Năng Lượng Mặt Trời KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\n\n1. Đèn NLMT bàn chải liền thể 100W 3F\n  Thông số kỹ thuật: \n• Công suất định mức: 100W \n• Diện tích sử dụng đề xuất:100m2 – 120m2 \n• Cấu hình sản phẩm: Điều khiển từ xa, vít lắp, cán đèn \n• Thời gian chiếu sáng: 12H \n• Thời gian sạc: 6-8H \n• Tiêu chuẩn bảo vệ chống nước: IP67 \n• Nhiệt độ màu: 6.500k LED \n• Loại mắt: SMD 2835-480CS \n• Chức năng sản phẩm: Cảm biến ánh sáng tự động bật vào lúc hoàng hôn và tắt lúc bình minh, có thể điều khiển từ xa bằng điều khiển từ xa.\ngiá: 736780\n\n2. Đèn NLMT bàn chải liền thể 200W 3F\n  Thông số kỹ thuật: \n• Công suất định mức: 200W \n• Kích thước thân đèn: 645mm* 300mm * 70mm \n• Kích thước bảng điều khiển: 4V / 15W polysilicon, 535mm * 210mm \n• Loại pin: Pin lithium sắt phosphate 3.2V / 18000mAH \n• Diện tích sử dụng đề xuất: 100m2 – 150m2 \n• Cấu hình sản phẩm: Điều khiển từ xa, vít lắp, cán đèn \n• Thời gian chiếu sáng: 12H \n• Thời gian sạc: 6-8H \n• Tiêu chuẩn bảo vệ chống nước: IP67 \n• Nhiệt độ màu: 6.500k LED \n• Loại mắt: SMD 2835-480CS \n• Chức năng sản phẩm: Cảm biến ánh sáng tự động bật vào lúc hoàng hôn và tắt lúc bình minh, có thể điều khiển từ xa bằng điều khiển từ xa.\ngiá: 866030\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào anh/chị! Chúng tôi có 2 sản phẩm Đèn Năng Lượng Mặt Trời với giá cả cạnh tranh:\n\n1. Đèn NLMT bàn chải liền thể 100W 3F: giá 736780 VNĐ\n2. Đèn NLMT bàn chải liền thể 200W 3F: giá 866030 VNĐ\n\nAnh/chị có thể đọc thông tin chi tiết về sản phẩm để chọn lựa phù hợp với nhu cầu của mình.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào anh/chị! Chúng tôi có 2 sản phẩm Đèn Năng Lượng Mặt Trời với giá cả cạnh tranh:\n\n1. Đèn NLMT bàn chải liền thể 100W 3F: giá 736780 VNĐ\n2. Đèn NLMT bàn chải liền thể 200W 3F: giá 866030 VNĐ\n\nAnh/chị có thể đọc thông tin chi tiết về sản phẩm để chọn lựa phù hợp với nhu cầu của mình.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Máy Giặt KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S\n  Thông số kỹ thuật: \n• Loại máy giặt: Cửa trên \n• Lồng giặt: Lồng đứng \n• Khối lượng giặt: 9 Kg \n• Số người sử dụng: Từ 3 - 5 người \n• Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n• Tốc độ quay vắt tối đa: 700 vòng/phút \n• Chất liệu lồng giặt: Thép không gỉ \n• Chất liệu vỏ máy: Kim loại sơn tĩnh điện \n• Chất liệu nắp máy: Kính chịu lực \n• Hiệu suất sử dụng điện: 10.9 Wh/kg \n• Chương trình giặt: Chăn mền, Vắt cực khô, Giặt mạnh, Giặt ngâm, Giặt nhanh, Giặt nhẹ, Giặt thơm, Giặt tiêu chuẩn \n• Công nghệ giặt: Diệt khuẩn khử mùi Nano Ag+ Giặt nhiều luồng nước phun MultiJet \n• Bảng điều khiển: Song ngữ Anh - Việt \n• Tiện ích: Hẹn giờ giặt, Khóa trẻ em, Van sử dụng mực nước thấp, Vệ sinh lồng giặt \n• Kích thước, khối lượng: Cao 100.6 cm - Ngang 53.3 cm - Sâu 58 cm - Nặng 36 kg \n• Chiều dài ống cấp nước: 128 cm \n• Chiều dài ống thoát nước: 77 cm\ngiá: 5759050\n\n2. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S\n  Thông số kỹ thuật: Cửa trên - Lồng đứng \nKhối lượng giặt: 8 Kg \nKiểu động cơ: Truyền động gián tiếp (dây Curoa) \nTốc độ quay vắt tối đa: 775 vòng/ phút \nChất liệu lồng giặt: Thép không gỉ \nChất liệu vỏ máy: Kim loại sơn tĩnh điện \nChất liệu nắp máy: Nhựa ABS + Kính \nThời gian bảo hành động cơ:2 năm \nHiệu suất sử dụng điện: 11.3 Wh/kg \nMâm giặt kháng khuẩn ABT \nBảng điều khiển: Song ngữ Anh - Việt có nút nhấn Khóa trẻ em \nTự khởi động lại khi có điện \nVan sử dụng mực nước thấp \nCao 93 cm - Ngang 52.7 cm - Sâu 56.9 cm - Nặng 30.1 kg\ngiá: 4726370\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào anh/chị! Cả hai sản phẩm Máy Giặt Aqua chúng tôi bán đều là lồng đứng, không phải lồng ngang. Anh/chị có thể tham khảo thông tin chi tiết về sản phẩm dưới đây:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S: Lồng đứng, khối lượng giặt 9 Kg, giá 5759050 VNĐ\n2. Máy Giặt Aqua cửa trên - 8Kg AQW-KS80GT.S: Lồng đứng, khối lượng giặt 8 Kg, giá 4726370 VNĐ\n\nAnh/chị có thể lựa chọn sản phẩm phù hợp với nhu cầu của mình.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào anh/chị! Cả hai sản phẩm Máy Giặt Aqua chúng tôi bán đều là lồng đứng, không phải lồng ngang. Anh/chị có thể tham khảo thông tin chi tiết về sản phẩm dưới đây:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S: Lồng đứng, khối lượng giặt 9 Kg, giá 5759050 VNĐ\n2. Máy Giặt Aqua cửa trên - 8Kg AQW-KS80GT.S: Lồng đứng, khối lượng giặt 8 Kg, giá 4726370 VNĐ\n\nAnh/chị có thể lựa chọn sản phẩm phù hợp với nhu cầu của mình.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Máy Giặt KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S\n  Thông số kỹ thuật: \n• Loại máy giặt: Cửa trên \n• Lồng giặt: Lồng đứng \n• Khối lượng giặt: 9 Kg \n• Số người sử dụng: Từ 3 - 5 người \n• Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n• Tốc độ quay vắt tối đa: 700 vòng/phút \n• Chất liệu lồng giặt: Thép không gỉ \n• Chất liệu vỏ máy: Kim loại sơn tĩnh điện \n• Chất liệu nắp máy: Kính chịu lực \n• Hiệu suất sử dụng điện: 10.9 Wh/kg \n• Chương trình giặt: Chăn mền, Vắt cực khô, Giặt mạnh, Giặt ngâm, Giặt nhanh, Giặt nhẹ, Giặt thơm, Giặt tiêu chuẩn \n• Công nghệ giặt: Diệt khuẩn khử mùi Nano Ag+ Giặt nhiều luồng nước phun MultiJet \n• Bảng điều khiển: Song ngữ Anh - Việt \n• Tiện ích: Hẹn giờ giặt, Khóa trẻ em, Van sử dụng mực nước thấp, Vệ sinh lồng giặt \n• Kích thước, khối lượng: Cao 100.6 cm - Ngang 53.3 cm - Sâu 58 cm - Nặng 36 kg \n• Chiều dài ống cấp nước: 128 cm \n• Chiều dài ống thoát nước: 77 cm\ngiá: 5759050\n\n2. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S\n  Thông số kỹ thuật: Cửa trên - Lồng đứng \nKhối lượng giặt: 8 Kg \nKiểu động cơ: Truyền động gián tiếp (dây Curoa) \nTốc độ quay vắt tối đa: 775 vòng/ phút \nChất liệu lồng giặt: Thép không gỉ \nChất liệu vỏ máy: Kim loại sơn tĩnh điện \nChất liệu nắp máy: Nhựa ABS + Kính \nThời gian bảo hành động cơ:2 năm \nHiệu suất sử dụng điện: 11.3 Wh/kg \nMâm giặt kháng khuẩn ABT \nBảng điều khiển: Song ngữ Anh - Việt có nút nhấn Khóa trẻ em \nTự khởi động lại khi có điện \nVan sử dụng mực nước thấp \nCao 93 cm - Ngang 52.7 cm - Sâu 56.9 cm - Nặng 30.1 kg\ngiá: 4726370\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào anh/chị! Cả hai sản phẩm Máy Giặt Aqua chúng tôi bán đều là lồng đứng, không phải lồng ngang. Anh/chị có thể tham khảo thông tin chi tiết về sản phẩm dưới đây:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S: Lồng đứng, khối lượng giặt 9 Kg, giá 5759050 VNĐ\n2. Máy Giặt Aqua cửa trên - 8Kg AQW-KS80GT.S: Lồng đứng, khối lượng giặt 8 Kg, giá 4726370 VNĐ\n\nAnh/chị có thể lựa chọn sản phẩm phù hợp với nhu cầu của mình.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào anh/chị! Cả hai sản phẩm Máy Giặt Aqua chúng tôi bán đều là lồng đứng, không phải lồng ngang. Anh/chị có thể tham khảo thông tin chi tiết về sản phẩm dưới đây:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S: Lồng đứng, khối lượng giặt 9 Kg, giá 5759050 VNĐ\n2. Máy Giặt Aqua cửa trên - 8Kg AQW-KS80GT.S: Lồng đứng, khối lượng giặt 8 Kg, giá 4726370 VNĐ\n\nAnh/chị có thể lựa chọn sản phẩm phù hợp với nhu cầu của mình.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Máy Giặt KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S\n  Thông số kỹ thuật: \n• Loại máy giặt: Cửa trên \n• Lồng giặt: Lồng đứng \n• Khối lượng giặt: 9 Kg \n• Số người sử dụng: Từ 3 - 5 người \n• Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n• Tốc độ quay vắt tối đa: 700 vòng/phút \n• Chất liệu lồng giặt: Thép không gỉ \n• Chất liệu vỏ máy: Kim loại sơn tĩnh điện \n• Chất liệu nắp máy: Kính chịu lực \n• Hiệu suất sử dụng điện: 10.9 Wh/kg \n• Chương trình giặt: Chăn mền, Vắt cực khô, Giặt mạnh, Giặt ngâm, Giặt nhanh, Giặt nhẹ, Giặt thơm, Giặt tiêu chuẩn \n• Công nghệ giặt: Diệt khuẩn khử mùi Nano Ag+ Giặt nhiều luồng nước phun MultiJet \n• Bảng điều khiển: Song ngữ Anh - Việt \n• Tiện ích: Hẹn giờ giặt, Khóa trẻ em, Van sử dụng mực nước thấp, Vệ sinh lồng giặt \n• Kích thước, khối lượng: Cao 100.6 cm - Ngang 53.3 cm - Sâu 58 cm - Nặng 36 kg \n• Chiều dài ống cấp nước: 128 cm \n• Chiều dài ống thoát nước: 77 cm\ngiá: 5759050\n\n2. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S\n  Thông số kỹ thuật: Cửa trên - Lồng đứng \nKhối lượng giặt: 8 Kg \nKiểu động cơ: Truyền động gián tiếp (dây Curoa) \nTốc độ quay vắt tối đa: 775 vòng/ phút \nChất liệu lồng giặt: Thép không gỉ \nChất liệu vỏ máy: Kim loại sơn tĩnh điện \nChất liệu nắp máy: Nhựa ABS + Kính \nThời gian bảo hành động cơ:2 năm \nHiệu suất sử dụng điện: 11.3 Wh/kg \nMâm giặt kháng khuẩn ABT \nBảng điều khiển: Song ngữ Anh - Việt có nút nhấn Khóa trẻ em \nTự khởi động lại khi có điện \nVan sử dụng mực nước thấp \nCao 93 cm - Ngang 52.7 cm - Sâu 56.9 cm - Nặng 30.1 kg\ngiá: 4726370\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào anh/chị! Cả hai sản phẩm Máy Giặt Aqua chúng tôi bán đều là lồng đứng, không phải lồng ngang. Anh/chị có thể tham khảo thông tin chi tiết về sản phẩm dưới đây:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S: Lồng đứng, khối lượng giặt 9 Kg, giá 5759050 VNĐ\n2. Máy Giặt Aqua cửa trên - 8Kg AQW-KS80GT.S: Lồng đứng, khối lượng giặt 8 Kg, giá 4726370 VNĐ\n\nAnh/chị có thể lựa chọn sản phẩm phù hợp với nhu cầu của mình.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào anh/chị! Cả hai sản phẩm Máy Giặt Aqua chúng tôi bán đều là lồng đứng, không phải lồng ngang. Anh/chị có thể tham khảo thông tin chi tiết về sản phẩm dưới đây:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S: Lồng đứng, khối lượng giặt 9 Kg, giá 5759050 VNĐ\n2. Máy Giặt Aqua cửa trên - 8Kg AQW-KS80GT.S: Lồng đứng, khối lượng giặt 8 Kg, giá 4726370 VNĐ\n\nAnh/chị có thể lựa chọn sản phẩm phù hợp với nhu cầu của mình.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi muốn biết VCC bán những gì?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:\n    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất\n    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi\n    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời\nHôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Máy Giặt KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S\n  Thông số kỹ thuật: \n• Loại máy giặt: Cửa trên \n• Lồng giặt: Lồng đứng \n• Khối lượng giặt: 9 Kg \n• Số người sử dụng: Từ 3 - 5 người \n• Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n• Tốc độ quay vắt tối đa: 700 vòng/phút \n• Chất liệu lồng giặt: Thép không gỉ \n• Chất liệu vỏ máy: Kim loại sơn tĩnh điện \n• Chất liệu nắp máy: Kính chịu lực \n• Hiệu suất sử dụng điện: 10.9 Wh/kg \n• Chương trình giặt: Chăn mền, Vắt cực khô, Giặt mạnh, Giặt ngâm, Giặt nhanh, Giặt nhẹ, Giặt thơm, Giặt tiêu chuẩn \n• Công nghệ giặt: Diệt khuẩn khử mùi Nano Ag+ Giặt nhiều luồng nước phun MultiJet \n• Bảng điều khiển: Song ngữ Anh - Việt \n• Tiện ích: Hẹn giờ giặt, Khóa trẻ em, Van sử dụng mực nước thấp, Vệ sinh lồng giặt \n• Kích thước, khối lượng: Cao 100.6 cm - Ngang 53.3 cm - Sâu 58 cm - Nặng 36 kg \n• Chiều dài ống cấp nước: 128 cm \n• Chiều dài ống thoát nước: 77 cm\ngiá: 5759050\n\n2. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S\n  Thông số kỹ thuật: Cửa trên - Lồng đứng \nKhối lượng giặt: 8 Kg \nKiểu động cơ: Truyền động gián tiếp (dây Curoa) \nTốc độ quay vắt tối đa: 775 vòng/ phút \nChất liệu lồng giặt: Thép không gỉ \nChất liệu vỏ máy: Kim loại sơn tĩnh điện \nChất liệu nắp máy: Nhựa ABS + Kính \nThời gian bảo hành động cơ:2 năm \nHiệu suất sử dụng điện: 11.3 Wh/kg \nMâm giặt kháng khuẩn ABT \nBảng điều khiển: Song ngữ Anh - Việt có nút nhấn Khóa trẻ em \nTự khởi động lại khi có điện \nVan sử dụng mực nước thấp \nCao 93 cm - Ngang 52.7 cm - Sâu 56.9 cm - Nặng 30.1 kg\ngiá: 4726370\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào bạn! Máy Giặt Aqua của chúng tôi đều là loại lồng đứng. Cụ thể, chúng tôi có 2 model là:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S: Lồng đứng, khối lượng giặt 9 Kg, phù hợp cho gia đình 3-5 người.\n2. Máy Giặt Aqua cửa trên - 8Kg AQW-KS80GT.S: Lồng đứng, khối lượng giặt 8 Kg.\n\nCả hai model đều có các tính năng hiện đại và hiệu suất sử dụng điện cao. Nếu bạn cần thêm thông tin, xin vui lòng cho tôi biết!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào bạn! Máy Giặt Aqua của chúng tôi đều là loại lồng đứng. Cụ thể, chúng tôi có 2 model là:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S: Lồng đứng, khối lượng giặt 9 Kg, phù hợp cho gia đình 3-5 người.\n2. Máy Giặt Aqua cửa trên - 8Kg AQW-KS80GT.S: Lồng đứng, khối lượng giặt 8 Kg.\n\nCả hai model đều có các tính năng hiện đại và hiệu suất sử dụng điện cao. Nếu bạn cần thêm thông tin, xin vui lòng cho tôi biết!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm đèn năng lượng mặt trời KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Đèn Trụ cổng Năng Lượng Mặt Trời.\n  Giá tiền: 745030 VND\n  2. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200\n  Giá tiền: 1724030 VND\n  3. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300\n  Giá tiền: 1851740 VND\n  4. ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300\n  Giá tiền: 1915540 VND\n  5. Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK\n  Giá tiền: 2606230 VND\n  6. Bộ đèn đường năng lượng mặt trời .Model:S500 ,hiệu:SUNTEK\n  Giá tiền: 2873530 VND\n  7. Đèn led ốp trần năng lượng mặt trời .Model:H05, hiệu:SUNTEK.\n  Giá tiền: 1123320 VND\n  8. Đèn Sân Vườn Năng Lượng Mặt Trời. Mã: GD-09\n  Giá tiền: 1167980 VND\n  9. Bộ đèn led năng lượng mặt trời SV08. Hiệu: SUNTEK\n  Giá tiền: 1937980 VND\n  10. Bộ đèn đường năng lượng mặt trời Suntek, Model: S150\n  Giá tiền: 1349920 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Chúng tôi có nhiều sản phẩm đèn năng lượng mặt trời với giá cả khác nhau để đáp ứng nhu cầu của bạn. Nếu bạn đang tìm kiếm sản phẩm đèn năng lượng mặt trời với giá bình dân, tôi khuyên bạn nên xem xét các sản phẩm sau:\n\n1. Đèn Trụ cổng Năng Lượng Mặt Trời: Giá tiền 745030 VND\n2. Đèn Sân Vườn Năng Lượng Mặt Trời. Mã: GD-09: Giá tiền 1167980 VND\n\nHai sản phẩm này đều có giá cả phải chăng và phù hợp với nhu cầu sử dụng của gia đình. Tuy nhiên, nếu bạn muốn biết thêm thông tin về các sản phẩm khác, chúng tôi cũng có các sản phẩm cao cấp hơn như:\n\n3. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200: Giá tiền 1724030 VND\n4. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300: Giá tiền 1851740 VND\n...\n\nXin vui lòng cho tôi biết thêm về nhu cầu sử dụng của bạn để tôi có thể giới thiệu sản phẩm phù hợp hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm đèn năng lượng mặt trời KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Đèn Trụ cổng Năng Lượng Mặt Trời.\n  Giá tiền: 745030 VND\n  2. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200\n  Giá tiền: 1724030 VND\n  3. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300\n  Giá tiền: 1851740 VND\n  4. ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300\n  Giá tiền: 1915540 VND\n  5. Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK\n  Giá tiền: 2606230 VND\n  6. Bộ đèn đường năng lượng mặt trời .Model:S500 ,hiệu:SUNTEK\n  Giá tiền: 2873530 VND\n  7. Đèn led ốp trần năng lượng mặt trời .Model:H05, hiệu:SUNTEK.\n  Giá tiền: 1123320 VND\n  8. Đèn Sân Vườn Năng Lượng Mặt Trời. Mã: GD-09\n  Giá tiền: 1167980 VND\n  9. Bộ đèn led năng lượng mặt trời SV08. Hiệu: SUNTEK\n  Giá tiền: 1937980 VND\n  10. Bộ đèn đường năng lượng mặt trời Suntek, Model: S150\n  Giá tiền: 1349920 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Chúng tôi có nhiều sản phẩm đèn năng lượng mặt trời với giá cả khác nhau để đáp ứng nhu cầu của bạn. Nếu bạn đang tìm kiếm sản phẩm đèn năng lượng mặt trời với giá bình dân, tôi khuyên bạn nên xem xét các sản phẩm sau:\n\n1. Đèn Trụ cổng Năng Lượng Mặt Trời: Giá tiền 745030 VND\n2. Đèn Sân Vườn Năng Lượng Mặt Trời. Mã: GD-09: Giá tiền 1167980 VND\n\nHai sản phẩm này đều có giá cả phải chăng và phù hợp với nhu cầu sử dụng của gia đình. Tuy nhiên, nếu bạn muốn biết thêm thông tin về các sản phẩm khác, chúng tôi cũng có các sản phẩm cao cấp hơn như:\n\n3. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200: Giá tiền 1724030 VND\n4. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300: Giá tiền 1851740 VND\n\nXin vui lòng cho tôi biết thêm về nhu cầu sử dụng của bạn để tôi có thể giới thiệu sản phẩm phù hợp hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Chúng tôi có nhiều sản phẩm đèn năng lượng mặt trời với giá cả khác nhau để đáp ứng nhu cầu của bạn. Nếu bạn đang tìm kiếm sản phẩm đèn năng lượng mặt trời với giá bình dân, tôi khuyên bạn nên xem xét các sản phẩm sau:\n\n1. Đèn Trụ cổng Năng Lượng Mặt Trời: Giá tiền 745030 VND\n2. Đèn Sân Vườn Năng Lượng Mặt Trời. Mã: GD-09: Giá tiền 1167980 VND\n\nHai sản phẩm này đều có giá cả phải chăng và phù hợp với nhu cầu sử dụng của gia đình. Tuy nhiên, nếu bạn muốn biết thêm thông tin về các sản phẩm khác, chúng tôi cũng có các sản phẩm cao cấp hơn như:\n\n3. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200: Giá tiền 1724030 VND\n4. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300: Giá tiền 1851740 VND\n\nXin vui lòng cho tôi biết thêm về nhu cầu sử dụng của bạn để tôi có thể giới thiệu sản phẩm phù hợp hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm máy giặt aqua KHÔNG BÁN SẢN PHẨM KHÁC:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S\n  Thông số kỹ thuật: \n• Loại máy giặt: Cửa trên \n• Lồng giặt: Lồng đứng \n• Khối lượng giặt: 9 Kg \n• Số người sử dụng: Từ 3 - 5 người \n• Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n• Tốc độ quay vắt tối đa: 700 vòng/phút \n• Chất liệu lồng giặt: Thép không gỉ \n• Chất liệu vỏ máy: Kim loại sơn tĩnh điện \n• Chất liệu nắp máy: Kính chịu lực \n• Hiệu suất sử dụng điện: 10.9 Wh/kg \n• Chương trình giặt: Chăn mền, Vắt cực khô, Giặt mạnh, Giặt ngâm, Giặt nhanh, Giặt nhẹ, Giặt thơm, Giặt tiêu chuẩn \n• Công nghệ giặt: Diệt khuẩn khử mùi Nano Ag+ Giặt nhiều luồng nước phun MultiJet \n• Bảng điều khiển: Song ngữ Anh - Việt \n• Tiện ích: Hẹn giờ giặt, Khóa trẻ em, Van sử dụng mực nước thấp, Vệ sinh lồng giặt \n• Kích thước, khối lượng: Cao 100.6 cm - Ngang 53.3 cm - Sâu 58 cm - Nặng 36 kg \n• Chiều dài ống cấp nước: 128 cm \n• Chiều dài ống thoát nước: 77 cm\ngiá: 5759050\n\n2. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S\n  Thông số kỹ thuật: Cửa trên - Lồng đứng \nKhối lượng giặt: 8 Kg \nKiểu động cơ: Truyền động gián tiếp (dây Curoa) \nTốc độ quay vắt tối đa: 775 vòng/ phút \nChất liệu lồng giặt: Thép không gỉ \nChất liệu vỏ máy: Kim loại sơn tĩnh điện \nChất liệu nắp máy: Nhựa ABS + Kính \nThời gian bảo hành động cơ:2 năm \nHiệu suất sử dụng điện: 11.3 Wh/kg \nMâm giặt kháng khuẩn ABT \nBảng điều khiển: Song ngữ Anh - Việt có nút nhấn Khóa trẻ em \nTự khởi động lại khi có điện \nVan sử dụng mực nước thấp \nCao 93 cm - Ngang 52.7 cm - Sâu 56.9 cm - Nặng 30.1 kg\ngiá: 4726370\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Cảm ơn bạn đã quan tâm đến sản phẩm máy giặt Aqua của chúng tôi. Hiện tại, chúng tôi chỉ kinh doanh sản phẩm máy giặt Aqua với loại lồng đứng, không có sản phẩm máy giặt lồng ngang.\n\nChúng tôi có hai sản phẩm máy giặt Aqua lồng đứng với các thông số kỹ thuật và giá cả như sau:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S:\n\t* Khối lượng giặt: 9 Kg\n\t* Số người sử dụng: Từ 3 - 5 người\n\t* Tốc độ quay vắt tối đa: 700 vòng/phút\n\t* Hiệu suất sử dụng điện: 10.9 Wh/kg\n\t* Giá: 5,759,050 VND\n\n2. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S:\n\t* Khối lượng giặt: 8 Kg\n\t* Số người sử dụng: Không xác định\n\t* Tốc độ quay vắt tối đa: 775 vòng/phút\n\t* Hiệu suất sử dụng điện: 11.3 Wh/kg\n\t* Giá: 4,726,370 VND\n\nXin vui lòng cho tôi biết thêm về nhu cầu sử dụng của bạn để tôi có thể giới thiệu sản phẩm phù hợp hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm máy giặt aqua KHÔNG BÁN SẢN PHẨM KHÁC:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S\n  Thông số kỹ thuật: \n• Loại máy giặt: Cửa trên \n• Lồng giặt: Lồng đứng \n• Khối lượng giặt: 9 Kg \n• Số người sử dụng: Từ 3 - 5 người \n• Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n• Tốc độ quay vắt tối đa: 700 vòng/phút \n• Chất liệu lồng giặt: Thép không gỉ \n• Chất liệu vỏ máy: Kim loại sơn tĩnh điện \n• Chất liệu nắp máy: Kính chịu lực \n• Hiệu suất sử dụng điện: 10.9 Wh/kg \n• Chương trình giặt: Chăn mền, Vắt cực khô, Giặt mạnh, Giặt ngâm, Giặt nhanh, Giặt nhẹ, Giặt thơm, Giặt tiêu chuẩn \n• Công nghệ giặt: Diệt khuẩn khử mùi Nano Ag+ Giặt nhiều luồng nước phun MultiJet \n• Bảng điều khiển: Song ngữ Anh - Việt \n• Tiện ích: Hẹn giờ giặt, Khóa trẻ em, Van sử dụng mực nước thấp, Vệ sinh lồng giặt \n• Kích thước, khối lượng: Cao 100.6 cm - Ngang 53.3 cm - Sâu 58 cm - Nặng 36 kg \n• Chiều dài ống cấp nước: 128 cm \n• Chiều dài ống thoát nước: 77 cm\ngiá: 5759050\n\n2. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S\n  Thông số kỹ thuật: Cửa trên - Lồng đứng \nKhối lượng giặt: 8 Kg \nKiểu động cơ: Truyền động gián tiếp (dây Curoa) \nTốc độ quay vắt tối đa: 775 vòng/ phút \nChất liệu lồng giặt: Thép không gỉ \nChất liệu vỏ máy: Kim loại sơn tĩnh điện \nChất liệu nắp máy: Nhựa ABS + Kính \nThời gian bảo hành động cơ:2 năm \nHiệu suất sử dụng điện: 11.3 Wh/kg \nMâm giặt kháng khuẩn ABT \nBảng điều khiển: Song ngữ Anh - Việt có nút nhấn Khóa trẻ em \nTự khởi động lại khi có điện \nVan sử dụng mực nước thấp \nCao 93 cm - Ngang 52.7 cm - Sâu 56.9 cm - Nặng 30.1 kg\ngiá: 4726370\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Cảm ơn bạn đã quan tâm đến sản phẩm máy giặt Aqua của chúng tôi. Hiện tại, chúng tôi chỉ kinh doanh sản phẩm máy giặt Aqua với loại lồng đứng, không có sản phẩm máy giặt lồng ngang.\n\nChúng tôi có hai sản phẩm máy giặt Aqua lồng đứng với các thông số kỹ thuật và giá cả như sau:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S:\n\t* Khối lượng giặt: 9 Kg\n\t* Số người sử dụng: Từ 3 - 5 người\n\t* Tốc độ quay vắt tối đa: 700 vòng/phút\n\t* Hiệu suất sử dụng điện: 10.9 Wh/kg\n\t* Giá: 5,759,050 VND\n\n2. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S:\n\t* Khối lượng giặt: 8 Kg\n\t* Số người sử dụng: Không xác định\n\t* Tốc độ quay vắt tối đa: 775 vòng/phút\n\t* Hiệu suất sử dụng điện: 11.3 Wh/kg\n\t* Giá: 4,726,370 VND\n\nXin vui lòng cho tôi biết thêm về nhu cầu sử dụng của bạn để tôi có thể giới thiệu sản phẩm phù hợp hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Cảm ơn bạn đã quan tâm đến sản phẩm máy giặt Aqua của chúng tôi. Hiện tại, chúng tôi chỉ kinh doanh sản phẩm máy giặt Aqua với loại lồng đứng, không có sản phẩm máy giặt lồng ngang.\n\nChúng tôi có hai sản phẩm máy giặt Aqua lồng đứng với các thông số kỹ thuật và giá cả như sau:\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S:\n\t* Khối lượng giặt: 9 Kg\n\t* Số người sử dụng: Từ 3 - 5 người\n\t* Tốc độ quay vắt tối đa: 700 vòng/phút\n\t* Hiệu suất sử dụng điện: 10.9 Wh/kg\n\t* Giá: 5,759,050 VND\n\n2. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S:\n\t* Khối lượng giặt: 8 Kg\n\t* Số người sử dụng: Không xác định\n\t* Tốc độ quay vắt tối đa: 775 vòng/phút\n\t* Hiệu suất sử dụng điện: 11.3 Wh/kg\n\t* Giá: 4,726,370 VND\n\nXin vui lòng cho tôi biết thêm về nhu cầu sử dụng của bạn để tôi có thể giới thiệu sản phẩm phù hợp hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Tôi muốn biết VCC bán những gì?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:\n    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất\n    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi\n    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời\nHôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Bạn đang quan tâm đến dịch vụ, chính sách của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Quý khách xin thông cảm! Tôi không hiểu câu hỏi của bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Bạn đang quan tâm đến dịch vụ, chính sách của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Quý khách xin thông cảm! Tôi không hiểu câu hỏi của bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Bạn đang quan tâm đến dịch vụ, chính sách của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Quý khách xin thông cảm! Tôi không hiểu câu hỏi của bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "hello",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "chính sách ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Quý khách xin thông cảm! Tôi không hiểu câu hỏi của bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn làm được gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi có thể thực hiện những yêu cầu sau: \n    1. Tìm kiếm sản phẩm mà khách hàng yêu cầu \n    2. Đưa ra các thông tin chi tiết về sản phẩm \n    3. Đưa ra giá thành sản phẩm với số tiền bạn có \n    4. Gợi ý những sản phẩm tương tự \nHãy cho tôi biết bạn quan tâm đến dịch vụ nào, hoặc nếu bạn cần thêm thông tin chi tiết về bất kỳ dịch vụ nào.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tìm kiếm sản phẩm mà khách hàng yêu câu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Hiện tại tôi không thể hiểu được yêu cầu của bạn. Bạn có thể cung cấp thêm thông tin hoặc câu hỏi cụ thể mà bạn muốn trao đổi với tôi không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "/Bạn đang quan tâm đến dịch vụ, chính sách của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Quý khách xin thông cảm! Tôi không hiểu câu hỏi của bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "bạn làm được gfi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi có thể thực hiện những yêu cầu sau: \n    1. Tìm kiếm sản phẩm mà khách hàng yêu cầu \n    2. Đưa ra các thông tin chi tiết về sản phẩm \n    3. Đưa ra giá thành sản phẩm với số tiền bạn có \n    4. Gợi ý những sản phẩm tương tự \nHãy cho tôi biết bạn quan tâm đến dịch vụ nào, hoặc nếu bạn cần thêm thông tin chi tiết về bất kỳ dịch vụ nào.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "gợi ý sản phẩm tương tự",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tôi xin lỗi nếu có bất kỳ sự không hài lòng nào về sản phẩm của chúng tôi. Chúng tôi luôn cố gắng cung cấp những sản phẩm chất lượng và đảm bảo sự hài lòng của khách hàng. Nếu bạn có bất kỳ vấn đề nào với sản phẩm, vui lòng liên hệ với nhân viên hỗ trợ khách hàng của chúng tôi để được giúp đỡ và hỗ trợ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Bạn có thể cho tôi biết thêm thông tin chi tiết sản phẩm bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Điều hòa là một sản phẩm rất quan trọng trong mỗi gia đình. Hiện nay, trên thị trường Việt Nam có nhiều thương hiệu điều hòa khác nhau với các tính năng và giá cả khác nhau.\n\nDưới đây là một số điều hòa được khách hàng ưa chuộng hiện nay:\n\n1. **Điều hòa Daikin**: Được biết đến với chất lượng cao và tiết kiệm điện năng. Giá cả dao động từ 8 triệu đến 30 triệu đồng.\n\n2. **Điều hòa Panasonic**: Có thiết kế hiện đại và nhiều tính năng thông minh. Giá cả dao động từ 10 triệu đến 40 triệu đồng.\n\n3. **Điều hòa Toshiba**: Được ưa chuộng bởi độ bền và hiệu suất làm lạnh cao. Giá cả dao động từ 8 triệu đến 25 triệu đồng.\n\n4. **Điều hòa LG**: Có nhiều mẫu mã và tính năng khác nhau, phù hợp với từng nhu cầu của khách hàng. Giá cả dao động từ 7 triệu đến 30 triệu đồng.\n\n5. **Điều hòa Samsung**: Được biết đến với thiết kế hiện đại và nhiều tính năng cao cấp. Giá cả dao động từ 12 triệu đến 50 triệu đồng.\n\nNếu bạn có thể cho tôi biết thêm thông tin chi tiết về nhu cầu và kinh phí của bạn, tôi sẽ giúp bạn lựa chọn sản phẩm điều hòa phù hợp nhất.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Bạn có thể cho tôi biết thêm thông tin chi tiết sản phẩm bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Điều hòa là một sản phẩm rất quan trọng trong mỗi gia đình. Hiện nay, trên thị trường Việt Nam có nhiều thương hiệu điều hòa khác nhau với các tính năng và giá cả khác nhau.\n\nDưới đây là một số điều hòa được khách hàng ưa chuộng hiện nay:\n\n1. **Điều hòa Daikin**: Được biết đến với chất lượng cao và tiết kiệm điện năng. Giá cả dao động từ 8 triệu đến 30 triệu đồng.\n\n2. **Điều hòa Panasonic**: Có thiết kế hiện đại và nhiều tính năng thông minh. Giá cả dao động từ 10 triệu đến 40 triệu đồng.\n\n3. **Điều hòa Toshiba**: Được ưa chuộng bởi độ bền và hiệu suất làm lạnh cao. Giá cả dao động từ 8 triệu đến 25 triệu đồng.\n\n4. **Điều hòa LG**: Có nhiều mẫu mã và tính năng khác nhau, phù hợp với từng nhu cầu của khách hàng. Giá cả dao động từ 7 triệu đến 30 triệu đồng.\n\n5. **Điều hòa Samsung**: Được biết đến với thiết kế hiện đại và nhiều tính năng cao cấp. Giá cả dao động từ 12 triệu đến 50 triệu đồng.\n\nNếu bạn có thể cho tôi biết thêm thông tin chi tiết về nhu cầu và kinh phí của bạn, tôi sẽ giúp bạn lựa chọn sản phẩm điều hòa phù hợp nhất. Ví dụ, bạn có thể cho tôi biết diện tích phòng của bạn là bao nhiêu, bạn cần điều hòa có những tính năng gì (ví dụ như chức năng làm lạnh nhanh, chức năng khử mùi...), và bạn có ngân sách là bao nhiêu cho sản phẩm điều hòa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Điều hòa là một sản phẩm rất quan trọng trong mỗi gia đình. Hiện nay, trên thị trường Việt Nam có nhiều thương hiệu điều hòa khác nhau với các tính năng và giá cả khác nhau.\n\nDưới đây là một số điều hòa được khách hàng ưa chuộng hiện nay:\n\n1. **Điều hòa Daikin**: Được biết đến với chất lượng cao và tiết kiệm điện năng. Giá cả dao động từ 8 triệu đến 30 triệu đồng.\n\n2. **Điều hòa Panasonic**: Có thiết kế hiện đại và nhiều tính năng thông minh. Giá cả dao động từ 10 triệu đến 40 triệu đồng.\n\n3. **Điều hòa Toshiba**: Được ưa chuộng bởi độ bền và hiệu suất làm lạnh cao. Giá cả dao động từ 8 triệu đến 25 triệu đồng.\n\n4. **Điều hòa LG**: Có nhiều mẫu mã và tính năng khác nhau, phù hợp với từng nhu cầu của khách hàng. Giá cả dao động từ 7 triệu đến 30 triệu đồng.\n\n5. **Điều hòa Samsung**: Được biết đến với thiết kế hiện đại và nhiều tính năng cao cấp. Giá cả dao động từ 12 triệu đến 50 triệu đồng.\n\nNếu bạn có thể cho tôi biết thêm thông tin chi tiết về nhu cầu và kinh phí của bạn, tôi sẽ giúp bạn lựa chọn sản phẩm điều hòa phù hợp nhất. Ví dụ, bạn có thể cho tôi biết diện tích phòng của bạn là bao nhiêu, bạn cần điều hòa có những tính năng gì (ví dụ như chức năng làm lạnh nhanh, chức năng khử mùi...), và bạn có ngân sách là bao nhiêu cho sản phẩm điều hòa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Bạn có thể cho tôi biết thêm thông tin chi tiết sản phẩm bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Điều hòa là một sản phẩm rất quan trọng trong mỗi gia đình. Hiện nay, trên thị trường Việt Nam có nhiều thương hiệu điều hòa khác nhau với các tính năng và giá cả khác nhau.\n\nDưới đây là một số điều hòa được khách hàng ưa chuộng hiện nay:\n\n1. **Điều hòa Daikin**: Được biết đến với chất lượng cao và tiết kiệm điện năng. Giá cả dao động từ 8 triệu đến 30 triệu đồng.\n\n2. **Điều hòa Panasonic**: Có thiết kế hiện đại và nhiều tính năng thông minh. Giá cả dao động từ 10 triệu đến 40 triệu đồng.\n\n3. **Điều hòa Toshiba**: Được ưa chuộng bởi độ bền và hiệu suất làm lạnh cao. Giá cả dao động từ 8 triệu đến 25 triệu đồng.\n\n4. **Điều hòa LG**: Có nhiều mẫu mã và tính năng khác nhau, phù hợp với từng nhu cầu của khách hàng. Giá cả dao động từ 7 triệu đến 30 triệu đồng.\n\n5. **Điều hòa Samsung**: Được biết đến với thiết kế hiện đại và nhiều tính năng cao cấp. Giá cả dao động từ 12 triệu đến 50 triệu đồng.\n\nNếu bạn có thể cho tôi biết thêm thông tin chi tiết về nhu cầu và kinh phí của bạn, tôi sẽ giúp bạn lựa chọn sản phẩm điều hòa phù hợp nhất. Ví dụ, bạn có thể cho tôi biết diện tích phòng của bạn là bao nhiêu, bạn cần điều hòa có những tính năng gì (ví dụ như chức năng làm lạnh nhanh, chức năng khử mùi...), và bạn có ngân sách là bao nhiêu cho sản phẩm điều hòa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Bạn có thể cho tôi biết thêm thông tin chi tiết sản phẩm bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Điều hòa là một sản phẩm rất quan trọng trong mỗi gia đình. Hiện nay, trên thị trường Việt Nam có nhiều thương hiệu điều hòa khác nhau với các tính năng và giá cả khác nhau.\n\nDưới đây là một số điều hòa được khách hàng ưa chuộng hiện nay:\n\n1. **Điều hòa Daikin**: Được biết đến với chất lượng cao và tiết kiệm điện năng. Giá cả dao động từ 8 triệu đến 30 triệu đồng.\n\n2. **Điều hòa Panasonic**: Có thiết kế hiện đại và nhiều tính năng thông minh. Giá cả dao động từ 10 triệu đến 40 triệu đồng.\n\n3. **Điều hòa Toshiba**: Được ưa chuộng bởi độ bền và hiệu suất làm lạnh cao. Giá cả dao động từ 8 triệu đến 25 triệu đồng.\n\n4. **Điều hòa LG**: Có nhiều mẫu mã và tính năng khác nhau, phù hợp với từng nhu cầu của khách hàng. Giá cả dao động từ 7 triệu đến 30 triệu đồng.\n\n5. **Điều hòa Samsung**: Được biết đến với thiết kế hiện đại và nhiều tính năng cao cấp. Giá cả dao động từ 12 triệu đến 50 triệu đồng.\n\nNếu bạn có thể cho tôi biết thêm thông tin chi tiết về nhu cầu và kinh phí của bạn, tôi sẽ giúp bạn lựa chọn sản phẩm điều hòa phù hợp nhất. Ví dụ, bạn có thể cho tôi biết diện tích phòng của bạn là bao nhiêu, bạn cần điều hòa có những tính năng gì (ví dụ như chức năng làm lạnh nhanh, chức năng khử mùi...), và bạn có ngân sách là bao nhiêu cho sản phẩm điều hòa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Điều hòa là một sản phẩm rất quan trọng trong mỗi gia đình. Hiện nay, trên thị trường Việt Nam có nhiều thương hiệu điều hòa khác nhau với các tính năng và giá cả khác nhau.\n\nDưới đây là một số điều hòa được khách hàng ưa chuộng hiện nay:\n\n1. **Điều hòa Daikin**: Được biết đến với chất lượng cao và tiết kiệm điện năng. Giá cả dao động từ 8 triệu đến 30 triệu đồng.\n\n2. **Điều hòa Panasonic**: Có thiết kế hiện đại và nhiều tính năng thông minh. Giá cả dao động từ 10 triệu đến 40 triệu đồng.\n\n3. **Điều hòa Toshiba**: Được ưa chuộng bởi độ bền và hiệu suất làm lạnh cao. Giá cả dao động từ 8 triệu đến 25 triệu đồng.\n\n4. **Điều hòa LG**: Có nhiều mẫu mã và tính năng khác nhau, phù hợp với từng nhu cầu của khách hàng. Giá cả dao động từ 7 triệu đến 30 triệu đồng.\n\n5. **Điều hòa Samsung**: Được biết đến với thiết kế hiện đại và nhiều tính năng cao cấp. Giá cả dao động từ 12 triệu đến 50 triệu đồng.\n\nNếu bạn có thể cho tôi biết thêm thông tin chi tiết về nhu cầu và kinh phí của bạn, tôi sẽ giúp bạn lựa chọn sản phẩm điều hòa phù hợp nhất. Ví dụ, bạn có thể cho tôi biết diện tích phòng của bạn là bao nhiêu, bạn cần điều hòa có những tính năng gì (ví dụ như chức năng làm lạnh nhanh, chức năng khử mùi...), và bạn có ngân sách là bao nhiêu cho sản phẩm điều hòa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Bên mình không có thông tin mà bạn yêu cầu. Có phải bạn tìm kiếm sản phẩm đèn năng lượng mặt trời. Tôi có một số đề xuất mới cho bạn",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Đèn năng lượng mặt trời là một sản phẩm rất tiện lợi và tiết kiệm điện năng. Hiện nay, trên thị trường Việt Nam có nhiều thương hiệu đèn năng lượng mặt trời khác nhau với các tính năng và giá cả khác nhau.\n\nDưới đây là một số đèn năng lượng mặt trời được khách hàng ưa chuộng hiện nay:\n\n1. **Đèn năng lượng mặt trời Rạng Đông**: Được biết đến với chất lượng cao và tuổi thọ lâu dài. Giá cả dao động từ 500.000 đến 2.000.000 đồng.\n\n2. **Đèn năng lượng mặt trời Solar**: Có thiết kế hiện đại và nhiều tính năng thông minh. Giá cả dao động từ 800.000 đến 3.000.000 đồng.\n\n3. **Đèn năng lượng mặt trời HT**: Được ưa chuộng bởi độ bền và hiệu suất chiếu sáng cao. Giá cả dao động từ 600.000 đến 2.500.000 đồng.\n\n4. **Đèn năng lượng mặt trời Ledlife**: Có nhiều mẫu mã và tính năng khác nhau, phù hợp với từng nhu cầu của khách hàng. Giá cả dao động từ 400.000 đến 2.000.000 đồng.\n\n5. **Đèn năng lượng mặt trời Suntek**: Được biết đến với thiết kế hiện đại và nhiều tính năng cao cấp. Giá cả dao động từ 1.000.000 đến 5.000.000 đồng.\n\nNếu bạn có thể cho tôi biết thêm thông tin chi tiết về nhu cầu và kinh phí của bạn, tôi sẽ giúp bạn lựa chọn sản phẩm đèn năng lượng mặt trời phù hợp nhất. Ví dụ, bạn có thể cho tôi biết diện tích khu vực cần chiếu sáng là bao nhiêu, bạn cần đèn năng lượng mặt trời có những tính năng gì (ví dụ như chức năng tự động bật tắt, chức năng chống nước...), và bạn có ngân sách là bao nhiêu cho sản phẩm đèn năng lượng mặt trời.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Bên mình không có thông tin mà bạn yêu cầu. Có phải bạn tìm kiếm sản phẩm đèn năng lượng mặt trời. Tôi có một số đề xuất mới cho bạn",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn đang tìm kiếm đèn năng lượng mặt trời. Như tôi đã đề xuất trước đây, trên thị trường Việt Nam có nhiều thương hiệu đèn năng lượng mặt trời khác nhau với các tính năng và giá cả khác nhau.\n\nDưới đây là một số đèn năng lượng mặt trời được khách hàng ưa chuộng hiện nay:\n\n1. **Đèn năng lượng mặt trời Rạng Đông**: Được biết đến với chất lượng cao và tuổi thọ lâu dài. Giá cả dao động từ 500.000 đến 2.000.000 đồng.\n\n2. **Đèn năng lượng mặt trời Solar**: Có thiết kế hiện đại và nhiều tính năng thông minh. Giá cả dao động từ 800.000 đến 3.000.000 đồng.\n\n3. **Đèn năng lượng mặt trời HT**: Được ưa chuộng bởi độ bền và hiệu suất chiếu sáng cao. Giá cả dao động từ 600.000 đến 2.500.000 đồng.\n\n4. **Đèn năng lượng mặt trời Ledlife**: Có nhiều mẫu mã và tính năng khác nhau, phù hợp với từng nhu cầu của khách hàng. Giá cả dao động từ 400.000 đến 2.000.000 đồng.\n\n5. **Đèn năng lượng mặt trời Suntek**: Được biết đến với thiết kế hiện đại và nhiều tính năng cao cấp. Giá cả dao động từ 1.000.000 đến 5.000.000 đồng.\n\nĐể tôi có thể giúp bạn lựa chọn sản phẩm đèn năng lượng mặt trời phù hợp nhất, xin vui lòng cho tôi biết thêm thông tin chi tiết về nhu cầu và kinh phí của bạn. Ví dụ, bạn có thể cho tôi biết diện tích khu vực cần chiếu sáng là bao nhiêu, bạn cần đèn năng lượng mặt trời có những tính năng gì (ví dụ như chức năng tự động bật tắt, chức năng chống nước...), và bạn có ngân sách là bao nhiêu cho sản phẩm đèn năng lượng mặt trời.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "đèn năng lượng mặt trời",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn đang tìm kiếm đèn năng lượng mặt trời. Như tôi đã đề xuất trước đây, trên thị trường Việt Nam có nhiều thương hiệu đèn năng lượng mặt trời khác nhau với các tính năng và giá cả khác nhau.\n\nDưới đây là một số đèn năng lượng mặt trời được khách hàng ưa chuộng hiện nay:\n\n1. **Đèn năng lượng mặt trời Rạng Đông**: Được biết đến với chất lượng cao và tuổi thọ lâu dài. Giá cả dao động từ 500.000 đến 2.000.000 đồng.\n\n2. **Đèn năng lượng mặt trời Solar**: Có thiết kế hiện đại và nhiều tính năng thông minh. Giá cả dao động từ 800.000 đến 3.000.000 đồng.\n\n3. **Đèn năng lượng mặt trời HT**: Được ưa chuộng bởi độ bền và hiệu suất chiếu sáng cao. Giá cả dao động từ 600.000 đến 2.500.000 đồng.\n\n4. **Đèn năng lượng mặt trời Ledlife**: Có nhiều mẫu mã và tính năng khác nhau, phù hợp với từng nhu cầu của khách hàng. Giá cả dao động từ 400.000 đến 2.000.000 đồng.\n\n5. **Đèn năng lượng mặt trời Suntek**: Được biết đến với thiết kế hiện đại và nhiều tính năng cao cấp. Giá cả dao động từ 1.000.000 đến 5.000.000 đồng.\n\nĐể tôi có thể giúp bạn lựa chọn sản phẩm đèn năng lượng mặt trời phù hợp nhất, xin vui lòng cho tôi biết thêm thông tin chi tiết về nhu cầu và kinh phí của bạn. Ví dụ, bạn có thể cho tôi biết diện tích khu vực cần chiếu sáng là bao nhiêu, bạn cần đèn năng lượng mặt trời có những tính năng gì (ví dụ như chức năng tự động bật tắt, chức năng chống nước...), và bạn có ngân sách là bao nhiêu cho sản phẩm đèn năng lượng mặt trời.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm điều hòa mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Điều hòa MDV - Inverter 9000 BTU\n  Giá tiền: 6014184 VND\n  2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n  Giá tiền: 7246030 VND\n  3. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 9423040 VND\n  4. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 11200420 VND\n  5. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n  Giá tiền: 11740520 VND\n  6. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023\n  Giá tiền: 12070850 VND\n  7. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 12461240 VND\n  8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023\n  Giá tiền: 14851100 VND\n  9. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 14917980 VND\n  10. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023\n  Giá tiền: 16508470 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn đang tìm kiếm điều hòa. Hiện nay trên thị trường Việt Nam có nhiều thương hiệu điều hòa khác nhau với các tính năng và giá cả khác nhau.\n\nDưới đây là một số điều hòa được khách hàng ưa chuộng hiện nay:\n\n1. **Điều hòa MDV - Inverter 9000 BTU**: Giá tiền: 6014184 VND\n\n2. **Điều hòa MDV 1 chiều 12000 BTU - Model 2023**: Giá tiền: 7246030 VND\n\n3. **Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023**: Giá tiền: 9423040 VND\n\n4. **Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023**: Giá tiền: 11200420 VND\n\n5. **Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023**: Giá tiền: 11740520 VND\n\n6. **Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023**: Giá tiền: 12070850 VND\n\n7. **Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023**: Giá tiền: 12461240 VND\n\n8. **Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023**: Giá tiền: 14851100 VND\n\n9. **Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023**: Giá tiền: 14917980 VND\n\n10. **Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023**: Giá tiền: 16508470 VND\n\nĐể tôi có thể giúp bạn lựa chọn sản phẩm điều hòa phù hợp nhất, xin vui lòng cho tôi biết thêm thông tin chi tiết về nhu cầu và kinh phí của bạn. Ví dụ, bạn có thể cho tôi biết diện tích khu vực cần làm mát là bao nhiêu, bạn cần điều hòa có những tính năng gì (ví dụ như chức năng tự động bật tắt, chức năng chống ẩm...), và bạn có ngân sách là bao nhiêu cho sản phẩm điều hòa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm điều hòa mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Điều hòa MDV - Inverter 9000 BTU\n  Giá tiền: 6014184 VND\n  2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n  Giá tiền: 7246030 VND\n  3. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 9423040 VND\n  4. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 11200420 VND\n  5. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n  Giá tiền: 11740520 VND\n  6. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023\n  Giá tiền: 12070850 VND\n  7. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 12461240 VND\n  8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023\n  Giá tiền: 14851100 VND\n  9. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 14917980 VND\n  10. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023\n  Giá tiền: 16508470 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn đang tìm kiếm điều hòa. Hiện nay trên thị trường Việt Nam có nhiều thương hiệu điều hòa khác nhau với các tính năng và giá cả khác nhau.\n\nDưới đây là một số điều hòa được khách hàng ưa chuộng hiện nay:\n\n1. **Điều hòa MDV - Inverter 9000 BTU**: Giá tiền: 6014184 VND\n\n2. **Điều hòa MDV 1 chiều 12000 BTU - Model 2023**: Giá tiền: 7246030 VND\n\n3. **Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023**: Giá tiền: 9423040 VND\n\n4. **Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023**: Giá tiền: 11200420 VND\n\n5. **Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023**: Giá tiền: 11740520 VND\n\n6. **Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023**: Giá tiền: 12070850 VND\n\n7. **Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023**: Giá tiền: 12461240 VND\n\n8. **Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023**: Giá tiền: 14851100 VND\n\n9. **Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023**: Giá tiền: 14917980 VND\n\n10. **Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023**: Giá tiền: 16508470 VND\n\nĐể tôi có thể giúp bạn lựa chọn sản phẩm điều hòa phù hợp nhất, xin vui lòng cho tôi biết thêm thông tin chi tiết về nhu cầu và kinh phí của bạn. Ví dụ, bạn có thể cho tôi biết diện tích khu vực cần làm mát là bao nhiêu, bạn cần điều hòa có những tính năng gì (ví dụ như chức năng tự động bật tắt, chức năng chống ẩm...), và bạn có ngân sách là bao nhiêu cho sản phẩm điều hòa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn đang tìm kiếm điều hòa. Hiện nay trên thị trường Việt Nam có nhiều thương hiệu điều hòa khác nhau với các tính năng và giá cả khác nhau.\n\nDưới đây là một số điều hòa được khách hàng ưa chuộng hiện nay:\n\n1. **Điều hòa MDV - Inverter 9000 BTU**: Giá tiền: 6014184 VND\n\n2. **Điều hòa MDV 1 chiều 12000 BTU - Model 2023**: Giá tiền: 7246030 VND\n\n3. **Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023**: Giá tiền: 9423040 VND\n\n4. **Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023**: Giá tiền: 11200420 VND\n\n5. **Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023**: Giá tiền: 11740520 VND\n\n6. **Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023**: Giá tiền: 12070850 VND\n\n7. **Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023**: Giá tiền: 12461240 VND\n\n8. **Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023**: Giá tiền: 14851100 VND\n\n9. **Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023**: Giá tiền: 14917980 VND\n\n10. **Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023**: Giá tiền: 16508470 VND\n\nĐể tôi có thể giúp bạn lựa chọn sản phẩm điều hòa phù hợp nhất, xin vui lòng cho tôi biết thêm thông tin chi tiết về nhu cầu và kinh phí của bạn. Ví dụ, bạn có thể cho tôi biết diện tích khu vực cần làm mát là bao nhiêu, bạn cần điều hòa có những tính năng gì (ví dụ như chức năng tự động bật tắt, chức năng chống ẩm...), và bạn có ngân sách là bao nhiêu cho sản phẩm điều hòa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm điều hòa mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Điều hòa MDV - Inverter 9000 BTU\n  Giá tiền: 6014184 VND\n  2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n  Giá tiền: 7246030 VND\n  3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n  Giá tiền: 11740520 VND\n  4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 9423040 VND\n  5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 11200420 VND\n  6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023\n  Giá tiền: 16508470 VND\n  7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023\n  Giá tiền: 12070850 VND\n  8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023\n  Giá tiền: 14851100 VND\n  9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 12461240 VND\n  10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 14917980 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn đang tìm kiếm điều hòa. Hiện nay trên thị trường Việt Nam có nhiều thương hiệu điều hòa khác nhau với các tính năng và giá cả khác nhau.\n\nDưới đây là một số điều hòa được khách hàng ưa chuộng hiện nay:\n\n1. **Điều hòa MDV - Inverter 9000 BTU**: Giá tiền: 6014184 VND\n\n2. **Điều hòa MDV 1 chiều 12000 BTU - Model 2023**: Giá tiền: 7246030 VND\n\n3. **Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023**: Giá tiền: 9423040 VND\n\n4. **Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023**: Giá tiền: 11200420 VND\n\n5. **Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023**: Giá tiền: 11740520 VND\n\n6. **Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023**: Giá tiền: 12070850 VND\n\n7. **Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023**: Giá tiền: 12461240 VND\n\n8. **Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023**: Giá tiền: 14851100 VND\n\n9. **Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023**: Giá tiền: 14917980 VND\n\n10. **Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023**: Giá tiền: 16508470 VND\n\nĐể tôi có thể giúp bạn lựa chọn sản phẩm điều hòa phù hợp nhất, xin vui lòng cho tôi biết thêm thông tin chi tiết về nhu cầu và kinh phí của bạn. Ví dụ, bạn có thể cho tôi biết diện tích khu vực cần làm mát là bao nhiêu, bạn cần điều hòa có những tính năng gì (ví dụ như chức năng tự động bật tắt, chức năng chống ẩm...), và bạn có ngân sách là bao nhiêu cho sản phẩm điều hòa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm điều hòa mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Điều hòa MDV - Inverter 9000 BTU\n  Giá tiền: 6014184 VND\n  2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n  Giá tiền: 7246030 VND\n  3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n  Giá tiền: 11740520 VND\n  4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 9423040 VND\n  5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 11200420 VND\n  6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023\n  Giá tiền: 16508470 VND\n  7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023\n  Giá tiền: 12070850 VND\n  8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023\n  Giá tiền: 14851100 VND\n  9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 12461240 VND\n  10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 14917980 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn đang tìm kiếm điều hòa. Hiện nay trên thị trường Việt Nam có nhiều thương hiệu điều hòa khác nhau với các tính năng và giá cả khác nhau.\n\nDưới đây là một số điều hòa được khách hàng ưa chuộng hiện nay:\n\n1. **Điều hòa MDV - Inverter 9000 BTU**: Giá tiền: 6014184 VND\n\n2. **Điều hòa MDV 1 chiều 12000 BTU - Model 2023**: Giá tiền: 7246030 VND\n\n3. **Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023**: Giá tiền: 9423040 VND\n\n4. **Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023**: Giá tiền: 11200420 VND\n\n5. **Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023**: Giá tiền: 11740520 VND\n\n6. **Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023**: Giá tiền: 12070850 VND\n\n7. **Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023**: Giá tiền: 12461240 VND\n\n8. **Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023**: Giá tiền: 14851100 VND\n\n9. **Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023**: Giá tiền: 14917980 VND\n\n10. **Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023**: Giá tiền: 16508470 VND\n\nĐể tôi có thể giúp bạn lựa chọn sản phẩm điều hòa phù hợp nhất, xin vui lòng cho tôi biết thêm thông tin chi tiết về nhu cầu và kinh phí của bạn. Ví dụ, bạn có thể cho tôi biết diện tích khu vực cần làm mát là bao nhiêu, bạn cần điều hòa có những tính năng gì (ví dụ như chức năng tự động bật tắt, chức năng chống ẩm...), và bạn có ngân sách là bao nhiêu cho sản phẩm điều hòa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn đang tìm kiếm điều hòa. Hiện nay trên thị trường Việt Nam có nhiều thương hiệu điều hòa khác nhau với các tính năng và giá cả khác nhau.\n\nDưới đây là một số điều hòa được khách hàng ưa chuộng hiện nay:\n\n1. **Điều hòa MDV - Inverter 9000 BTU**: Giá tiền: 6014184 VND\n\n2. **Điều hòa MDV 1 chiều 12000 BTU - Model 2023**: Giá tiền: 7246030 VND\n\n3. **Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023**: Giá tiền: 9423040 VND\n\n4. **Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023**: Giá tiền: 11200420 VND\n\n5. **Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023**: Giá tiền: 11740520 VND\n\n6. **Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023**: Giá tiền: 12070850 VND\n\n7. **Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023**: Giá tiền: 12461240 VND\n\n8. **Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023**: Giá tiền: 14851100 VND\n\n9. **Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023**: Giá tiền: 14917980 VND\n\n10. **Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023**: Giá tiền: 16508470 VND\n\nĐể tôi có thể giúp bạn lựa chọn sản phẩm điều hòa phù hợp nhất, xin vui lòng cho tôi biết thêm thông tin chi tiết về nhu cầu và kinh phí của bạn. Ví dụ, bạn có thể cho tôi biết diện tích khu vực cần làm mát là bao nhiêu, bạn cần điều hòa có những tính năng gì (ví dụ như chức năng tự động bật tắt, chức năng chống ẩm...), và bạn có ngân sách là bao nhiêu cho sản phẩm điều hòa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm điều hòa mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Điều hòa MDV - Inverter 9000 BTU\n  Giá tiền: 6014184 VND\n  2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n  Giá tiền: 7246030 VND\n  3. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 9423040 VND\n  4. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 11200420 VND\n  5. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n  Giá tiền: 11740520 VND\n  6. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023\n  Giá tiền: 12070850 VND\n  7. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 12461240 VND\n  8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023\n  Giá tiền: 14851100 VND\n  9. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 14917980 VND\n  10. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023\n  Giá tiền: 16508470 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Bạn đang tìm kiếm điều hòa giá rẻ. Tôi sẽ giúp bạn so sánh các điều hòa giá rẻ hiện nay.\n\nDưới đây là một số điều hòa giá rẻ được khách hàng ưa chuộng hiện nay:\n\n**Điều hòa giá rẻ nhất:**\n\n1. **Điều hòa MDV - Inverter 9000 BTU**: Giá tiền: 6014184 VND\n\n**Điều hòa giá rẻ tiếp theo:**\n\n2. **Điều hòa MDV 1 chiều 12000 BTU - Model 2023**: Giá tiền: 7246030 VND\n\nCả hai điều hòa này đều thuộc phân khúc giá rẻ, nhưng có một số điểm khác biệt. Điều hòa MDV - Inverter 9000 BTU có công suất nhỏ hơn, nhưng lại có giá rẻ hơn. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 có công suất lớn hơn, nhưng lại có giá cao hơn một chút.\n\nĐể giúp bạn lựa chọn sản phẩm điều hòa phù hợp nhất, xin vui lòng cho tôi biết thêm thông tin chi tiết về nhu cầu và kinh phí của bạn. Ví dụ, bạn có thể cho tôi biết diện tích khu vực cần làm mát là bao nhiêu, bạn cần điều hòa có những tính năng gì (ví dụ như chức năng tự động bật tắt, chức năng chống ẩm...), và bạn có ngân sách là bao nhiêu cho sản phẩm điều hòa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm điều hòa mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Điều hòa MDV - Inverter 9000 BTU\n  Giá tiền: 6014184 VND\n  2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n  Giá tiền: 7246030 VND\n  3. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 9423040 VND\n  4. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 11200420 VND\n  5. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n  Giá tiền: 11740520 VND\n  6. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023\n  Giá tiền: 12070850 VND\n  7. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 12461240 VND\n  8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023\n  Giá tiền: 14851100 VND\n  9. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 14917980 VND\n  10. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023\n  Giá tiền: 16508470 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Bạn đang tìm kiếm điều hòa giá rẻ. Tôi sẽ giúp bạn so sánh các điều hòa giá rẻ hiện nay.\n\nDưới đây là một số điều hòa giá rẻ được khách hàng ưa chuộng hiện nay:\n\n**Điều hòa giá rẻ nhất:**\n\n1. **Điều hòa MDV - Inverter 9000 BTU**: Giá tiền: 6014184 VND\n\n**Điều hòa giá rẻ tiếp theo:**\n\n2. **Điều hòa MDV 1 chiều 12000 BTU - Model 2023**: Giá tiền: 7246030 VND\n\nCả hai điều hòa này đều thuộc phân khúc giá rẻ, nhưng có một số điểm khác biệt. Điều hòa MDV - Inverter 9000 BTU có công suất nhỏ hơn, nhưng lại có giá rẻ hơn. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 có công suất lớn hơn, nhưng lại có giá cao hơn một chút.\n\nNếu bạn đang tìm kiếm điều hòa giá rẻ với công suất nhỏ hơn, điều hòa MDV - Inverter 9000 BTU là một lựa chọn phù hợp. Tuy nhiên, nếu bạn cần điều hòa có công suất lớn hơn, điều hòa MDV 1 chiều 12000 BTU - Model 2023 là một lựa chọn tốt hơn.\n\nĐể giúp bạn lựa chọn sản phẩm điều hòa phù hợp nhất, xin vui lòng cho tôi biết thêm thông tin chi tiết về nhu cầu và kinh phí của bạn. Ví dụ, bạn có thể cho tôi biết diện tích khu vực cần làm mát là bao nhiêu, bạn cần điều hòa có những tính năng gì (ví dụ như chức năng tự động bật tắt, chức năng chống ẩm...), và bạn có ngân sách là bao nhiêu cho sản phẩm điều hòa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "so sánh điều hòa giá rẻ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Bạn đang tìm kiếm điều hòa giá rẻ. Tôi sẽ giúp bạn so sánh các điều hòa giá rẻ hiện nay.\n\nDưới đây là một số điều hòa giá rẻ được khách hàng ưa chuộng hiện nay:\n\n**Điều hòa giá rẻ nhất:**\n\n1. **Điều hòa MDV - Inverter 9000 BTU**: Giá tiền: 6014184 VND\n\n**Điều hòa giá rẻ tiếp theo:**\n\n2. **Điều hòa MDV 1 chiều 12000 BTU - Model 2023**: Giá tiền: 7246030 VND\n\nCả hai điều hòa này đều thuộc phân khúc giá rẻ, nhưng có một số điểm khác biệt. Điều hòa MDV - Inverter 9000 BTU có công suất nhỏ hơn, nhưng lại có giá rẻ hơn. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 có công suất lớn hơn, nhưng lại có giá cao hơn một chút.\n\nNếu bạn đang tìm kiếm điều hòa giá rẻ với công suất nhỏ hơn, điều hòa MDV - Inverter 9000 BTU là một lựa chọn phù hợp. Tuy nhiên, nếu bạn cần điều hòa có công suất lớn hơn, điều hòa MDV 1 chiều 12000 BTU - Model 2023 là một lựa chọn tốt hơn.\n\nĐể giúp bạn lựa chọn sản phẩm điều hòa phù hợp nhất, xin vui lòng cho tôi biết thêm thông tin chi tiết về nhu cầu và kinh phí của bạn. Ví dụ, bạn có thể cho tôi biết diện tích khu vực cần làm mát là bao nhiêu, bạn cần điều hòa có những tính năng gì (ví dụ như chức năng tự động bật tắt, chức năng chống ẩm...), và bạn có ngân sách là bao nhiêu cho sản phẩm điều hòa.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "hello",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào quý khách! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm điều hòa mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Điều hòa MDV - Inverter 9000 BTU\n  Giá tiền: 6014184 VND\n  2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n  Giá tiền: 7246030 VND\n  3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n  Giá tiền: 11740520 VND\n  4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 9423040 VND\n  5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 11200420 VND\n  6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023\n  Giá tiền: 16508470 VND\n  7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023\n  Giá tiền: 12070850 VND\n  8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023\n  Giá tiền: 14851100 VND\n  9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 12461240 VND\n  10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 14917980 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào quý khách!\n\nBạn đang quan tâm đến các sản phẩm điều hòa, phải không? Chúng tôi có các sản phẩm điều hòa sau:\n\n1. Điều hòa MDV - Inverter 9000 BTU: 6014184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023: 7246030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023: 11740520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023: 9423040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023: 11200420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023: 16508470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - Series FTHF-VA - Model 2023: 12070850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023: 14851100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023: 12461240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023: 14917980 VND\n\nBạn có thể cho tôi biết thêm về nhu cầu của bạn? Bạn cần điều hòa có công suất bao nhiêu? Bạn có yêu cầu đặc biệt nào khác?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm điều hòa mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Điều hòa MDV - Inverter 9000 BTU\n  Giá tiền: 6014184 VND\n  2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n  Giá tiền: 7246030 VND\n  3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n  Giá tiền: 11740520 VND\n  4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 9423040 VND\n  5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 11200420 VND\n  6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023\n  Giá tiền: 16508470 VND\n  7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023\n  Giá tiền: 12070850 VND\n  8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023\n  Giá tiền: 14851100 VND\n  9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 12461240 VND\n  10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 14917980 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào quý khách! Tôi thấy quý khách đang quan tâm đến các sản phẩm điều hòa. Quý khách có thể cho tôi biết thêm về nhu cầu của mình? Quý khách cần điều hòa có công suất bao nhiêu? Quý khách có yêu cầu đặc biệt nào khác?\n\nNếu quý khách đang tìm kiếm một sản phẩm điều hòa giá rẻ, tôi có thể giới thiệu sản phẩm số 1: Điều hòa MDV - Inverter 9000 BTU với giá 6014184 VND. Tuy nhiên, nếu quý khách cần một sản phẩm có công suất lớn hơn, tôi có thể giới thiệu sản phẩm số 3: Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 với giá 11740520 VND.\n\nHoặc nếu quý khách quan tâm đến các sản phẩm của Carrier, tôi có thể giới thiệu sản phẩm số 4: Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 với giá 9423040 VND. Sản phẩm này có công suất 9000 BTU và có chức năng Inverter để tiết kiệm điện.\n\nNếu quý khách cần thêm thông tin về các sản phẩm khác, xin vui lòng cho tôi biết!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào quý khách! Tôi thấy quý khách đang quan tâm đến các sản phẩm điều hòa. Quý khách có thể cho tôi biết thêm về nhu cầu của mình? Quý khách cần điều hòa có công suất bao nhiêu? Quý khách có yêu cầu đặc biệt nào khác?\n\nNếu quý khách đang tìm kiếm một sản phẩm điều hòa giá rẻ, tôi có thể giới thiệu sản phẩm số 1: Điều hòa MDV - Inverter 9000 BTU với giá 6014184 VND. Tuy nhiên, nếu quý khách cần một sản phẩm có công suất lớn hơn, tôi có thể giới thiệu sản phẩm số 3: Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 với giá 11740520 VND.\n\nHoặc nếu quý khách quan tâm đến các sản phẩm của Carrier, tôi có thể giới thiệu sản phẩm số 4: Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 với giá 9423040 VND. Sản phẩm này có công suất 9000 BTU và có chức năng Inverter để tiết kiệm điện.\n\nNếu quý khách cần thêm thông tin về các sản phẩm khác, xin vui lòng cho tôi biết!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Tú lạnh",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào Tú lạnh!\nRất vui được gặp Tú lạnh.Bạn có câu hỏi hoặc yêu cầu cụ thể nào liên quan đến dịch vụ mua sắm của VCC không? Tôi sẽ cố gắng giúp bạn một cách tốt nhất.!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Tôi muốn mua tủ lạnh",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, nhưng tôi không hiểu câu hỏi của bạn. Bạn có thể giải thích rõ hơn được không? Tôi sẽ cố gắng giúp bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm điều hòa tủ lạnh mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Điều hòa MDV - Inverter 9000 BTU\n  Giá tiền: 6014184 VND\n  2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n  Giá tiền: 7246030 VND\n  3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n  Giá tiền: 11740520 VND\n  4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 9423040 VND\n  5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 11200420 VND\n  6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023\n  Giá tiền: 16508470 VND\n  7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023\n  Giá tiền: 12070850 VND\n  8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023\n  Giá tiền: 14851100 VND\n  9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 12461240 VND\n  10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 14917980 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn quan tâm đến các sản phẩm điều hòa và tủ lạnh. Tuy nhiên, chúng tôi chỉ kinh doanh sản phẩm điều hòa và không có tủ lạnh. Vì vậy, tôi sẽ giới thiệu đến bạn các sản phẩm điều hòa chúng tôi đang có.\n\nDưới đây là danh sách các sản phẩm điều hòa chúng tôi đang có:\n\n1. Điều hòa MDV - Inverter 9000 BTU, giá 6.014.184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023, giá 7.246.030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023, giá 11.740.520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023, giá 9.423.040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023, giá 11.200.420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023, giá 16.508.470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023, giá 12.070.850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023, giá 14.851.100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023, giá 12.461.240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023, giá 14.917.980 VND\n\nNếu bạn có thể cho tôi biết nhu cầu và kinh phí của bạn, tôi sẽ giúp bạn chọn sản phẩm điều hòa phù hợp nhất.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm điều hòa tủ lạnh mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Điều hòa MDV - Inverter 9000 BTU\n  Giá tiền: 6014184 VND\n  2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n  Giá tiền: 7246030 VND\n  3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n  Giá tiền: 11740520 VND\n  4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 9423040 VND\n  5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 11200420 VND\n  6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023\n  Giá tiền: 16508470 VND\n  7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023\n  Giá tiền: 12070850 VND\n  8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023\n  Giá tiền: 14851100 VND\n  9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 12461240 VND\n  10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 14917980 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn lại quan tâm đến các sản phẩm điều hòa và tủ lạnh. Như tôi đã nói trước, chúng tôi chỉ kinh doanh sản phẩm điều hòa và không có tủ lạnh. Vì vậy, tôi sẽ giới thiệu đến bạn các sản phẩm điều hòa chúng tôi đang có.\n\nDưới đây là danh sách các sản phẩm điều hòa chúng tôi đang có:\n\n1. Điều hòa MDV - Inverter 9000 BTU, giá 6.014.184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023, giá 7.246.030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023, giá 11.740.520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023, giá 9.423.040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023, giá 11.200.420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023, giá 16.508.470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023, giá 12.070.850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023, giá 14.851.100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023, giá 12.461.240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023, giá 14.917.980 VND\n\nNếu bạn có thể cho tôi biết nhu cầu và kinh phí của bạn, tôi sẽ giúp bạn chọn sản phẩm điều hòa phù hợp nhất.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Điều hòa tủ lạnh",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn lại quan tâm đến các sản phẩm điều hòa và tủ lạnh. Như tôi đã nói trước, chúng tôi chỉ kinh doanh sản phẩm điều hòa và không có tủ lạnh. Vì vậy, tôi sẽ giới thiệu đến bạn các sản phẩm điều hòa chúng tôi đang có.\n\nDưới đây là danh sách các sản phẩm điều hòa chúng tôi đang có:\n\n1. Điều hòa MDV - Inverter 9000 BTU, giá 6.014.184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023, giá 7.246.030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023, giá 11.740.520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023, giá 9.423.040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023, giá 11.200.420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023, giá 16.508.470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023, giá 12.070.850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023, giá 14.851.100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023, giá 12.461.240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023, giá 14.917.980 VND\n\nNếu bạn có thể cho tôi biết nhu cầu và kinh phí của bạn, tôi sẽ giúp bạn chọn sản phẩm điều hòa phù hợp nhất.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm tivi mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Điều hòa MDV - Inverter 9000 BTU\n  Giá tiền: 6014184 VND\n  2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n  Giá tiền: 7246030 VND\n  3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n  Giá tiền: 11740520 VND\n  4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 9423040 VND\n  5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 11200420 VND\n  6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023\n  Giá tiền: 16508470 VND\n  7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023\n  Giá tiền: 12070850 VND\n  8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023\n  Giá tiền: 14851100 VND\n  9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 12461240 VND\n  10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 14917980 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn lại quan tâm đến các sản phẩm tivi, tủ lạnh, và điều hòa. Như tôi đã nói trước, chúng tôi chỉ kinh doanh sản phẩm điều hòa và không có tivi, tủ lạnh. Vì vậy, tôi sẽ giới thiệu đến bạn các sản phẩm điều hòa chúng tôi đang có.\n\nDưới đây là danh sách các sản phẩm điều hòa chúng tôi đang có:\n\n1. Điều hòa MDV - Inverter 9000 BTU, giá 6.014.184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023, giá 7.246.030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023, giá 11.740.520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023, giá 9.423.040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023, giá 11.200.420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023, giá 16.508.470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023, giá 12.070.850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023, giá 14.851.100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023, giá 12.461.240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023, giá 14.917.980 VND\n\nNếu bạn có thể cho tôi biết nhu cầu và kinh phí của bạn, tôi sẽ giúp bạn chọn sản phẩm điều hòa phù hợp nhất.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm tivi mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Điều hòa MDV - Inverter 9000 BTU\n  Giá tiền: 6014184 VND\n  2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n  Giá tiền: 7246030 VND\n  3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n  Giá tiền: 11740520 VND\n  4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 9423040 VND\n  5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 11200420 VND\n  6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023\n  Giá tiền: 16508470 VND\n  7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023\n  Giá tiền: 12070850 VND\n  8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023\n  Giá tiền: 14851100 VND\n  9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 12461240 VND\n  10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 14917980 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn lại quan tâm đến các sản phẩm tivi, tủ lạnh, và điều hòa. Như tôi đã nói trước, chúng tôi chỉ kinh doanh sản phẩm điều hòa và không có tivi, tủ lạnh. Vì vậy, tôi sẽ giới thiệu đến bạn các sản phẩm điều hòa chúng tôi đang có.\n\nDưới đây là danh sách các sản phẩm điều hòa chúng tôi đang có:\n\n1. Điều hòa MDV - Inverter 9000 BTU, giá 6.014.184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023, giá 7.246.030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023, giá 11.740.520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023, giá 9.423.040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023, giá 11.200.420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023, giá 16.508.470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023, giá 12.070.850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023, giá 14.851.100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023, giá 12.461.240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023, giá 14.917.980 VND\n\nNếu bạn có thể cho tôi biết nhu cầu và kinh phí của bạn, tôi sẽ giúp bạn chọn sản phẩm điều hòa phù hợp nhất.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Tivi tủ lạnh điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn lại quan tâm đến các sản phẩm tivi, tủ lạnh, và điều hòa. Như tôi đã nói trước, chúng tôi chỉ kinh doanh sản phẩm điều hòa và không có tivi, tủ lạnh. Vì vậy, tôi sẽ giới thiệu đến bạn các sản phẩm điều hòa chúng tôi đang có.\n\nDưới đây là danh sách các sản phẩm điều hòa chúng tôi đang có:\n\n1. Điều hòa MDV - Inverter 9000 BTU, giá 6.014.184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023, giá 7.246.030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023, giá 11.740.520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023, giá 9.423.040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023, giá 11.200.420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023, giá 16.508.470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023, giá 12.070.850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023, giá 14.851.100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023, giá 12.461.240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023, giá 14.917.980 VND\n\nNếu bạn có thể cho tôi biết nhu cầu và kinh phí của bạn, tôi sẽ giúp bạn chọn sản phẩm điều hòa phù hợp nhất.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    }
+]

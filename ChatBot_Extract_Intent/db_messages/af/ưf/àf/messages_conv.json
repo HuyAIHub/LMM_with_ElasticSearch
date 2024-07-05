@@ -1,0 +1,272 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support Staff: Chào bạn! Chúng tôi chỉ bán sản phẩm Điều hòa. Hiện tại, chúng tôi không tìm thấy sản phẩm phù hợp với yêu cầu của bạn. Bạn có thể cung cấp thêm thông tin về sản phẩm mà bạn đang tìm kiếm được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support Staff: Chào bạn! Chúng tôi chỉ bán sản phẩm Điều hòa. Hiện tại, chúng tôi không tìm thấy sản phẩm phù hợp với yêu cầu của bạn. Bạn có thể cung cấp thêm thông tin về sản phẩm mà bạn đang tìm kiếm được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support Staff: Chào bạn! Chúng tôi chỉ bán sản phẩm Điều hòa. Hiện tại, chúng tôi không tìm thấy sản phẩm phù hợp với yêu cầu của bạn. Bạn có thể cung cấp thêm thông tin về sản phẩm mà bạn đang tìm kiếm được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support Staff: Chào bạn! Chúng tôi chỉ bán sản phẩm Điều hòa. Hiện tại, chúng tôi không tìm thấy sản phẩm phù hợp với yêu cầu của bạn. Bạn có thể cung cấp thêm thông tin về sản phẩm mà bạn đang tìm kiếm được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support Staff: Chào bạn! Chúng tôi chỉ bán sản phẩm Điều hòa. Dưới đây là danh sách các sản phẩm điều hòa mà chúng tôi đang có:\n\n1. Điều hòa MDV - Inverter 9000 BTU - Giá: 6,014,184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7,246,030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11,740,520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9,423,040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11,200,420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16,508,470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA - Model 2023 - Giá: 12,070,850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14,851,100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12,461,240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14,917,980 VND\n\nHãy cho chúng tôi biết sản phẩm nào bạn quan tâm để chúng tôi có thể hỗ trợ bạn tốt hơn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support Staff: Chào bạn! Chúng tôi chỉ bán sản phẩm Điều hòa. Dưới đây là danh sách các sản phẩm điều hòa mà chúng tôi đang có:\n\n1. Điều hòa MDV - Inverter 9000 BTU - Giá: 6,014,184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7,246,030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11,740,520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9,423,040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11,200,420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16,508,470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA - Model 2023 - Giá: 12,070,850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14,851,100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12,461,240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14,917,980 VND\n\nHãy cho chúng tôi biết sản phẩm nào bạn quan tâm để chúng tôi có thể hỗ trợ bạn tốt hơn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support Staff: Chào bạn! Chúng tôi chỉ bán sản phẩm Điều hòa. Dưới đây là danh sách các sản phẩm điều hòa mà chúng tôi đang có:\n\n1. Điều hòa MDV - Inverter 9000 BTU - Giá: 6,014,184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7,246,030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11,740,520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9,423,040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11,200,420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16,508,470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA - Model 2023 - Giá: 12,070,850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14,851,100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12,461,240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14,917,980 VND\n\nHãy cho chúng tôi biết sản phẩm nào bạn quan tâm để chúng tôi có thể hỗ trợ bạn tốt hơn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support Staff: Chào bạn! Chúng tôi chỉ bán sản phẩm Điều hòa. Dưới đây là danh sách các sản phẩm điều hòa mà chúng tôi đang có:\n\n1. Điều hòa MDV - Inverter 9000 BTU - Giá: 6,014,184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7,246,030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11,740,520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9,423,040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11,200,420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16,508,470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA - Model 2023 - Giá: 12,070,850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14,851,100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12,461,240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14,917,980 VND\n\nHãy cho chúng tôi biết sản phẩm nào bạn quan tâm để chúng tôi có thể hỗ trợ bạn tốt hơn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support Staff: Chào bạn! Chúng tôi chỉ bán sản phẩm Điều hòa. Dưới đây là danh sách các sản phẩm điều hòa mà chúng tôi đang có:\n\n1. Điều hòa MDV - Inverter 9000 BTU - Giá: 6,014,184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7,246,030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11,740,520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9,423,040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11,200,420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16,508,470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA - Model 2023 - Giá: 12,070,850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14,851,100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12,461,240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14,917,980 VND\n\nHãy cho chúng tôi biết sản phẩm nào bạn quan tâm để chúng tôi có thể hỗ trợ bạn tốt hơn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Support Staff: Chào bạn! Chúng tôi chỉ bán sản phẩm Điều hòa. Dưới đây là danh sách các sản phẩm điều hòa mà chúng tôi đang có:\n\n1. Điều hòa MDV - Inverter 9000 BTU - Giá: 6,014,184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7,246,030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11,740,520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9,423,040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11,200,420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16,508,470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA - Model 2023 - Giá: 12,070,850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14,851,100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12,461,240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14,917,980 VND\n\nHãy cho chúng tôi biết sản phẩm nào bạn quan tâm để chúng tôi có thể hỗ trợ bạn tốt hơn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    }
+]

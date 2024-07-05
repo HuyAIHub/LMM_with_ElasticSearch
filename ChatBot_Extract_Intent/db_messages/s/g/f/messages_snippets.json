@@ -1,0 +1,218 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Điều hòa KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\n  1. Điều hòa MDV - Inverter 9000 BTU\n  Giá tiền: 6014184 VND\n  2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n  Giá tiền: 7246030 VND\n  3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n  Giá tiền: 11740520 VND\n  4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 9423040 VND\n  5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 11200420 VND\n  6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023\n  Giá tiền: 16508470 VND\n  7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023\n  Giá tiền: 12070850 VND\n  8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023\n  Giá tiền: 14851100 VND\n  9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 12461240 VND\n  10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 14917980 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Chúng tôi có các sản phẩm điều hòa sau:\n\n1. Điều hòa MDV - Inverter 9000 BTU, giá 6014184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023, giá 7246030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023, giá 11740520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023, giá 9423040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023, giá 11200420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023, giá 16508470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023, giá 12070850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023, giá 14851100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023, giá 12461240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023, giá 14917980 VND\n\nBạn cần thêm thông tin về sản phẩm nào?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Chúng tôi có các sản phẩm điều hòa sau:\n\n1. Điều hòa MDV - Inverter 9000 BTU, giá 6014184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023, giá 7246030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023, giá 11740520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023, giá 9423040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023, giá 11200420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023, giá 16508470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023, giá 12070850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023, giá 14851100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023, giá 12461240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023, giá 14917980 VND\n\nBạn cần thêm thông tin về sản phẩm nào?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Điều hòa KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\n  1. Điều hòa MDV - Inverter 9000 BTU\n  Giá tiền: 6014184 VND\n  2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n  Giá tiền: 7246030 VND\n  3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n  Giá tiền: 11740520 VND\n  4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 9423040 VND\n  5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 11200420 VND\n  6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023\n  Giá tiền: 16508470 VND\n  7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023\n  Giá tiền: 12070850 VND\n  8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023\n  Giá tiền: 14851100 VND\n  9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 12461240 VND\n  10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 14917980 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Bạn đã xem danh sách sản phẩm điều hòa của chúng tôi rồi. Bạn cần thêm thông tin về sản phẩm nào?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Bạn đã xem danh sách sản phẩm điều hòa của chúng tôi rồi. Bạn cần thêm thông tin về sản phẩm nào?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Điều hòa KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\n  1. Điều hòa MDV - Inverter 9000 BTU\n  Giá tiền: 6014184 VND\n  2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n  Giá tiền: 7246030 VND\n  3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n  Giá tiền: 11740520 VND\n  4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 9423040 VND\n  5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 11200420 VND\n  6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023\n  Giá tiền: 16508470 VND\n  7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023\n  Giá tiền: 12070850 VND\n  8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023\n  Giá tiền: 14851100 VND\n  9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023\n  Giá tiền: 12461240 VND\n  10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023\n  Giá tiền: 14917980 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Bạn đã xem danh sách sản phẩm điều hòa của chúng tôi rồi. Bạn cần thêm thông tin về sản phẩm nào? \n\nDưới đây là danh sách sản phẩm điều hòa của chúng tôi:\n\n1. Điều hòa MDV - Inverter 9000 BTU\nGiá tiền: 6014184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\nGiá tiền: 7246030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\nGiá tiền: 11740520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\nGiá tiền: 9423040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\nGiá tiền: 11200420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023\nGiá tiền: 16508470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023\nGiá tiền: 12070850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023\nGiá tiền: 14851100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023\nGiá tiền: 12461240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023\nGiá tiền: 14917980 VND\n\nXin hãy cho tôi biết sản phẩm nào bạn quan tâm nhất!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Bạn đã xem danh sách sản phẩm điều hòa của chúng tôi rồi. Bạn cần thêm thông tin về sản phẩm nào? \n\nDưới đây là danh sách sản phẩm điều hòa của chúng tôi:\n\n1. Điều hòa MDV - Inverter 9000 BTU\nGiá tiền: 6014184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\nGiá tiền: 7246030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\nGiá tiền: 11740520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\nGiá tiền: 9423040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\nGiá tiền: 11200420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023\nGiá tiền: 16508470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023\nGiá tiền: 12070850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023\nGiá tiền: 14851100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023\nGiá tiền: 12461240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023\nGiá tiền: 14917980 VND\n\nXin hãy cho tôi biết sản phẩm nào bạn quan tâm nhất!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "\nchúng tôi bán sản phẩm Máy Giặt KHÔNG BÁN CÁC SẢN PHẨM KHÁC:\n\n1. Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK\n  Thông số kỹ thuật: Loại máy giặt: Lồng đứng \nĐộng Cơ : Curoa \nKhối lượng giặt: 10 kg \nLồng GiặtThép: không gỉ \nKhử mùi diệt khuẩn \nKhóa trẻ em \nMàn hình hiển thị thời gian \nNắp máy,Nắp kính cường lực tràn viền \nDòng điện : 220v/50Hz \nTốc độ vắt: 700 vòng/phút \nKích thước (R*S*C)560 x 630 x 1006 \nTrọng lượng: 36,5 kg \nSản xuất tại Việt Nam \nBảo hành: 24 Tháng\ngiá: 6074970\n\n2. Máy Giặt Aqua 9 Kg AQW-F91GT.S\n  Thông số kỹ thuật: \n• Loại máy giặt: Cửa trên \n• Lồng giặt: Lồng đứng \n• Khối lượng giặt: 9 Kg \n• Số người sử dụng: Từ 3 - 5 người \n• Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n• Tốc độ quay vắt tối đa: 700 vòng/phút \n• Chất liệu lồng giặt: Thép không gỉ \n• Chất liệu vỏ máy: Kim loại sơn tĩnh điện \n• Chất liệu nắp máy: Kính chịu lực \n• Hiệu suất sử dụng điện: 10.9 Wh/kg \n• Chương trình giặt: Chăn mền, Vắt cực khô, Giặt mạnh, Giặt ngâm, Giặt nhanh, Giặt nhẹ, Giặt thơm, Giặt tiêu chuẩn \n• Công nghệ giặt: Diệt khuẩn khử mùi Nano Ag+ Giặt nhiều luồng nước phun MultiJet \n• Bảng điều khiển: Song ngữ Anh - Việt \n• Tiện ích: Hẹn giờ giặt, Khóa trẻ em, Van sử dụng mực nước thấp, Vệ sinh lồng giặt \n• Kích thước, khối lượng: Cao 100.6 cm - Ngang 53.3 cm - Sâu 58 cm - Nặng 36 kg \n• Chiều dài ống cấp nước: 128 cm \n• Chiều dài ống thoát nước: 77 cm\ngiá: 5759050\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi hiểu rằng bạn quan tâm đến máy giặt lồng đứng. Dưới đây là danh sách sản phẩm máy giặt lồng đứng của chúng tôi:\n\n1. Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK\n  Thông số kỹ thuật: Loại máy giặt: Lồng đứng \n  Động Cơ : Curoa \n  Khối lượng giặt: 10 kg \n  Lồng GiặtThép: không gỉ \n  Khử mùi diệt khuẩn \n  Khóa trẻ em \n  Màn hình hiển thị thời gian \n  Nắp máy,Nắp kính cường lực tràn viền \n  Dòng điện : 220v/50Hz \n  Tốc độ vắt: 700 vòng/phút \n  Kích thước (R*S*C)560 x 630 x 1006 \n  Trọng lượng: 36,5 kg \n  Sản xuất tại Việt Nam \n  Bảo hành: 24 Tháng\n  Giá: 6074970\n\n2. Máy Giặt Aqua 9 Kg AQW-F91GT.S\n  Thông số kỹ thuật: \n  • Loại máy giặt: Cửa trên \n  • Lồng giặt: Lồng đứng \n  • Khối lượng giặt: 9 Kg \n  • Số người sử dụng: Từ 3 - 5 người \n  • Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n  • Tốc độ quay vắt tối đa: 700 vòng/phút \n  • Chất liệu lồng giặt: Thép không gỉ \n  • Chất liệu vỏ máy: Kim loại sơn tĩnh điện \n  • Chất liệu nắp máy: Kính chịu lực \n  • Hiệu suất sử dụng điện: 10.9 Wh/kg \n  • Chương trình giặt: Chăn mền, Vắt cực khô, Giặt mạnh, Giặt ngâm, Giặt nhanh, Giặt nhẹ, Giặt thơm, Giặt tiêu chuẩn \n  • Công nghệ giặt: Diệt khuẩn khử mùi Nano Ag+ Giặt nhiều luồng nước phun MultiJet \n  • Bảng điều khiển: Song ngữ Anh - Việt \n  • Tiện ích: Hẹn giờ giặt, Khóa trẻ em, Van sử dụng mực nước thấp, Vệ sinh lồng giặt \n  • Kích thước, khối lượng: Cao 100.6 cm - Ngang 53.3 cm - Sâu 58 cm - Nặng 36 kg \n  • Chiều dài ống cấp nước: 128 cm \n  • Chiều dài ống thoát nước: 77 cm\n  Giá: 5759050\n\nXin hãy cho tôi biết sản phẩm nào bạn quan tâm nhất!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi quan tâm máy giặt lồng đứng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi hiểu rằng bạn quan tâm đến máy giặt lồng đứng. Dưới đây là danh sách sản phẩm máy giặt lồng đứng của chúng tôi:\n\n1. Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK\n  Thông số kỹ thuật: Loại máy giặt: Lồng đứng \n  Động Cơ : Curoa \n  Khối lượng giặt: 10 kg \n  Lồng GiặtThép: không gỉ \n  Khử mùi diệt khuẩn \n  Khóa trẻ em \n  Màn hình hiển thị thời gian \n  Nắp máy,Nắp kính cường lực tràn viền \n  Dòng điện : 220v/50Hz \n  Tốc độ vắt: 700 vòng/phút \n  Kích thước (R*S*C)560 x 630 x 1006 \n  Trọng lượng: 36,5 kg \n  Sản xuất tại Việt Nam \n  Bảo hành: 24 Tháng\n  Giá: 6074970\n\n2. Máy Giặt Aqua 9 Kg AQW-F91GT.S\n  Thông số kỹ thuật: \n  • Loại máy giặt: Cửa trên \n  • Lồng giặt: Lồng đứng \n  • Khối lượng giặt: 9 Kg \n  • Số người sử dụng: Từ 3 - 5 người \n  • Kiểu động cơ: Truyền động gián tiếp (dây Curoa) \n  • Tốc độ quay vắt tối đa: 700 vòng/phút \n  • Chất liệu lồng giặt: Thép không gỉ \n  • Chất liệu vỏ máy: Kim loại sơn tĩnh điện \n  • Chất liệu nắp máy: Kính chịu lực \n  • Hiệu suất sử dụng điện: 10.9 Wh/kg \n  • Chương trình giặt: Chăn mền, Vắt cực khô, Giặt mạnh, Giặt ngâm, Giặt nhanh, Giặt nhẹ, Giặt thơm, Giặt tiêu chuẩn \n  • Công nghệ giặt: Diệt khuẩn khử mùi Nano Ag+ Giặt nhiều luồng nước phun MultiJet \n  • Bảng điều khiển: Song ngữ Anh - Việt \n  • Tiện ích: Hẹn giờ giặt, Khóa trẻ em, Van sử dụng mực nước thấp, Vệ sinh lồng giặt \n  • Kích thước, khối lượng: Cao 100.6 cm - Ngang 53.3 cm - Sâu 58 cm - Nặng 36 kg \n  • Chiều dài ống cấp nước: 128 cm \n  • Chiều dài ống thoát nước: 77 cm\n  Giá: 5759050\n\nXin hãy cho tôi biết sản phẩm nào bạn quan tâm nhất!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    }
+]

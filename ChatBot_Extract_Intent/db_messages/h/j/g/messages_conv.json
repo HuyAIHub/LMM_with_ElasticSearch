@@ -1,0 +1,272 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": " điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Chúng tôi bán các sản phẩm điều hòa sau:\n\n1. Điều hòa MDV - Inverter 9000 BTU, giá 6014184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023, giá 7246030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023, giá 11740520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023, giá 9423040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023, giá 11200420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023, giá 16508470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - Series FTHF-VA - Model 2023, giá 12070850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023, giá 14851100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023, giá 12461240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023, giá 14917980 VND\n\nĐể giúp bạn chọn sản phẩm phù hợp, xin vui lòng cho biết nhu cầu của bạn là gì?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Chúng tôi bán các sản phẩm điều hòa sau:\n\n1. Điều hòa MDV - Inverter 9000 BTU, giá 6014184 VND\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023, giá 7246030 VND\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023, giá 11740520 VND\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023, giá 9423040 VND\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023, giá 11200420 VND\n6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023, giá 16508470 VND\n7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - Series FTHF-VA - Model 2023, giá 12070850 VND\n8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023, giá 14851100 VND\n9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023, giá 12461240 VND\n10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023, giá 14917980 VND\n\nĐể giúp bạn chọn sản phẩm phù hợp, xin vui lòng cho biết nhu cầu của bạn là gì?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn đang tìm kiếm thông tin về điều hòa. Bạn có thể cho tôi biết nhu cầu của bạn là gì? Bạn cần điều hòa cho phòng ngủ, phòng khách hay văn phòng? Đánh giá công suất điều hòa bạn cần là bao nhiêu BTU?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn đang tìm kiếm thông tin về điều hòa. Bạn có thể cho tôi biết nhu cầu của bạn là gì? Bạn cần điều hòa cho phòng ngủ, phòng khách hay văn phòng? Đánh giá công suất điều hòa bạn cần là bao nhiêu BTU?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi quan tâm tới sản phẩm điều hòa và Thiết bị Wifi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn đang quan tâm đến sản phẩm điều hòa và thiết bị WiFi. Đối với điều hòa, bạn cần biết nhu cầu của bạn là gì? Bạn cần điều hòa cho phòng ngủ, phòng khách hay văn phòng? Đánh giá công suất điều hòa bạn cần là bao nhiêu BTU?\n\nĐối với thiết bị WiFi, bạn đang tìm kiếm một router WiFi hay một thiết bị WiFi khác? Bạn cần biết tốc độ truyền dữ liệu là bao nhiêu Mbps? Bạn có nhu cầu sử dụng cho gia đình hay doanh nghiệp?\n\nDưới đây là một số sản phẩm điều hòa và thiết bị WiFi popular trên thị trường Việt Nam:\n\n**Điều hòa:**\n\n1. Điều hòa Gree 1 HP GWC-09QB - Công suất 9.000 BTU, phù hợp cho phòng ngủ và phòng khách nhỏ.\n2. Điều hòa Samsung 1.5 HP AR12RVFHA - Công suất 12.000 BTU, phù hợp cho phòng khách và phòng ngủ lớn.\n3. Điều hòa Daikin 2 HP FTKC35 - Công suất 18.000 BTU, phù hợp cho phòng khách và phòng ngủ rất lớn.\n\n**Thiết bị WiFi:**\n\n1. Router WiFi Tenda AC10 - Tốc độ truyền dữ liệu lên đến 1200 Mbps, phù hợp cho gia đình và doanh nghiệp nhỏ.\n2. Router WiFi TP-Link Archer C60 - Tốc độ truyền dữ liệu lên đến 1900 Mbps, phù hợp cho gia đình và doanh nghiệp vừa và nhỏ.\n3. Bộ phát WiFi Xiaomi Mi Router 4A - Tốc độ truyền dữ liệu lên đến 1200 Mbps, phù hợp cho gia đình và doanh nghiệp nhỏ.\n\nHãy cho tôi biết thêm thông tin chi tiết về nhu cầu của bạn để tôi có thể hỗ trợ bạn được tốt hơn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi quan tâm tới sản phẩm điều hòa và Thiết bị Wifi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn đang quan tâm đến sản phẩm điều hòa và thiết bị WiFi. Đối với điều hòa, bạn cần biết nhu cầu của bạn là gì? Bạn cần điều hòa cho phòng ngủ, phòng khách hay văn phòng? Đánh giá công suất điều hòa bạn cần là bao nhiêu BTU?\n\nĐối với thiết bị WiFi, bạn đang tìm kiếm một router WiFi hay một thiết bị WiFi khác? Bạn cần biết tốc độ truyền dữ liệu là bao nhiêu Mbps? Bạn có nhu cầu sử dụng cho gia đình hay doanh nghiệp?\n\nDưới đây là một số sản phẩm điều hòa và thiết bị WiFi popular trên thị trường Việt Nam:\n\n**Điều hòa:**\n\n1. Điều hòa Gree 1 HP GWC-09QB - Công suất 9.000 BTU, phù hợp cho phòng ngủ và phòng khách nhỏ.\n2. Điều hòa Samsung 1.5 HP AR12RVFHA - Công suất 12.000 BTU, phù hợp cho phòng khách và phòng ngủ lớn.\n3. Điều hòa Daikin 2 HP FTKC35 - Công suất 18.000 BTU, phù hợp cho phòng khách và phòng ngủ rất lớn.\n\n**Thiết bị WiFi:**\n\n1. Router WiFi Tenda AC10 - Tốc độ truyền dữ liệu lên đến 1200 Mbps, phù hợp cho gia đình và doanh nghiệp nhỏ.\n2. Router WiFi TP-Link Archer C60 - Tốc độ truyền dữ liệu lên đến 1900 Mbps, phù hợp cho gia đình và doanh nghiệp vừa và nhỏ.\n3. Bộ phát WiFi Xiaomi Mi Router 4A - Tốc độ truyền dữ liệu lên đến 1200 Mbps, phù hợp cho gia đình và doanh nghiệp nhỏ.\n\nHãy cho tôi biết thêm thông tin chi tiết về nhu cầu của bạn để tôi có thể hỗ trợ bạn được tốt hơn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi quan tâm tới sản phẩm điều hòa và Thiết bị Wifi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn đang quan tâm đến sản phẩm điều hòa và thiết bị WiFi. Đối với điều hòa, bạn cần biết nhu cầu của bạn là gì? Bạn cần điều hòa cho phòng ngủ, phòng khách hay văn phòng? Đánh giá công suất điều hòa bạn cần là bao nhiêu BTU?\n\nĐối với thiết bị WiFi, bạn đang tìm kiếm một router WiFi hay một thiết bị WiFi khác? Bạn cần biết tốc độ truyền dữ liệu là bao nhiêu Mbps? Bạn có nhu cầu sử dụng cho gia đình hay doanh nghiệp?\n\nDưới đây là một số sản phẩm điều hòa và thiết bị WiFi popular trên thị trường Việt Nam:\n\n**Điều hòa:**\n\n1. Điều hòa Gree 1 HP GWC-09QB - Công suất 9.000 BTU, phù hợp cho phòng ngủ và phòng khách nhỏ.\n2. Điều hòa Samsung 1.5 HP AR12RVFHA - Công suất 12.000 BTU, phù hợp cho phòng khách và phòng ngủ lớn.\n3. Điều hòa Daikin 2 HP FTKC35 - Công suất 18.000 BTU, phù hợp cho phòng khách và phòng ngủ rất lớn.\n\n**Thiết bị WiFi:**\n\n1. Router WiFi Tenda AC10 - Tốc độ truyền dữ liệu lên đến 1200 Mbps, phù hợp cho gia đình và doanh nghiệp nhỏ.\n2. Router WiFi TP-Link Archer C60 - Tốc độ truyền dữ liệu lên đến 1900 Mbps, phù hợp cho gia đình và doanh nghiệp vừa và nhỏ.\n3. Bộ phát WiFi Xiaomi Mi Router 4A - Tốc độ truyền dữ liệu lên đến 1200 Mbps, phù hợp cho gia đình và doanh nghiệp nhỏ.\n\nHãy cho tôi biết thêm thông tin chi tiết về nhu cầu của bạn để tôi có thể hỗ trợ bạn được tốt hơn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi quan tâm tới sản phẩm điều hòa và Thiết bị Wifi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn đang quan tâm đến sản phẩm điều hòa và thiết bị WiFi. Đối với điều hòa, bạn cần biết nhu cầu của bạn là gì? Bạn cần điều hòa cho phòng ngủ, phòng khách hay văn phòng? Đánh giá công suất điều hòa bạn cần là bao nhiêu BTU?\n\nĐối với thiết bị WiFi, bạn đang tìm kiếm một router WiFi hay một thiết bị WiFi khác? Bạn cần biết tốc độ truyền dữ liệu là bao nhiêu Mbps? Bạn có nhu cầu sử dụng cho gia đình hay doanh nghiệp?\n\nDưới đây là một số sản phẩm điều hòa và thiết bị WiFi popular trên thị trường Việt Nam:\n\n**Điều hòa:**\n\n1. Điều hòa Gree 1 HP GWC-09QB - Công suất 9.000 BTU, phù hợp cho phòng ngủ và phòng khách nhỏ.\n2. Điều hòa Samsung 1.5 HP AR12RVFHA - Công suất 12.000 BTU, phù hợp cho phòng khách và phòng ngủ lớn.\n3. Điều hòa Daikin 2 HP FTKC35 - Công suất 18.000 BTU, phù hợp cho phòng khách và phòng ngủ rất lớn.\n\n**Thiết bị WiFi:**\n\n1. Router WiFi Tenda AC10 - Tốc độ truyền dữ liệu lên đến 1200 Mbps, phù hợp cho gia đình và doanh nghiệp nhỏ.\n2. Router WiFi TP-Link Archer C60 - Tốc độ truyền dữ liệu lên đến 1900 Mbps, phù hợp cho gia đình và doanh nghiệp vừa và nhỏ.\n3. Bộ phát WiFi Xiaomi Mi Router 4A - Tốc độ truyền dữ liệu lên đến 1200 Mbps, phù hợp cho gia đình và doanh nghiệp nhỏ.\n\nHãy cho tôi biết thêm thông tin chi tiết về nhu cầu của bạn để tôi có thể hỗ trợ bạn được tốt hơn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi quan tâm tới sản phẩm điều hòa và Thiết bị Wifi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn đang quan tâm đến sản phẩm điều hòa và thiết bị WiFi. Đối với điều hòa, bạn cần biết nhu cầu của bạn là gì? Bạn cần điều hòa cho phòng ngủ, phòng khách hay văn phòng? Đánh giá công suất điều hòa bạn cần là bao nhiêu BTU?\n\nĐối với thiết bị WiFi, bạn đang tìm kiếm một router WiFi hay một thiết bị WiFi khác? Bạn cần biết tốc độ truyền dữ liệu là bao nhiêu Mbps? Bạn có nhu cầu sử dụng cho gia đình hay doanh nghiệp?\n\nDưới đây là một số sản phẩm điều hòa và thiết bị WiFi popular trên thị trường Việt Nam:\n\n**Điều hòa:**\n\n1. Điều hòa Gree 1 HP GWC-09QB - Công suất 9.000 BTU, phù hợp cho phòng ngủ và phòng khách nhỏ.\n2. Điều hòa Samsung 1.5 HP AR12RVFHA - Công suất 12.000 BTU, phù hợp cho phòng khách và phòng ngủ lớn.\n3. Điều hòa Daikin 2 HP FTKC35 - Công suất 18.000 BTU, phù hợp cho phòng khách và phòng ngủ rất lớn.\n\n**Thiết bị WiFi:**\n\n1. Router WiFi Tenda AC10 - Tốc độ truyền dữ liệu lên đến 1200 Mbps, phù hợp cho gia đình và doanh nghiệp nhỏ.\n2. Router WiFi TP-Link Archer C60 - Tốc độ truyền dữ liệu lên đến 1900 Mbps, phù hợp cho gia đình và doanh nghiệp vừa và nhỏ.\n3. Bộ phát WiFi Xiaomi Mi Router 4A - Tốc độ truyền dữ liệu lên đến 1200 Mbps, phù hợp cho gia đình và doanh nghiệp nhỏ.\n\nHãy cho tôi biết thêm thông tin chi tiết về nhu cầu của bạn để tôi có thể hỗ trợ bạn được tốt hơn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi quan tâm tới sản phẩm điều hòa và Thiết bị Wifi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn đang quan tâm đến sản phẩm điều hòa và thiết bị WiFi. Đối với điều hòa, bạn cần biết nhu cầu của bạn là gì? Bạn cần điều hòa cho phòng ngủ, phòng khách hay văn phòng? Đánh giá công suất điều hòa bạn cần là bao nhiêu BTU?\n\nĐối với thiết bị WiFi, bạn đang tìm kiếm một router WiFi hay một thiết bị WiFi khác? Bạn cần biết tốc độ truyền dữ liệu là bao nhiêu Mbps? Bạn có nhu cầu sử dụng cho gia đình hay doanh nghiệp?\n\nDưới đây là một số sản phẩm điều hòa và thiết bị WiFi popular trên thị trường Việt Nam:\n\n**Điều hòa:**\n\n1. Điều hòa Gree 1 HP GWC-09QB - Công suất 9.000 BTU, phù hợp cho phòng ngủ và phòng khách nhỏ.\n2. Điều hòa Samsung 1.5 HP AR12RVFHA - Công suất 12.000 BTU, phù hợp cho phòng khách và phòng ngủ lớn.\n3. Điều hòa Daikin 2 HP FTKC35 - Công suất 18.000 BTU, phù hợp cho phòng khách và phòng ngủ rất lớn.\n\n**Thiết bị WiFi:**\n\n1. Router WiFi Tenda AC10 - Tốc độ truyền dữ liệu lên đến 1200 Mbps, phù hợp cho gia đình và doanh nghiệp nhỏ.\n2. Router WiFi TP-Link Archer C60 - Tốc độ truyền dữ liệu lên đến 1900 Mbps, phù hợp cho gia đình và doanh nghiệp vừa và nhỏ.\n3. Bộ phát WiFi Xiaomi Mi Router 4A - Tốc độ truyền dữ liệu lên đến 1200 Mbps, phù hợp cho gia đình và doanh nghiệp nhỏ.\n\nHãy cho tôi biết thêm thông tin chi tiết về nhu cầu của bạn để tôi có thể hỗ trợ bạn được tốt hơn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    }
+]

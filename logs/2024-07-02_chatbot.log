@@ -1,0 +1,968 @@
+2024-07-02 09:33:37,535 - ----------------NEW_SESSION--------------
+2024-07-02 09:33:37,536 - User: 428950
+2024-07-02 09:33:37,536 - InputText: tồn kho
+2024-07-02 09:36:04,114 - ----------------NEW_SESSION--------------
+2024-07-02 09:36:04,114 - User: 428950
+2024-07-02 09:36:04,114 - InputText: hi
+2024-07-02 09:39:30,617 - ----------------NEW_SESSION--------------
+2024-07-02 09:39:30,617 - User: 428950
+2024-07-02 09:39:30,617 - InputText: hi
+2024-07-02 09:39:56,020 - ----------------NEW_SESSION--------------
+2024-07-02 09:39:56,020 - User: 428950
+2024-07-02 09:39:56,020 - InputText: sp  ddieu hoa
+2024-07-02 09:46:03,600 - ----------------NEW_SESSION--------------
+2024-07-02 09:46:03,600 - User: 428950
+2024-07-02 09:46:03,600 - InputText: hi
+2024-07-02 09:46:31,193 - ----------------NEW_SESSION--------------
+2024-07-02 09:46:31,193 - User: 428950
+2024-07-02 09:46:31,193 - InputText: hi
+2024-07-02 09:46:32,008 - Vcc_bot: Xin chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-07-02 09:46:37,909 - ----------------NEW_SESSION--------------
+2024-07-02 09:46:37,909 - User: 428950
+2024-07-02 09:46:37,910 - InputText: tồn kho
+2024-07-02 09:46:38,152 - Vcc_bot: Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI
+2024-07-02 09:47:06,464 - ----------------NEW_SESSION--------------
+2024-07-02 09:47:06,464 - User: 428950
+2024-07-02 09:47:06,464 - InputText: so sánh điều hòa daikin và điều hòa mdv
+2024-07-02 09:47:06,514 - ------------llm------------
+2024-07-02 09:47:06,514 - User: so sánh điều hòa daikin và điều hòa mdv
+2024-07-02 09:47:08,301 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 09:47:08,307 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 09:47:08,326 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.015s]
+2024-07-02 09:47:08,333 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 09:47:18,470 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 09:47:18,486 - Vcc_bot: AI: Dưới đây là thông số kỹ thuật của hai sản phẩm để anh/chị so sánh:
+
+1. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - Series FTHF-VA - Model 2023:
+- Công suất: 9.000 BTU/h (1 HP)
+- Diện tích sử dụng: 15 - 20m²
+- Mức tiêu thụ điện: Làm lạnh: 555 (230 - 1.250) W/h, Sưởi ấm: 670 (190 - 1.530) W/h
+- Hiệu suất năng lượng: Làm lạnh: 6.13 (A**), Sưởi ấm: 5.14 (A)
+- Chế độ Inverter: Có
+- Công nghệ: Công nghệ inverter tiết kiệm điện, Công nghệ luồng gió Coanda, Mắt thần thông minh, Phin lọc Apatit Titan
+- Chức năng: Làm lạnh nhanh, Sưởi ấm, Lọc bụi mịn PM2.5, Khử mùi, Hẹn giờ, Điều khiển từ xa
+- Độ ồn: Dàn lạnh: 28/25 dB(A), Dàn nóng: 49 dB(A)
+- Kích thước: Dàn lạnh: 285 x 770 x 223 mm, Dàn nóng: 540 x 670 x 240 mm
+- Trọng lượng: Dàn lạnh: 12 kg, Dàn nóng: 24 kg
+- Giá: 12.070.850 VNĐ
+
+2. Điều hòa MDV - Inverter 9000 BTU:
+- Công suất: 9.500 BTU/h
+- Công suất tiêu thụ: 745 W
+- Cường độ dòng điện: 3.4 A
+- ERR: 3.54 W/W
+- Inverter: Có
+- Kích thước máy trong (DxRxC): 726x210x291 (mm)
+- Khối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg
+- Kích thước máy ngoài (DxRxC): 835x300x540 (mm)
+- Khối lượng thực máy ngoài/ khối lượng đóng gói: 21.7/23.2 kg
+- Loại gas/ khối lượng nạp: R32/0.38
+- Áp suất thiết kế: 4.3/1.7 Mpa
+- Chiều dài đường ống tối đa: 25m
+- Chênh lệch độ cao tối đa: 10m
+- Phạm vi lành lạnh hiệu quả: 12~18 m2
+- Hiệu suất năng lượng: 4.48 CSPF
+- Bảo hành 3 năm cho sản phẩm
+- Bảo hành 5 năm cho máy nén
+- Suất xứ: Thái Lan
+- Giá: 6.014.184 VNĐ
+
+Anh/chị có thể so sánh các thông số kỹ thuật và chức năng của hai sản phẩm để tìm ra sản phẩm phù hợp với nhu cầu của mình.
+2024-07-02 09:49:50,137 - ----------------NEW_SESSION--------------
+2024-07-02 09:49:50,137 - User: 428950
+2024-07-02 09:49:50,137 - InputText: so sánh điều hòa daikin và điều hòa carrier
+2024-07-02 09:49:50,189 - ------------llm------------
+2024-07-02 09:49:50,189 - User: so sánh điều hòa daikin và điều hòa carrier
+2024-07-02 09:49:52,756 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 09:49:52,762 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 09:49:52,772 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.006s]
+2024-07-02 09:49:52,778 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.002s]
+2024-07-02 09:50:03,091 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 09:50:03,108 - Vcc_bot: AI: Dưới đây là thông số kỹ thuật của hai sản phẩm để anh/chị so sánh:
+
+1. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - Series FTHF-VA - Model 2023:
+- Công suất: 9.000 BTU/h (1 HP)
+- Diện tích sử dụng: 15 - 20m²
+- Mức tiêu thụ điện: Làm lạnh: 555 (230 - 1.250) W/h, Sưởi ấm: 670 (190 - 1.530) W/h
+- Hiệu suất năng lượng: Làm lạnh: 6.13 (A**), Sưởi ấm: 5.14 (A)
+- Chế độ Inverter: Có
+- Công nghệ: Công nghệ inverter tiết kiệm điện, Công nghệ luồng gió Coanda, Mắt thần thông minh, Phin lọc Apatit Titan
+- Chức năng: Làm lạnh nhanh, Sưởi ấm, Lọc bụi mịn PM2.5, Khử mùi, Hẹn giờ, Điều khiển từ xa
+- Độ ồn: Dàn lạnh: 28/25 dB(A), Dàn nóng: 49 dB(A)
+- Kích thước: Dàn lạnh: 285 x 770 x 223 mm, Dàn nóng: 540 x 670 x 240 mm
+- Trọng lượng: Dàn lạnh: 12 kg, Dàn nóng: 24 kg
+- Giá: 12.070.850 VNĐ
+
+2. Điều hòa Carrier Inverter 9000 BTU/h (1 HP) - Model 2023:
+- Công suất: 9.000 BTU/h (1 HP)
+- Diện tích sử dụng: Dưới 15m²
+- Mức tiêu thụ điện: Làm lạnh: 1.15 kW/h
+- Hiệu suất năng lượng: 5.8 (A++)
+- Chế độ Inverter: Có
+- Chức năng: Làm lạnh nhanh, Tự làm sạch, Lọc bụi mịn PM2.5, Khử mùi, Chế độ gió Coanda, Hẹn giờ, Điều khiển từ xa
+- Độ ồn: Dàn lạnh: 22/19 dB(A), Dàn nóng: 52/48 dB(A)
+- Kích thước: Dàn lạnh: 800 x 295 x 200 mm, Dàn nóng: 770 x 285 x 540 mm
+- Trọng lượng: Dàn lạnh: 12 kg, Dàn nóng: 25 kg
+- Giá: 9.423.040 VNĐ
+
+Anh/chị có thể so sánh các thông số kỹ thuật và chức năng của hai sản phẩm để tìm ra sản phẩm phù hợp với nhu cầu của mình.
+2024-07-02 09:55:09,136 - ----------------NEW_SESSION--------------
+2024-07-02 09:55:09,136 - User: 428950
+2024-07-02 09:55:09,136 - InputText: so sánh điều hòa daikin và điều hòa mdv
+2024-07-02 09:55:09,188 - ------------llm------------
+2024-07-02 09:55:09,188 - User: so sánh điều hòa daikin và điều hòa mdv
+2024-07-02 09:55:11,052 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 09:55:11,057 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.003s]
+2024-07-02 09:55:11,065 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 09:55:11,071 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 09:55:19,556 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 09:55:19,574 - Vcc_bot: AI: Dưới đây là thông số kỹ thuật của hai sản phẩm để anh/chị so sánh:
+
+1. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - Series FTHF-VA - Model 2023:
+- Công suất: 9.000 BTU/h (1 HP)
+- Diện tích sử dụng: 15 - 20m²
+- Mức tiêu thụ điện: Làm lạnh: 555 (230 - 1.250) W/h, Sưởi ấm: 670 (190 - 1.530) W/h
+- Hiệu suất năng lượng: Làm lạnh: 6.13 (A**), Sưởi ấm: 5.14 (A)
+- Chế độ Inverter: Có
+- Công nghệ: Công nghệ inverter tiết kiệm điện, Công nghệ luồng gió Coanda, Mắt thần thông minh, Phin lọc Apatit Titan
+- Chức năng: Làm lạnh nhanh, Sưởi ấm, Lọc bụi mịn PM2.5, Khử mùi, Hẹn giờ, Điều khiển từ xa
+- Độ ồn: Dàn lạnh: 28/25 dB(A), Dàn nóng: 49 dB(A)
+- Kích thước: Dàn lạnh: 285 x 770 x 223 mm, Dàn nóng: 540 x 670 x 240 mm
+- Trọng lượng: Dàn lạnh: 12 kg, Dàn nóng: 24 kg
+- Giá: 12.070.850 VNĐ
+
+2. Điều hòa MDV - Inverter 9000 BTU:
+- Công suất: 9.500 BTU/h
+- Mức tiêu thụ điện: 745 W
+- Hiệu suất năng lượng: 3.54 W/W
+- Chế độ Inverter: Có
+- Chức năng: Làm lạnh, Tự làm sạch, Lọc bụi mịn PM2.5, Khử mùi, Chế độ gió Coanda, Hẹn giờ, Điều khiển từ xa
+- Độ ồn: Dàn lạnh: 22/19 dB(A), Dàn nóng: 52/48 dB(A)
+- Kích thước: Dàn lạnh: 726 x 210 x 291 mm, Dàn nóng: 835 x 300 x 540 mm
+- Trọng lượng: Dàn lạnh: 8.2 kg, Dàn nóng: 21.7 kg
+- Giá: 6.014.184 VNĐ
+
+Anh/chị có thể so sánh các thông số kỹ thuật và chức năng của hai sản phẩm để tìm ra sản phẩm phù hợp với nhu cầu của mình.
+2024-07-02 09:57:26,534 - ----------------NEW_SESSION--------------
+2024-07-02 09:57:26,534 - User: 428950
+2024-07-02 09:57:26,534 - InputText: tồn kho
+2024-07-02 09:57:26,649 - Vcc_bot: Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI
+2024-07-02 10:50:26,613 - ----------------NEW_SESSION--------------
+2024-07-02 10:50:26,614 - User: 428950
+2024-07-02 10:50:26,614 - InputText: điều hòa inverter và điều hòa daikin cái nào rẻ hơn
+2024-07-02 10:50:26,676 - ------------llm------------
+2024-07-02 10:50:26,676 - User: điều hòa inverter và điều hòa daikin cái nào rẻ hơn
+2024-07-02 10:50:28,705 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 10:50:28,710 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.003s]
+2024-07-02 10:50:28,717 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 10:50:28,724 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.002s]
+2024-07-02 10:50:30,647 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 10:50:30,665 - Vcc_bot: Chúng tôi chỉ bán sản phẩm Điều hòa và không bán các sản phẩm khác. Xin lỗi vì không tìm thấy sản phẩm phù hợp. Vui lòng cung cấp thông tin chi tiết về sản phẩm để chúng tôi có thể hỗ trợ bạn tốt hơn.
+2024-07-02 10:55:09,988 - ----------------NEW_SESSION--------------
+2024-07-02 10:55:09,988 - User: 428950
+2024-07-02 10:55:09,988 - InputText: điều hòa inverter và điều hòa daikin cái nào rẻ hơn
+2024-07-02 10:55:10,047 - ------------llm------------
+2024-07-02 10:55:10,048 - User: điều hòa inverter và điều hòa daikin cái nào rẻ hơn
+2024-07-02 10:55:12,848 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 10:55:12,854 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.003s]
+2024-07-02 10:55:12,861 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 10:55:12,867 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.002s]
+2024-07-02 10:55:14,698 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 10:55:14,718 - Vcc_bot: Chúng tôi chỉ bán sản phẩm Điều hòa và không bán các sản phẩm khác. Xin lỗi vì không tìm thấy sản phẩm phù hợp. Vui lòng cung cấp thông tin chi tiết về sản phẩm để chúng tôi có thể hỗ trợ bạn tốt hơn.
+2024-07-02 11:01:40,372 - ----------------NEW_SESSION--------------
+2024-07-02 11:01:40,372 - User: 428950
+2024-07-02 11:01:40,372 - InputText: máy giặt lồng ngang và máy giặt lồng đứng cái nào tiện hơn
+2024-07-02 11:01:40,430 - ------------llm------------
+2024-07-02 11:01:40,430 - User: máy giặt lồng ngang và máy giặt lồng đứng cái nào tiện hơn
+2024-07-02 11:01:42,257 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:01:42,262 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 11:01:42,270 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 11:01:42,277 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 11:01:43,565 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:01:43,597 - Vcc_bot: Chúng tôi chỉ bán sản phẩm Máy Giặt lồng ngang. Máy giặt lồng ngang thường tiện hơn vì bạn có thể dễ dàng đặt và lấy đồ từ trên máy.
+2024-07-02 11:04:19,943 - ----------------NEW_SESSION--------------
+2024-07-02 11:04:19,943 - User: 428950
+2024-07-02 11:04:19,943 - InputText: đèn năng lượng mặt nên đây đâu cho phù hợp
+2024-07-02 11:04:20,008 - ------------llm------------
+2024-07-02 11:04:20,008 - User: đèn năng lượng mặt nên đây đâu cho phù hợp
+2024-07-02 11:04:22,479 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:04:22,483 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 11:04:22,491 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 11:04:25,351 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:04:25,379 - Vcc_bot: Chúng tôi có hai sản phẩm đèn năng lượng mặt trời: 
+1. Đèn Trụ cổng Năng Lượng Mặt Trời: Công suất 5W, thời gian chiếu sáng 10-12h liên tục, chế độ tự động bật/tắt đèn khi trời tối/sáng. Giá: 745030đ.
+2. Đèn Đường Năng Lượng Mặt Trời AIOSMART AD200: Công suất 200W, thời gian chiếu sáng 14-16h liên tục, chế độ tự động bật/tắt đèn khi trời tối/sáng + có điều khiển từ xa. Giá: 1724030đ.
+2024-07-02 11:04:46,672 - ----------------NEW_SESSION--------------
+2024-07-02 11:04:46,673 - User: 428950
+2024-07-02 11:04:46,673 - InputText: đèn năng lượng mặt trời để trong nhà có giặt động không
+2024-07-02 11:04:46,824 - ------------llm------------
+2024-07-02 11:04:46,825 - User: đèn năng lượng mặt trời để trong nhà có giặt động không
+2024-07-02 11:04:48,229 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:04:48,233 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 11:04:48,241 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 11:04:50,388 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:04:50,408 - Vcc_bot: AI: Đèn năng lượng mặt trời không thích hợp để sử dụng trong nhà vì nó cần ánh sáng mặt trời để sạc pin.
+2024-07-02 11:05:58,788 - ----------------NEW_SESSION--------------
+2024-07-02 11:05:58,789 - User: 428950
+2024-07-02 11:05:58,789 - InputText: so sánh bếp từ đôi và bếp từ đơn cái nào công suất lớn hơn
+2024-07-02 11:05:58,855 - ------------llm------------
+2024-07-02 11:05:58,856 - User: so sánh bếp từ đôi và bếp từ đơn cái nào công suất lớn hơn
+2024-07-02 11:06:00,796 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:06:00,801 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 11:06:00,811 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 11:06:01,702 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:06:01,722 - Vcc_bot: Bếp từ đôi có công suất lớn hơn so với bếp từ đơn.
+2024-07-02 11:09:16,595 - ----------------NEW_SESSION--------------
+2024-07-02 11:09:16,596 - User: 428950
+2024-07-02 11:09:16,596 - InputText: điều hòa hay quạt điều hòa mát hơn
+2024-07-02 11:09:16,664 - ------------llm------------
+2024-07-02 11:09:16,664 - User: điều hòa hay quạt điều hòa mát hơn
+2024-07-02 11:09:18,078 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:09:18,084 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 11:09:18,089 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.002s]
+2024-07-02 11:09:18,094 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.002s]
+2024-07-02 11:09:19,105 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:09:19,125 - Vcc_bot: Chúng tôi chỉ bán sản phẩm Điều hòa, không bán quạt điều hòa.
+2024-07-02 11:11:33,558 - ----------------NEW_SESSION--------------
+2024-07-02 11:11:33,558 - User: 428950
+2024-07-02 11:11:33,559 - InputText: ghế massage daikiosan có gì khác so với các ghế massage thông thường
+2024-07-02 11:11:33,632 - ------------llm------------
+2024-07-02 11:11:33,632 - User: ghế massage daikiosan có gì khác so với các ghế massage thông thường
+2024-07-02 11:11:35,988 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:11:35,992 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 11:11:36,012 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.016s]
+2024-07-02 11:11:38,946 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:11:38,967 - Vcc_bot: Chúng tôi chỉ bán sản phẩm Ghế massage Daikiosan, không bán các sản phẩm ghế massage thông thường khác. Ghế massage Daikiosan có công nghệ massage 3D, công nghệ thông minh AI 4.0 và kết hợp các bài massage Đông Y. Ngoài ra, ghế còn có chức năng scan cơ thể để điều chỉnh vị trí massage phù hợp từng người, chương trình massage tự động và động tác massage mô phỏng động tác của các chuyên gia vật lý trị liệu. Ghế cũng có khả năng massage không trọng lực (Zero Gravity), massage bằng nhiệt sưởi ấm và nhiều tính năng đặc biệt khác.
+2024-07-02 11:13:51,201 - ----------------NEW_SESSION--------------
+2024-07-02 11:13:51,202 - User: 428950
+2024-07-02 11:13:51,202 - InputText: nồi cơm điện aio có tình năng nào vượt trội hơn nồi cơm điện kalite
+2024-07-02 11:13:51,276 - ------------llm------------
+2024-07-02 11:13:51,276 - User: nồi cơm điện aio có tình năng nào vượt trội hơn nồi cơm điện kalite
+2024-07-02 11:13:53,340 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:13:53,344 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 11:13:53,351 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 11:13:53,359 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.004s]
+2024-07-02 11:13:56,127 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:13:56,150 - Vcc_bot: Chúng tôi chỉ bán sản phẩm Nồi cơm điện AIO, không bán sản phẩm Nồi cơm điện Kalite. Nồi cơm điện AIO có nhiều chức năng vượt trội như giữ ấm, hâm nóng, nấu nhanh, nấu cháo, nấu súp, hấp, làm bánh. Ngoài ra, nồi còn có màn hình LED hiển thị thời gian và ngôn ngữ Tiếng Việt. Kích thước sản phẩm là 344x271x218 mm và có khối lượng 4.75 kg. Nồi cơm điện AIO cũng được bảo hành 12 tháng.
+2024-07-02 11:15:00,033 - ----------------NEW_SESSION--------------
+2024-07-02 11:15:00,033 - User: 428950
+2024-07-02 11:15:00,033 - InputText: nồi cơm điện và nồi áp suất có điểm gì khác nhau
+2024-07-02 11:15:00,107 - ------------llm------------
+2024-07-02 11:15:00,107 - User: nồi cơm điện và nồi áp suất có điểm gì khác nhau
+2024-07-02 11:15:02,044 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:15:02,048 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 11:15:02,054 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.002s]
+2024-07-02 11:15:02,059 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.002s]
+2024-07-02 11:15:06,446 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:15:06,472 - Vcc_bot: AI: Nồi cơm điện và nồi áp suất có điểm khác nhau như sau:
+1. Chức năng: Nồi cơm điện có thể giữ ấm, hâm nóng, nấu nhanh, nấu cháo, nấu súp, hấp, làm bánh. Trong khi đó, nồi áp suất chỉ có chức năng nấu nhanh.
+2. Màn hình hiển thị: Nồi cơm điện có màn hình LED hiển thị thời gian và ngôn ngữ Tiếng Việt. Trong khi đó, nồi áp suất không có màn hình hiển thị.
+3. Kích thước và khối lượng: Kích thước của nồi cơm điện là 344x271x218 mm và có khối lượng 4.75 kg. Trong khi đó, kích thước và khối lượng của nồi áp suất không được cung cấp.
+4. Bảo hành: Nồi cơm điện AIO được bảo hành 12 tháng. Thông tin về bảo hành của nồi áp suất không được cung cấp.
+2024-07-02 11:24:47,444 - ----------------NEW_SESSION--------------
+2024-07-02 11:24:47,444 - User: 428950
+2024-07-02 11:24:47,444 - InputText: đèn năng lượng mặt trời có giá cao và đèn có giá thấp có gì khác nhau
+2024-07-02 11:24:47,519 - ------------llm------------
+2024-07-02 11:24:47,519 - User: đèn năng lượng mặt trời có giá cao và đèn có giá thấp có gì khác nhau
+2024-07-02 11:24:50,293 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:24:50,298 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 11:24:50,320 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.017s]
+2024-07-02 11:24:50,323 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.002s]
+2024-07-02 11:24:55,310 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:24:55,334 - Vcc_bot: AI: Đèn năng lượng mặt trời có giá cao và đèn có giá thấp có những khác nhau sau:
+1. Chất lượng: Đèn năng lượng mặt trời có giá cao thường có chất lượng tốt hơn, độ bền cao hơn và tuổi thọ lâu hơn so với đèn có giá thấp.
+2. Hiệu suất: Đèn năng lượng mặt trời có giá cao thường có hiệu suất cao hơn, tức là chúng sẽ tạo ra nhiều ánh sáng hơn từ năng lượng mặt trời so với đèn có giá thấp.
+3. Tính năng: Đèn năng lượng mặt trời có giá cao thường có nhiều tính năng hơn, chẳng hạn như cảm biến chuyển động, điều chỉnh độ sáng, chế độ tiết kiệm năng lượng, và thời gian hoạt động kéo dài hơn.
+4. Bảo hành: Đèn năng lượng mặt trời có giá cao thường đi kèm với thời gian bảo hành dài hơn và dịch vụ hỗ trợ sau bán hàng tốt hơn so với đèn có giá thấp.
+2024-07-02 11:27:33,163 - ----------------NEW_SESSION--------------
+2024-07-02 11:27:33,163 - User: 428950
+2024-07-02 11:27:33,164 - InputText: máy giặt aqua và máy giặt electrolux sản phẩm nào có chất liệu bền hơn
+2024-07-02 11:27:33,245 - ------------llm------------
+2024-07-02 11:27:33,245 - User: máy giặt aqua và máy giặt electrolux sản phẩm nào có chất liệu bền hơn
+2024-07-02 11:27:35,596 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:27:35,600 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 11:27:35,606 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 11:27:35,613 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.002s]
+2024-07-02 11:27:37,341 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:27:37,370 - Vcc_bot: Máy giặt Aqua và máy giặt Electrolux đều có chất liệu bền. Tuy nhiên, máy giặt Electrolux có chất liệu lồng giặt là thép không gỉ, giúp tăng độ bền và tuổi thọ của máy.
+2024-07-02 11:29:26,711 - ----------------NEW_SESSION--------------
+2024-07-02 11:29:26,712 - User: 428950
+2024-07-02 11:29:26,712 - InputText: máy lọc không khí carrier và máy lọc không khí daikin cái nào có tiếng ồn nhỏ
+2024-07-02 11:29:26,792 - ------------llm------------
+2024-07-02 11:29:26,792 - User: máy lọc không khí carrier và máy lọc không khí daikin cái nào có tiếng ồn nhỏ
+2024-07-02 11:29:28,874 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:29:28,879 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.003s]
+2024-07-02 11:29:28,887 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 11:29:28,894 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.002s]
+2024-07-02 11:29:29,828 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:29:29,859 - Vcc_bot: Máy lọc không khí Daikin có tiếng ồn nhỏ hơn máy lọc không khí Carrier.
+2024-07-02 11:33:04,427 - ----------------NEW_SESSION--------------
+2024-07-02 11:33:04,427 - User: 428950
+2024-07-02 11:33:04,427 - InputText: đèn năng lượng Mặt Trời suntek và đèn năng lượng Mặt Trời ufo cái nào có công suất nhỏ hơn
+2024-07-02 11:33:04,515 - ------------llm------------
+2024-07-02 11:33:04,515 - User: đèn năng lượng Mặt Trời suntek và đèn năng lượng Mặt Trời ufo cái nào có công suất nhỏ hơn
+2024-07-02 11:33:07,414 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:33:07,418 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 11:33:07,428 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.004s]
+2024-07-02 11:33:07,436 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 11:33:08,517 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:33:08,550 - Vcc_bot: Đèn năng lượng Mặt Trời Suntek có công suất nhỏ hơn đèn năng lượng Mặt Trời UFO.
+2024-07-02 11:39:09,273 - ----------------NEW_SESSION--------------
+2024-07-02 11:39:09,273 - User: 428950
+2024-07-02 11:39:09,274 - InputText: webcam maxhub và webcam 4k cái nào có độ phân giải tốt hơn
+2024-07-02 11:39:09,355 - ------------llm------------
+2024-07-02 11:39:09,356 - User: webcam maxhub và webcam 4k cái nào có độ phân giải tốt hơn
+2024-07-02 11:39:11,962 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:39:11,967 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 11:39:12,901 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:39:12,924 - Vcc_bot: AI: Webcam 4K có độ phân giải tốt hơn webcam Maxhub.
+2024-07-02 11:41:45,299 - ----------------NEW_SESSION--------------
+2024-07-02 11:41:45,299 - User: 428950
+2024-07-02 11:41:45,300 - InputText: web am maxhub và webcam 4k cái nào có độ phân giải tốt hơn
+2024-07-02 11:41:45,387 - ------------llm------------
+2024-07-02 11:41:45,387 - User: web am maxhub và webcam 4k cái nào có độ phân giải tốt hơn
+2024-07-02 11:41:47,505 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:42:29,780 - ----------------NEW_SESSION--------------
+2024-07-02 11:42:29,780 - User: 428950
+2024-07-02 11:42:29,780 - InputText: webcam maxhub và webcam 4k cái nào có độ phân giải tốt hơn
+2024-07-02 11:42:29,866 - ------------llm------------
+2024-07-02 11:42:29,867 - User: webcam maxhub và webcam 4k cái nào có độ phân giải tốt hơn
+2024-07-02 11:42:32,150 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:42:32,155 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.003s]
+2024-07-02 11:42:32,161 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 11:42:32,166 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.002s]
+2024-07-02 11:42:32,988 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 11:42:33,011 - Vcc_bot: Support: Webcam 4K có độ phân giải tốt hơn webcam Maxhub.
+2024-07-02 15:38:48,003 - ----------------NEW_SESSION--------------
+2024-07-02 15:38:48,004 - User: 428950
+2024-07-02 15:38:48,004 - InputText: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-02 15:38:48,079 - ------------llm------------
+2024-07-02 15:38:48,080 - User: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-02 15:38:49,813 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 15:38:49,819 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 15:38:49,826 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 15:38:51,428 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 15:38:51,469 - Vcc_bot: Support: Máy Giặt Aqua có hai loại, một là lồng đứng và một là lồng ngang.
+2024-07-02 15:39:50,990 - ----------------NEW_SESSION--------------
+2024-07-02 15:39:50,990 - User: 428950
+2024-07-02 15:39:50,990 - InputText: tồn kho
+2024-07-02 15:39:51,112 - Vcc_bot: Anh/chị vui lòng nhập mã sản phẩm và mã tỉnh theo mẫu sau: mã sản phẩm: M&EDM000005 và mã tỉnh: HNI
+2024-07-02 16:27:16,825 - ----------------NEW_SESSION--------------
+2024-07-02 16:27:16,825 - User: âgde
+2024-07-02 16:27:16,825 - InputText: điều hòa
+2024-07-02 16:27:16,860 - ------------llm------------
+2024-07-02 16:27:16,860 - User: điều hòa
+2024-07-02 16:27:18,290 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 16:28:26,767 - ----------------NEW_SESSION--------------
+2024-07-02 16:28:26,767 - User: âgde
+2024-07-02 16:28:26,767 - InputText: điều hòa
+2024-07-02 16:28:26,801 - ------------llm------------
+2024-07-02 16:28:26,802 - User: điều hòa
+2024-07-02 16:28:29,397 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 16:28:29,403 - HEAD http://10.248.243.105:9200/product3 [status:200 duration:0.003s]
+2024-07-02 16:28:29,453 - POST http://10.248.243.105:9200/product3/_search [status:200 duration:0.046s]
+2024-07-02 16:28:31,663 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 16:28:31,668 - Vcc_bot: Support Staff: Chào bạn! Chúng tôi chỉ bán sản phẩm Điều hòa. Hiện tại, chúng tôi không có thông tin về các sản phẩm khác. Bạn có thể cung cấp thêm thông tin về sản phẩm mà bạn quan tâm không?
+2024-07-02 16:34:30,310 - ----------------NEW_SESSION--------------
+2024-07-02 16:34:30,312 - User: âgde
+2024-07-02 16:34:30,314 - InputText: điều hòa
+2024-07-02 16:34:30,353 - ------------llm------------
+2024-07-02 16:34:30,355 - User: điều hòa
+2024-07-02 16:34:31,840 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 16:34:31,848 - HEAD http://10.248.243.105:9200/product3 [status:200 duration:0.002s]
+2024-07-02 16:34:31,855 - POST http://10.248.243.105:9200/product3/_search [status:200 duration:0.002s]
+2024-07-02 16:34:33,639 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 16:34:33,649 - Vcc_bot: Support Staff: Chào bạn! Chúng tôi chỉ bán sản phẩm Điều hòa. Hiện tại, chúng tôi không có thông tin về các sản phẩm khác. Bạn có thể cung cấp thêm thông tin về sản phẩm mà bạn quan tâm không?
+2024-07-02 16:35:16,277 - ----------------NEW_SESSION--------------
+2024-07-02 16:35:16,278 - User: huy_2_7
+2024-07-02 16:35:16,278 - InputText: điều hòa
+2024-07-02 16:35:16,321 - ------------llm------------
+2024-07-02 16:35:16,322 - User: điều hòa
+2024-07-02 16:35:18,643 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 16:35:18,648 - HEAD http://10.248.243.105:9200/product3 [status:200 duration:0.002s]
+2024-07-02 16:35:18,659 - POST http://10.248.243.105:9200/product3/_search [status:200 duration:0.008s]
+2024-07-02 16:35:21,003 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 16:35:21,006 - Vcc_bot: Support Staff: Chào bạn! Chúng tôi chỉ bán sản phẩm Điều hòa. Hiện tại, chúng tôi không tìm thấy sản phẩm phù hợp với yêu cầu của bạn. Bạn có thể cung cấp thêm thông tin về sản phẩm mà bạn đang tìm kiếm được không?
+2024-07-02 16:35:57,584 - ----------------NEW_SESSION--------------
+2024-07-02 16:35:57,585 - User: ưf
+2024-07-02 16:35:57,585 - InputText: điều hòa
+2024-07-02 16:35:57,628 - ------------llm------------
+2024-07-02 16:35:57,628 - User: điều hòa
+2024-07-02 16:35:58,952 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 16:35:58,958 - HEAD http://10.248.243.105:9200/product3 [status:200 duration:0.002s]
+2024-07-02 16:35:58,963 - POST http://10.248.243.105:9200/product3/_search [status:200 duration:0.002s]
+2024-07-02 16:36:00,709 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 16:36:00,714 - Vcc_bot: Support Staff: Chào bạn! Chúng tôi chỉ bán sản phẩm Điều hòa. Hiện tại, chúng tôi không tìm thấy sản phẩm phù hợp với yêu cầu của bạn. Bạn có thể cung cấp thêm thông tin về sản phẩm mà bạn đang tìm kiếm được không?
+2024-07-02 16:37:33,177 - ----------------NEW_SESSION--------------
+2024-07-02 16:37:33,178 - User: ưf
+2024-07-02 16:37:33,178 - InputText: điều hòa
+2024-07-02 16:37:33,227 - ------------llm------------
+2024-07-02 16:37:33,227 - User: điều hòa
+2024-07-02 16:37:34,804 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 16:37:34,809 - HEAD http://10.248.243.105:9200/product3 [status:200 duration:0.002s]
+2024-07-02 16:37:34,815 - POST http://10.248.243.105:9200/product3/_search [status:200 duration:0.002s]
+2024-07-02 16:37:36,749 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 16:37:36,753 - Vcc_bot: Support Staff: Chào bạn! Chúng tôi chỉ bán sản phẩm Điều hòa. Hiện tại, chúng tôi không tìm thấy sản phẩm phù hợp với yêu cầu của bạn. Bạn có thể cung cấp thêm thông tin về sản phẩm mà bạn đang tìm kiếm được không?
+2024-07-02 16:39:16,813 - ----------------NEW_SESSION--------------
+2024-07-02 16:39:16,813 - User: ưf
+2024-07-02 16:39:16,813 - InputText: điều hòa
+2024-07-02 16:39:16,859 - ------------llm------------
+2024-07-02 16:39:16,860 - User: điều hòa
+2024-07-02 16:39:18,161 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 16:39:18,167 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 16:39:18,176 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.005s]
+2024-07-02 16:39:25,922 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 16:39:25,926 - Vcc_bot: Support Staff: Chào bạn! Chúng tôi chỉ bán sản phẩm Điều hòa. Dưới đây là danh sách các sản phẩm điều hòa mà chúng tôi đang có:
+
+1. Điều hòa MDV - Inverter 9000 BTU - Giá: 6,014,184 VND
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7,246,030 VND
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11,740,520 VND
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9,423,040 VND
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11,200,420 VND
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16,508,470 VND
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA - Model 2023 - Giá: 12,070,850 VND
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14,851,100 VND
+9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12,461,240 VND
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14,917,980 VND
+
+Hãy cho chúng tôi biết sản phẩm nào bạn quan tâm để chúng tôi có thể hỗ trợ bạn tốt hơn.
+2024-07-02 16:45:10,874 - ----------------NEW_SESSION--------------
+2024-07-02 16:45:10,875 - User: ưf
+2024-07-02 16:45:10,875 - InputText: điều hòa
+2024-07-02 16:45:10,923 - ------------llm------------
+2024-07-02 16:45:10,924 - User: điều hòa
+2024-07-02 16:45:16,653 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 16:45:16,659 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 16:45:16,665 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 16:45:24,002 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 16:45:24,008 - Vcc_bot: Support Staff: Chào bạn! Chúng tôi chỉ bán sản phẩm Điều hòa. Dưới đây là danh sách các sản phẩm điều hòa mà chúng tôi đang có:
+
+1. Điều hòa MDV - Inverter 9000 BTU - Giá: 6,014,184 VND
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7,246,030 VND
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11,740,520 VND
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9,423,040 VND
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11,200,420 VND
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16,508,470 VND
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA - Model 2023 - Giá: 12,070,850 VND
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14,851,100 VND
+9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12,461,240 VND
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14,917,980 VND
+
+Hãy cho chúng tôi biết sản phẩm nào bạn quan tâm để chúng tôi có thể hỗ trợ bạn tốt hơn.
+2024-07-02 16:50:59,021 - ----------------NEW_SESSION--------------
+2024-07-02 16:50:59,022 - User: ưf
+2024-07-02 16:50:59,022 - InputText: điều hòa
+2024-07-02 16:50:59,072 - ------------llm------------
+2024-07-02 16:50:59,072 - User: điều hòa
+2024-07-02 16:51:01,295 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 16:51:01,301 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 16:51:01,307 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 16:51:09,316 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 16:51:09,320 - Vcc_bot: Support Staff: Chào bạn! Chúng tôi chỉ bán sản phẩm Điều hòa. Dưới đây là danh sách các sản phẩm điều hòa mà chúng tôi đang có:
+
+1. Điều hòa MDV - Inverter 9000 BTU - Giá: 6,014,184 VND
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7,246,030 VND
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11,740,520 VND
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9,423,040 VND
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11,200,420 VND
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16,508,470 VND
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA - Model 2023 - Giá: 12,070,850 VND
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14,851,100 VND
+9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12,461,240 VND
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14,917,980 VND
+
+Hãy cho chúng tôi biết sản phẩm nào bạn quan tâm để chúng tôi có thể hỗ trợ bạn tốt hơn.
+2024-07-02 16:51:48,199 - ----------------NEW_SESSION--------------
+2024-07-02 16:51:48,199 - User: ưfff
+2024-07-02 16:51:48,199 - InputText: điều hòa
+2024-07-02 16:51:48,249 - ------------llm------------
+2024-07-02 16:51:48,249 - User: điều hòa
+2024-07-02 16:51:50,227 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 16:51:50,232 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 16:51:50,238 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 16:51:58,148 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 16:51:58,150 - Vcc_bot: Support Staff: Chào anh/chị! Chúng tôi có các sản phẩm điều hòa sau đây:
+1. Điều hòa MDV - Inverter 9000 BTU - Giá: 6.014.184 VND
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7.246.030 VND
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11.740.520 VND
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9.423.040 VND
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11.200.420 VND
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16.508.470 VND
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA - Model 2023 - Giá: 12.070.850 VND
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14.851.100 VND
+9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12.461.240 VND
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14.917.980 VND
+
+Anh/chị cần thông tin chi tiết về sản phẩm nào ạ?
+2024-07-02 17:14:21,596 - ----------------NEW_SESSION--------------
+2024-07-02 17:14:21,597 - User: asfsf
+2024-07-02 17:14:21,597 - InputText: điều hòa
+2024-07-02 17:14:21,650 - ------------llm------------
+2024-07-02 17:14:21,651 - User: điều hòa
+2024-07-02 17:14:23,125 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:14:23,131 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.003s]
+2024-07-02 17:14:23,138 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.004s]
+2024-07-02 17:14:32,148 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:14:32,150 - Vcc_bot: Chào bạn! Dưới đây là danh sách các sản phẩm điều hòa mà chúng tôi đang bán:
+
+1. Điều hòa MDV - Inverter 9000 BTU - Giá: 6.014.184 VND
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7.246.030 VND
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11.740.520 VND
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9.423.040 VND
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11.200.420 VND
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16.508.470 VND
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - Series FTHF-VA - Model 2023 - Giá: 12.070.850 VND
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14.851.100 VND
+9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12.461.240 VND
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14.917.980 VND
+
+Nếu bạn có bất kỳ câu hỏi nào về các sản phẩm này, hãy để lại cho tôi biết.
+2024-07-02 17:15:13,159 - ----------------NEW_SESSION--------------
+2024-07-02 17:15:13,160 - User: asfsf
+2024-07-02 17:15:13,160 - InputText: điều hòa
+2024-07-02 17:15:13,215 - ------------llm------------
+2024-07-02 17:15:13,215 - User: điều hòa
+2024-07-02 17:15:15,296 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:15:15,302 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 17:15:15,308 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 17:15:22,047 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:15:22,050 - Vcc_bot: Chào bạn! Dưới đây là danh sách các sản phẩm điều hòa mà chúng tôi đang bán:
+
+1. Điều hòa MDV - Inverter 9000 BTU - Giá: 6.014.184 VND
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7.246.030 VND
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11.740.520 VND
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9.423.040 VND
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11.200.420 VND
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16.508.470 VND
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - Series FTHF-VA - Model 2023 - Giá: 12.070.850 VND
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14.851.100 VND
+9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12.461.240 VND
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14.917.980 VND
+
+Nếu bạn có bất kỳ câu hỏi nào về các sản phẩm này, hãy để lại cho tôi biết.
+2024-07-02 17:23:39,671 - ----------------NEW_SESSION--------------
+2024-07-02 17:23:39,672 - User: sd
+2024-07-02 17:23:39,672 - InputText: điều hòa
+2024-07-02 17:23:39,729 - ------------llm------------
+2024-07-02 17:23:39,730 - User: điều hòa
+2024-07-02 17:23:41,150 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:23:41,157 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 17:23:41,173 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.013s]
+2024-07-02 17:23:48,297 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:23:48,301 - Vcc_bot: Support Staff: Chào anh/chị! Chúng tôi có các sản phẩm điều hòa sau đây:
+1. Điều hòa MDV - Inverter 9000 BTU - Giá: 6.014.184 VND
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7.246.030 VND
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11.740.520 VND
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9.423.040 VND
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11.200.420 VND
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16.508.470 VND
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA - Model 2023 - Giá: 12.070.850 VND
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14.851.100 VND
+9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12.461.240 VND
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14.917.980 VND
+
+Anh/chị cần thông tin chi tiết về sản phẩm nào ạ?
+2024-07-02 17:33:08,992 - ----------------NEW_SESSION--------------
+2024-07-02 17:33:08,992 - User: f
+2024-07-02 17:33:08,992 - InputText: điều hòa
+2024-07-02 17:33:09,046 - ------------llm------------
+2024-07-02 17:33:09,046 - User: điều hòa
+2024-07-02 17:33:10,492 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:33:10,498 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 17:33:10,504 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 17:33:18,679 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:33:18,681 - Vcc_bot: Chào bạn! Dưới đây là danh sách các sản phẩm điều hòa mà chúng tôi đang bán:
+
+1. Điều hòa MDV - Inverter 9000 BTU - Giá: 6.014.184 VND
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7.246.030 VND
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11.740.520 VND
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9.423.040 VND
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11.200.420 VND
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16.508.470 VND
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - Series FTHF-VA - Model 2023 - Giá: 12.070.850 VND
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14.851.100 VND
+9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12.461.240 VND
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14.917.980 VND
+
+Nếu bạn có bất kỳ câu hỏi nào về các sản phẩm này, hãy để tôi biết để tôi có thể giúp bạn.
+2024-07-02 17:45:15,479 - ----------------NEW_SESSION--------------
+2024-07-02 17:45:15,479 - User: 428950
+2024-07-02 17:45:15,479 - InputText: xin chào
+2024-07-02 17:45:15,601 - Vcc_bot: Chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-07-02 17:45:35,719 - ----------------NEW_SESSION--------------
+2024-07-02 17:45:35,719 - User: 428950
+2024-07-02 17:45:35,719 - InputText: có bao nhiêu sản phẩm điều hòa
+2024-07-02 17:45:35,887 - ------------llm------------
+2024-07-02 17:45:35,888 - User: có bao nhiêu sản phẩm điều hòa
+2024-07-02 17:45:38,163 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:45:38,168 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 17:45:38,174 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 17:45:44,521 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:45:44,553 - Vcc_bot: Chúng tôi có 10 sản phẩm điều hòa. Dưới đây là danh sách các sản phẩm điều hòa mà chúng tôi cung cấp:
+
+1. Điều hòa MDV - Inverter 9000 BTU
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023
+9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023
+2024-07-02 17:46:10,923 - ----------------NEW_SESSION--------------
+2024-07-02 17:46:10,924 - User: 428950
+2024-07-02 17:46:10,924 - InputText: có bao nhiêu sản phẩm điều hòa
+2024-07-02 17:46:10,994 - ------------llm------------
+2024-07-02 17:46:10,995 - User: có bao nhiêu sản phẩm điều hòa
+2024-07-02 17:46:12,565 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:46:12,570 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 17:46:12,575 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 17:46:17,894 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:46:17,946 - Vcc_bot: Chúng tôi có 10 sản phẩm điều hòa. Dưới đây là danh sách các sản phẩm điều hòa mà chúng tôi cung cấp:
+
+1. Điều hòa MDV - Inverter 9000 BTU
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023
+9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023
+2024-07-02 17:47:00,333 - ----------------NEW_SESSION--------------
+2024-07-02 17:47:00,334 - User: 428950
+2024-07-02 17:47:00,334 - InputText: có bao nhiêu sản phẩm điều hòa
+2024-07-02 17:47:00,404 - ------------llm------------
+2024-07-02 17:47:00,404 - User: có bao nhiêu sản phẩm điều hòa
+2024-07-02 17:47:01,865 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:47:01,870 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 17:47:01,875 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 17:47:08,667 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:47:08,715 - Vcc_bot: Chúng tôi có 10 sản phẩm điều hòa. Dưới đây là danh sách các sản phẩm điều hòa mà chúng tôi cung cấp:
+
+1. Điều hòa MDV - Inverter 9000 BTU
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023
+9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023
+2024-07-02 17:47:20,587 - ----------------NEW_SESSION--------------
+2024-07-02 17:47:20,587 - User: 428950
+2024-07-02 17:47:20,587 - InputText: điều hòa
+2024-07-02 17:47:20,670 - ------------llm------------
+2024-07-02 17:47:20,670 - User: điều hòa
+2024-07-02 17:47:22,027 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:47:22,031 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 17:47:22,042 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.009s]
+2024-07-02 17:47:27,184 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:47:27,209 - Vcc_bot: Chúng tôi có 10 sản phẩm điều hòa. Dưới đây là danh sách các sản phẩm điều hòa mà chúng tôi cung cấp:
+
+1. Điều hòa MDV - Inverter 9000 BTU
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023
+9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023
+2024-07-02 17:47:51,433 - ----------------NEW_SESSION--------------
+2024-07-02 17:47:51,434 - User: 428950
+2024-07-02 17:47:51,435 - InputText: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-02 17:47:51,520 - ------------llm------------
+2024-07-02 17:47:51,520 - User: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-02 17:47:53,438 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:47:53,442 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 17:47:53,450 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 17:47:54,603 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:47:54,666 - Vcc_bot: Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng.
+2024-07-02 17:47:54,670 - ----------------NEW_SESSION--------------
+2024-07-02 17:47:54,670 - User: 428950
+2024-07-02 17:47:54,671 - InputText: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-02 17:47:54,757 - ------------llm------------
+2024-07-02 17:47:54,757 - User: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-02 17:47:57,090 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:47:57,096 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 17:47:57,103 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 17:47:58,869 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:47:58,899 - Vcc_bot: Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng.
+2024-07-02 17:47:58,902 - ----------------NEW_SESSION--------------
+2024-07-02 17:47:58,902 - User: 428950
+2024-07-02 17:47:58,903 - InputText: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-02 17:47:58,991 - ------------llm------------
+2024-07-02 17:47:58,992 - User: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-02 17:48:00,429 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:48:00,433 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 17:48:00,441 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 17:48:02,264 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:48:02,322 - Vcc_bot: Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng.
+2024-07-02 17:48:02,325 - ----------------NEW_SESSION--------------
+2024-07-02 17:48:02,325 - User: 428950
+2024-07-02 17:48:02,326 - InputText: /Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?
+2024-07-02 17:48:02,420 - ------------llm------------
+2024-07-02 17:48:02,421 - User: /Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?
+2024-07-02 17:48:04,045 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:48:04,051 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 17:48:04,060 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 17:48:10,949 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:48:10,984 - Vcc_bot: Chúng tôi có các sản phẩm Đèn Năng Lượng Mặt Trời với giá bình dân như sau:
+1. Đèn Trụ cổng Năng Lượng Mặt Trời - Giá: 745030 VND
+2. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200 - Giá: 1724030 VND
+3. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300 - Giá: 1851740 VND
+4. ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300 - Giá: 1915540 VND
+5. Đèn led ốp trần năng lượng mặt trời .Model:H05, hiệu:SUNTEK - Giá: 1123320 VND
+6. Đèn Sân Vườn Năng Lượng Mặt Trời. Mã: GD-09 - Giá: 1167980 VND
+7. Bộ đèn led năng lượng mặt trời SV08. Hiệu: SUNTEK - Giá: 1937980 VND
+8. Bộ đèn đường năng lượng mặt trời Suntek, Model: S150 - Giá: 1349920 VND
+2024-07-02 17:48:10,988 - ----------------NEW_SESSION--------------
+2024-07-02 17:48:10,989 - User: 428950
+2024-07-02 17:48:10,989 - InputText: /Bạn đang quan tâm đến dịch vụ, chính sách của VCC?
+2024-07-02 17:48:11,168 - Vcc_bot: Quý khách xin thông cảm! Tôi không hiểu câu hỏi của bạn.
+2024-07-02 17:49:32,938 - ----------------NEW_SESSION--------------
+2024-07-02 17:49:32,939 - User: kj
+2024-07-02 17:49:32,939 - InputText: điều hòa
+2024-07-02 17:49:32,996 - ------------llm------------
+2024-07-02 17:49:32,996 - User: điều hòa
+2024-07-02 17:49:34,437 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:49:34,443 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 17:49:34,449 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 17:49:41,939 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:49:41,942 - Vcc_bot: Support Staff: Chào anh/chị! Chúng tôi có các sản phẩm điều hòa sau đây:
+1. Điều hòa MDV - Inverter 9000 BTU - Giá: 6.014.184 VND
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023 - Giá: 7.246.030 VND
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 - Giá: 11.740.520 VND
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023 - Giá: 9.423.040 VND
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 11.200.420 VND
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023 - Giá: 16.508.470 VND
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA - Model 2023 - Giá: 12.070.850 VND
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023 - Giá: 14.851.100 VND
+9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023 - Giá: 12.461.240 VND
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023 - Giá: 14.917.980 VND
+
+Anh/chị cần thông tin chi tiết về sản phẩm nào ạ?
+2024-07-02 17:55:01,489 - ----------------NEW_SESSION--------------
+2024-07-02 17:55:01,490 - User: kj
+2024-07-02 17:55:01,490 - InputText: đèn năng lượng mặt trời
+2024-07-02 17:55:01,549 - ------------llm------------
+2024-07-02 17:55:01,549 - User: đèn năng lượng mặt trời
+2024-07-02 17:55:03,166 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:55:03,173 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.003s]
+2024-07-02 17:55:03,181 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 17:55:09,670 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 17:55:09,673 - Vcc_bot: Support Staff: Chào anh/chị! Chúng tôi có các sản phẩm đèn năng lượng mặt trời sau đây:
+1. Đèn Trụ cổng Năng Lượng Mặt Trời - Giá: 745030 VND
+2. Đèn Đường Năng Lượng Mặt Trời AIOSMART AD200 - Giá: 1724030 VND
+3. Đèn Đường Năng Lượng Mặt Trời AIOSMART AD300 - Giá: 1851740 VND
+4. Đèn Chiếu Pha Năng Lượng Mặt Trời AIOSMART AP300 - Giá: 1915540 VND
+5. Bộ Đèn Đường Năng Lượng Mặt Trời Model S400, hiệu SUNTEK - Giá: 2606230 VND
+6. Bộ Đèn Đường Năng Lượng Mặt Trời Model S500, hiệu SUNTEK - Giá: 2873530 VND
+7. Đèn Led Ốp Trần Năng Lượng Mặt Trời Model H05, hiệu SUNTEK - Giá: 1123320 VND
+8. Đèn Sân Vườn Năng Lượng Mặt Trời Mã GD-09 - Giá: 1167980 VND
+9. Bộ Đèn Led Năng Lượng Mặt Trời SV08, hiệu SUNTEK - Giá: 1937980 VND
+10. Bộ Đèn Đường Năng Lượng Mặt Trời Suntek, Model S150 - Giá: 1349920 VND
+
+Anh/chị cần thông tin chi tiết về sản phẩm nào ạ?
+2024-07-02 18:00:14,391 - ----------------NEW_SESSION--------------
+2024-07-02 18:00:14,391 - User: kj
+2024-07-02 18:00:14,391 - InputText: đèn năng lượng mặt trời
+2024-07-02 18:00:14,450 - ------------llm------------
+2024-07-02 18:00:14,450 - User: đèn năng lượng mặt trời
+2024-07-02 18:00:15,953 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 18:00:15,959 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-02 18:00:15,968 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.003s]
+2024-07-02 18:00:22,702 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-02 18:00:22,705 - Vcc_bot: Support Staff: Chào anh/chị! Chúng tôi có các sản phẩm đèn năng lượng mặt trời sau đây:
+1. Đèn Trụ cổng Năng Lượng Mặt Trời - Giá: 745030 VND
+2. Đèn Đường Năng Lượng Mặt Trời AIOSMART AD200 - Giá: 1724030 VND
+3. Đèn Đường Năng Lượng Mặt Trời AIOSMART AD300 - Giá: 1851740 VND
+4. Đèn Chiếu Pha Năng Lượng Mặt Trời AIOSMART AP300 - Giá: 1915540 VND
+5. Bộ Đèn Đường Năng Lượng Mặt Trời Model S400, hiệu SUNTEK - Giá: 2606230 VND
+6. Bộ Đèn Đường Năng Lượng Mặt Trời Model S500, hiệu SUNTEK - Giá: 2873530 VND
+7. Đèn Led Ốp Trần Năng Lượng Mặt Trời Model H05, hiệu SUNTEK - Giá: 1123320 VND
+8. Đèn Sân Vườn Năng Lượng Mặt Trời Mã GD-09 - Giá: 1167980 VND
+9. Bộ Đèn Led Năng Lượng Mặt Trời SV08, hiệu SUNTEK - Giá: 1937980 VND
+10. Bộ Đèn Đường Năng Lượng Mặt Trời Suntek, Model S150 - Giá: 1349920 VND
+
+Anh/chị cần thông tin chi tiết về sản phẩm nào ạ?
+2024-07-03 08:56:25,222 - ----------------NEW_SESSION--------------
+2024-07-03 08:56:25,222 - User: 197903
+2024-07-03 08:56:25,222 - InputText: hi
+2024-07-03 08:56:25,278 - Vcc_bot: Xin chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-07-03 08:57:17,140 - ----------------NEW_SESSION--------------
+2024-07-03 08:57:17,140 - User: 197903
+2024-07-03 08:57:17,140 - InputText: hi
+2024-07-03 08:57:17,185 - Vcc_bot: Xin chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-07-03 09:06:39,050 - ----------------NEW_SESSION--------------
+2024-07-03 09:06:39,050 - User: 197903
+2024-07-03 09:06:39,050 - InputText: term
+2024-07-03 09:06:39,087 - Vcc_bot: Lỗi Rasa rồi!
+2024-07-03 09:08:09,583 - ----------------NEW_SESSION--------------
+2024-07-03 09:08:09,583 - User: 197903
+2024-07-03 09:08:09,583 - InputText: term
+2024-07-03 09:08:09,618 - Vcc_bot: Lỗi Rasa rồi!
+2024-07-03 09:09:33,997 - ----------------NEW_SESSION--------------
+2024-07-03 09:09:33,997 - User: 197903
+2024-07-03 09:09:33,997 - InputText: /Tôi muốn biết VCC bán những gì?
+2024-07-03 09:09:34,036 - Vcc_bot: Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:
+    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
+    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời
+Hôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?
+2024-07-03 09:09:40,887 - ----------------NEW_SESSION--------------
+2024-07-03 09:09:40,887 - User: 197903
+2024-07-03 09:09:40,887 - InputText: /Bạn đang quan tâm đến dịch vụ, chính sách của VCC?
+2024-07-03 09:09:40,960 - Vcc_bot: Quý khách xin thông cảm! Tôi không hiểu câu hỏi của bạn.
+2024-07-03 09:09:50,804 - ----------------NEW_SESSION--------------
+2024-07-03 09:09:50,804 - User: 197903
+2024-07-03 09:09:50,804 - InputText: /Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?
+2024-07-03 09:09:50,843 - ------------llm------------
+2024-07-03 09:09:50,843 - User: /Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?
+2024-07-03 09:09:52,688 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 09:09:52,859 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.166s]
+2024-07-03 09:09:53,368 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.505s]
+2024-07-03 09:09:58,778 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 09:09:58,784 - Vcc_bot: Chúng tôi có các sản phẩm đèn năng lượng mặt trời với giá bình dân như sau:
+1. Đèn Trụ cổng Năng Lượng Mặt Trời - Giá: 745030 VND
+2. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200 - Giá: 1724030 VND
+3. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300 - Giá: 1851740 VND
+4. ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300 - Giá: 1915540 VND
+5. Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK - Giá: 2606230 VND
+6. Bộ đèn đường năng lượng mặt trời .Model:S500 ,hiệu:SUNTEK - Giá: 2873530 VND
+7. Đèn led ốp trần năng lượng mặt trời .Model:H05, hiệu:SUNTEK - Giá: 1123320 VND
+8. Đèn Sân Vườn Năng Lượng Mặt Trời. Mã: GD-09 - Giá: 1167980 VND
+9. Bộ đèn led năng lượng mặt trời SV08. Hiệu: SUNTEK - Giá: 1937980 VND
+10. Bộ đèn đường năng lượng mặt trời Suntek, Model: S150 - Giá: 1349920 VND
+2024-07-03 09:10:03,608 - ----------------NEW_SESSION--------------
+2024-07-03 09:10:03,608 - User: 197903
+2024-07-03 09:10:03,608 - InputText: /Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?
+2024-07-03 09:10:03,649 - ------------llm------------
+2024-07-03 09:10:03,649 - User: /Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?
+2024-07-03 09:10:05,105 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 09:10:05,110 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-03 09:10:05,159 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.045s]
+2024-07-03 09:10:12,640 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 09:10:12,645 - Vcc_bot: Chúng tôi có các sản phẩm đèn năng lượng mặt trời với giá bình dân như sau:
+1. Đèn Trụ cổng Năng Lượng Mặt Trời - Giá: 745030 VND
+2. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200 - Giá: 1724030 VND
+3. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300 - Giá: 1851740 VND
+4. ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300 - Giá: 1915540 VND
+5. Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK - Giá: 2606230 VND
+6. Bộ đèn đường năng lượng mặt trời .Model:S500 ,hiệu:SUNTEK - Giá: 2873530 VND
+7. Đèn led ốp trần năng lượng mặt trời .Model:H05, hiệu:SUNTEK - Giá: 1123320 VND
+8. Đèn Sân Vườn Năng Lượng Mặt Trời. Mã: GD-09 - Giá: 1167980 VND
+9. Bộ đèn led năng lượng mặt trời SV08. Hiệu: SUNTEK - Giá: 1937980 VND
+10. Bộ đèn đường năng lượng mặt trời Suntek, Model: S150 - Giá: 1349920 VND
+2024-07-03 09:10:20,017 - ----------------NEW_SESSION--------------
+2024-07-03 09:10:20,018 - User: 197903
+2024-07-03 09:10:20,018 - InputText: ok
+2024-07-03 09:10:20,060 - Vcc_bot: Dường như có một sự nhầm lẫn ở đây. Nếu bạn có câu hỏi cụ thể hoặc cần hỗ trợ về sản phẩm hoặc dịch vụ nào đó, đừng ngần ngại chia sẻ. Tôi sẽ cố gắng hỗ trợ bạn một cách tốt nhất có thể!
+2024-07-03 09:12:02,779 - ----------------NEW_SESSION--------------
+2024-07-03 09:12:02,779 - User: 197903
+2024-07-03 09:12:02,779 - InputText: hi
+2024-07-03 09:12:02,823 - Vcc_bot: Xin chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-07-03 09:12:17,389 - ----------------NEW_SESSION--------------
+2024-07-03 09:12:17,389 - User: 197903
+2024-07-03 09:12:17,389 - InputText: /Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?
+2024-07-03 09:12:17,434 - ------------llm------------
+2024-07-03 09:12:17,434 - User: /Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?
+2024-07-03 09:12:18,751 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 09:12:18,756 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-03 09:12:18,782 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.022s]
+2024-07-03 09:12:21,953 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 09:12:21,961 - Vcc_bot: Trong danh sách sản phẩm của chúng tôi, có một số sản phẩm đèn năng lượng mặt trời có giá bình dân như sau:
+1. Đèn Trụ cổng Năng Lượng Mặt Trời - Giá: 745030 VND
+2. Đèn led ốp trần năng lượng mặt trời Model:H05, hiệu:SUNTEK - Giá: 1123320 VND
+3. Đèn Sân Vườn Năng Lượng Mặt Trời Mã: GD-09 - Giá: 1167980 VND
+Bạn có thể lựa chọn một trong các sản phẩm này.
+2024-07-03 09:12:28,401 - ----------------NEW_SESSION--------------
+2024-07-03 09:12:28,402 - User: 197903
+2024-07-03 09:12:28,402 - InputText: /Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?
+2024-07-03 09:12:28,446 - ------------llm------------
+2024-07-03 09:12:28,446 - User: /Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?
+2024-07-03 09:12:30,070 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 09:12:30,074 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-03 09:12:30,107 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.028s]
+2024-07-03 09:12:33,144 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 09:12:33,153 - Vcc_bot: Trong danh sách sản phẩm của chúng tôi, có một số sản phẩm đèn năng lượng mặt trời có giá bình dân như sau:
+1. Đèn Trụ cổng Năng Lượng Mặt Trời - Giá: 745030 VND
+2. Đèn led ốp trần năng lượng mặt trời Model:H05, hiệu:SUNTEK - Giá: 1123320 VND
+3. Đèn Sân Vườn Năng Lượng Mặt Trời Mã: GD-09 - Giá: 1167980 VND
+Bạn có thể lựa chọn một trong các sản phẩm này.
+2024-07-03 09:12:35,616 - ----------------NEW_SESSION--------------
+2024-07-03 09:12:35,616 - User: 197903
+2024-07-03 09:12:35,617 - InputText: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 09:12:35,663 - ------------llm------------
+2024-07-03 09:12:35,664 - User: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 09:12:37,588 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 09:12:37,593 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-03 09:12:37,695 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.098s]
+2024-07-03 09:12:39,361 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 09:12:39,371 - Vcc_bot: Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng.
+2024-07-03 09:12:44,975 - ----------------NEW_SESSION--------------
+2024-07-03 09:12:44,975 - User: 197903
+2024-07-03 09:12:44,975 - InputText: đm
+2024-07-03 09:12:45,030 - Vcc_bot: Dường như có một sự nhầm lẫn ở đây. Nếu bạn có câu hỏi cụ thể hoặc cần hỗ trợ về sản phẩm hoặc dịch vụ nào đó, đừng ngần ngại chia sẻ. Tôi sẽ cố gắng hỗ trợ bạn một cách tốt nhất có thể!
+2024-07-03 09:13:01,126 - ----------------NEW_SESSION--------------
+2024-07-03 09:13:01,126 - User: 197903
+2024-07-03 09:13:01,126 - InputText: này
+2024-07-03 09:13:01,175 - Vcc_bot: Lỗi Rasa rồi!
+2024-07-03 09:13:09,092 - ----------------NEW_SESSION--------------
+2024-07-03 09:13:09,092 - User: 197903
+2024-07-03 09:13:09,092 - InputText: ngu
+2024-07-03 09:13:09,143 - Vcc_bot: Tôi rất tiếc, nhưng tôi không hiểu yêu cầu của bạn. Bạn có thể cung cấp thông tin chi tiết hơn không?
+2024-07-03 09:13:16,086 - ----------------NEW_SESSION--------------
+2024-07-03 09:13:16,086 - User: 197903
+2024-07-03 09:13:16,086 - InputText: ok
+2024-07-03 09:13:16,139 - Vcc_bot: Tôi là bot được tạo ra để hỗ trợ tư vẫn bán hàng nên những câu hỏi không liên quan tôi sẽ không thể giải đáp được.
+2024-07-03 09:13:28,702 - ----------------NEW_SESSION--------------
+2024-07-03 09:13:28,702 - User: 197903
+2024-07-03 09:13:28,702 - InputText: bán hàng đi
+2024-07-03 09:13:28,756 - Vcc_bot: Xin lỗi, nhưng tôi không hiểu câu hỏi của bạn. Bạn có thể giải thích rõ hơn được không? Tôi sẽ cố gắng giúp bạn.
+2024-07-03 09:13:42,193 - ----------------NEW_SESSION--------------
+2024-07-03 09:13:42,193 - User: 197903
+2024-07-03 09:13:42,193 - InputText: bán máy giặt cho tôi
+2024-07-03 09:13:42,244 - ------------llm------------
+2024-07-03 09:13:42,245 - User: bán máy giặt cho tôi
+2024-07-03 09:13:43,297 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 09:13:43,303 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.004s]
+2024-07-03 09:13:43,350 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.044s]
+2024-07-03 09:13:46,835 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 09:13:46,842 - Vcc_bot: AI: Chúng tôi có các sản phẩm máy giặt sau đây:
+1. Máy Giặt Aqua 9 Kg AQW-F91GT.S - Giá: 5,759,050 VND
+2. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB - Giá: 14,450,040 VND
+3. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S - Giá: 4,726,370 VND
+4. Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK - Giá: 6,074,970 VND
+5. Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB - Giá: 11,898,480 VND
+6. Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB - Giá: 12,749,000 VND
+
+Xin vui lòng cho biết bạn quan tâm đến sản phẩm nào để tôi có thể cung cấp thông tin chi tiết hơn.
+2024-07-03 09:33:14,586 - ----------------NEW_SESSION--------------
+2024-07-03 09:33:14,586 - User: 197903
+2024-07-03 09:33:14,586 - InputText: /Tôi muốn biết VCC bán những gì?
+2024-07-03 09:33:14,652 - Vcc_bot: Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:
+    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
+    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời
+Hôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?
+2024-07-03 09:33:23,408 - ----------------NEW_SESSION--------------
+2024-07-03 09:33:23,408 - User: 197903
+2024-07-03 09:33:23,408 - InputText: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 09:33:23,460 - ------------llm------------
+2024-07-03 09:33:23,460 - User: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 09:33:25,009 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 09:33:25,015 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.003s]
+2024-07-03 09:33:25,073 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.054s]
+2024-07-03 09:33:26,050 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 09:33:26,060 - Vcc_bot: Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng.

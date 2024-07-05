@@ -1,0 +1,781 @@
+2024-07-03 09:43:28,252 - ----------------NEW_SESSION--------------
+2024-07-03 09:43:28,252 - User: 197903
+2024-07-03 09:43:28,252 - InputText: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 09:43:28,318 - ------------llm------------
+2024-07-03 09:43:28,318 - User: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 09:43:29,869 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 09:43:29,875 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-03 09:43:29,898 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.019s]
+2024-07-03 09:43:31,061 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 09:43:31,068 - Vcc_bot: Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng.
+2024-07-03 09:43:39,539 - ----------------NEW_SESSION--------------
+2024-07-03 09:43:39,539 - User: 197903
+2024-07-03 09:43:39,539 - InputText: /similarity_status_true
+2024-07-03 09:43:39,610 - Vcc_bot: Xin lỗi, nhưng tôi không hiểu câu hỏi của bạn. Bạn có thể giải thích rõ hơn được không? Tôi sẽ cố gắng giúp bạn.
+2024-07-03 09:46:00,260 - ----------------NEW_SESSION--------------
+2024-07-03 09:46:00,260 - User: 197903
+2024-07-03 09:46:00,261 - InputText: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 09:46:00,320 - ------------llm------------
+2024-07-03 09:46:00,321 - User: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 09:46:02,066 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 09:46:02,073 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.003s]
+2024-07-03 09:46:02,091 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.014s]
+2024-07-03 09:46:03,131 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 09:46:03,147 - Vcc_bot: Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng.
+2024-07-03 09:55:59,246 - ----------------NEW_SESSION--------------
+2024-07-03 09:55:59,246 - User: 197903
+2024-07-03 09:55:59,246 - InputText: /Tôi đang quan tâm Máy Giặt Aqua lồng đứng?
+2024-07-03 09:55:59,306 - ------------llm------------
+2024-07-03 09:55:59,307 - User: /Tôi đang quan tâm Máy Giặt Aqua lồng đứng?
+2024-07-03 09:56:00,804 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 09:56:00,810 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-03 09:56:00,817 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.004s]
+2024-07-03 09:56:01,255 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 09:56:01,255 - Retrying request to /chat/completions in 0.957950 seconds
+2024-07-03 09:56:02,494 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 09:56:02,494 - Retrying request to /chat/completions in 1.839481 seconds
+2024-07-03 09:56:04,618 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 09:58:47,057 - ----------------NEW_SESSION--------------
+2024-07-03 09:58:47,057 - User: 197903
+2024-07-03 09:58:47,057 - InputText: /Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?
+2024-07-03 09:58:47,119 - ------------llm------------
+2024-07-03 09:58:47,119 - User: /Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?
+2024-07-03 09:58:47,513 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 09:58:47,514 - Retrying request to /chat/completions in 0.886447 seconds
+2024-07-03 09:58:48,666 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 09:58:48,666 - Retrying request to /chat/completions in 1.840956 seconds
+2024-07-03 09:58:50,797 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:06:08,212 - ----------------NEW_SESSION--------------
+2024-07-03 10:06:08,212 - User: 197903
+2024-07-03 10:06:08,212 - InputText: /Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?
+2024-07-03 10:06:08,281 - ------------llm------------
+2024-07-03 10:06:08,282 - User: /Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?
+2024-07-03 10:06:08,806 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:06:08,807 - Retrying request to /chat/completions in 0.809193 seconds
+2024-07-03 10:06:09,986 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:06:09,986 - Retrying request to /chat/completions in 1.599786 seconds
+2024-07-03 10:06:11,965 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:06:16,627 - ----------------NEW_SESSION--------------
+2024-07-03 10:06:16,627 - User: 197903
+2024-07-03 10:06:16,627 - InputText: /Tôi đang quan tâm Máy Giặt Aqua lồng đứng?
+2024-07-03 10:06:16,699 - ------------llm------------
+2024-07-03 10:06:16,699 - User: /Tôi đang quan tâm Máy Giặt Aqua lồng đứng?
+2024-07-03 10:06:17,077 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:06:17,078 - Retrying request to /chat/completions in 0.967686 seconds
+2024-07-03 10:06:18,437 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:06:18,437 - Retrying request to /chat/completions in 1.967114 seconds
+2024-07-03 10:06:20,774 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:09:23,233 - ----------------NEW_SESSION--------------
+2024-07-03 10:09:23,233 - User: g
+2024-07-03 10:09:23,234 - InputText: Tôi đang quan tâm Máy Giặt Aqua lồng đứng?
+2024-07-03 10:09:23,300 - ------------llm------------
+2024-07-03 10:09:23,300 - User: Tôi đang quan tâm Máy Giặt Aqua lồng đứng?
+2024-07-03 10:09:23,941 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:09:23,942 - Retrying request to /chat/completions in 0.971107 seconds
+2024-07-03 10:09:25,290 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:09:25,291 - Retrying request to /chat/completions in 1.640290 seconds
+2024-07-03 10:09:27,398 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:09:50,211 - ----------------NEW_SESSION--------------
+2024-07-03 10:09:50,211 - User: g
+2024-07-03 10:09:50,211 - InputText: điều hòa
+2024-07-03 10:09:50,276 - ------------llm------------
+2024-07-03 10:09:50,276 - User: điều hòa
+2024-07-03 10:09:50,838 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:09:50,839 - Retrying request to /chat/completions in 0.769820 seconds
+2024-07-03 10:09:51,980 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:09:51,981 - Retrying request to /chat/completions in 1.834906 seconds
+2024-07-03 10:09:54,198 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:13:32,516 - ----------------NEW_SESSION--------------
+2024-07-03 10:13:32,516 - User: g
+2024-07-03 10:13:32,516 - InputText: điều hòa
+2024-07-03 10:13:32,582 - ------------llm------------
+2024-07-03 10:13:32,582 - User: điều hòa
+2024-07-03 10:13:33,044 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:13:33,045 - Retrying request to /chat/completions in 0.812484 seconds
+2024-07-03 10:13:34,147 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:13:34,147 - Retrying request to /chat/completions in 1.816282 seconds
+2024-07-03 10:13:36,233 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:14:48,510 - ----------------NEW_SESSION--------------
+2024-07-03 10:14:48,510 - User: g
+2024-07-03 10:14:48,510 - InputText: điều hòa
+2024-07-03 10:14:48,576 - ------------llm------------
+2024-07-03 10:14:48,577 - User: điều hòa
+2024-07-03 10:14:49,228 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:14:49,228 - Retrying request to /chat/completions in 0.943768 seconds
+2024-07-03 10:14:50,560 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:14:50,561 - Retrying request to /chat/completions in 1.618394 seconds
+2024-07-03 10:14:52,565 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:16:27,511 - ----------------NEW_SESSION--------------
+2024-07-03 10:16:27,511 - User: g
+2024-07-03 10:16:27,511 - InputText: điều hòa
+2024-07-03 10:16:27,580 - ------------llm------------
+2024-07-03 10:16:27,580 - User: điều hòa
+2024-07-03 10:16:28,087 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:16:28,088 - Retrying request to /chat/completions in 0.895352 seconds
+2024-07-03 10:16:29,288 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:16:29,289 - Retrying request to /chat/completions in 1.913210 seconds
+2024-07-03 10:16:31,504 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:22:14,834 - ----------------NEW_SESSION--------------
+2024-07-03 10:22:14,835 - User: g
+2024-07-03 10:22:14,835 - InputText: điều hòa
+2024-07-03 10:22:14,904 - ------------llm------------
+2024-07-03 10:22:14,905 - User: điều hòa
+2024-07-03 10:22:15,534 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:22:15,535 - Retrying request to /chat/completions in 0.921492 seconds
+2024-07-03 10:22:16,820 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:22:16,820 - Retrying request to /chat/completions in 1.542825 seconds
+2024-07-03 10:22:18,729 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:25:51,209 - ----------------NEW_SESSION--------------
+2024-07-03 10:25:51,209 - User: g
+2024-07-03 10:25:51,209 - InputText: điều hòa
+2024-07-03 10:25:51,280 - ------------llm------------
+2024-07-03 10:25:51,280 - User: điều hòa
+2024-07-03 10:25:53,317 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 10:25:53,324 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.004s]
+2024-07-03 10:25:53,367 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.040s]
+2024-07-03 10:25:54,881 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 10:25:54,883 - Vcc_bot: Xin chào! Chúng tôi có các sản phẩm điều hòa sau:
+
+1. Điều hòa MDV - Inverter 9000 BTU, giá 6014184 VND
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023, giá 7246030 VND
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023, giá 11740520 VND
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023, giá 9423040 VND
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023, giá 11200420 VND
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023, giá 16508470 VND
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023, giá 12070850 VND
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023, giá 14851100 VND
+9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023, giá 12461240 VND
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023, giá 14917980 VND
+
+Bạn cần thêm thông tin về sản phẩm nào?
+2024-07-03 10:26:46,270 - ----------------NEW_SESSION--------------
+2024-07-03 10:26:46,270 - User: 197903
+2024-07-03 10:26:46,270 - InputText: /Tôi đang quan tâm Máy Giặt Aqua lồng đứng?
+2024-07-03 10:26:46,349 - ------------llm------------
+2024-07-03 10:26:46,350 - User: /Tôi đang quan tâm Máy Giặt Aqua lồng đứng?
+2024-07-03 10:26:47,814 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 10:27:10,936 - ----------------NEW_SESSION--------------
+2024-07-03 10:27:10,936 - User: g
+2024-07-03 10:27:10,936 - InputText: điều hòa
+2024-07-03 10:27:11,010 - ------------llm------------
+2024-07-03 10:27:11,010 - User: điều hòa
+2024-07-03 10:27:11,335 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:27:11,335 - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2024-07-03 10:27:14,646 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 10:27:36,008 - ----------------NEW_SESSION--------------
+2024-07-03 10:27:36,008 - User: g
+2024-07-03 10:27:36,008 - InputText: điều hòa
+2024-07-03 10:27:36,080 - ------------llm------------
+2024-07-03 10:27:36,080 - User: điều hòa
+2024-07-03 10:27:36,773 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:27:36,774 - Retrying request to /openai/v1/chat/completions in 17.000000 seconds
+2024-07-03 10:27:55,155 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 10:28:03,349 - ----------------NEW_SESSION--------------
+2024-07-03 10:28:03,349 - User: g
+2024-07-03 10:28:03,349 - InputText: điều hòa
+2024-07-03 10:28:03,427 - ------------llm------------
+2024-07-03 10:28:03,427 - User: điều hòa
+2024-07-03 10:28:03,950 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:28:03,950 - Retrying request to /openai/v1/chat/completions in 31.000000 seconds
+2024-07-03 10:28:35,881 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 10:29:02,128 - ----------------NEW_SESSION--------------
+2024-07-03 10:29:02,128 - User: g
+2024-07-03 10:29:02,128 - InputText: điều hòa
+2024-07-03 10:29:02,209 - ------------llm------------
+2024-07-03 10:29:02,209 - User: điều hòa
+2024-07-03 10:29:02,871 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:29:02,872 - Retrying request to /openai/v1/chat/completions in 13.000000 seconds
+2024-07-03 10:29:17,553 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 10:29:17,559 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.003s]
+2024-07-03 10:29:17,664 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.102s]
+2024-07-03 10:29:18,074 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:29:18,074 - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2024-07-03 10:29:20,631 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 10:29:20,636 - Vcc_bot: Xin chào! Bạn đã xem danh sách sản phẩm điều hòa của chúng tôi rồi. Bạn cần thêm thông tin về sản phẩm nào?
+2024-07-03 10:29:32,685 - ----------------NEW_SESSION--------------
+2024-07-03 10:29:32,685 - User: g
+2024-07-03 10:29:32,685 - InputText: điều hòa
+2024-07-03 10:29:32,765 - ------------llm------------
+2024-07-03 10:29:32,765 - User: điều hòa
+2024-07-03 10:29:33,265 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:29:33,266 - Retrying request to /openai/v1/chat/completions in 33.000000 seconds
+2024-07-03 10:30:07,382 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 10:30:07,388 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-03 10:30:07,408 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.018s]
+2024-07-03 10:30:07,704 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:30:07,704 - Retrying request to /openai/v1/chat/completions in 1.000000 seconds
+2024-07-03 10:30:10,375 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 10:30:10,379 - Vcc_bot: Xin chào! Bạn đã xem danh sách sản phẩm điều hòa của chúng tôi rồi. Bạn cần thêm thông tin về sản phẩm nào? 
+
+Dưới đây là danh sách sản phẩm điều hòa của chúng tôi:
+
+1. Điều hòa MDV - Inverter 9000 BTU
+Giá tiền: 6014184 VND
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023
+Giá tiền: 7246030 VND
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023
+Giá tiền: 11740520 VND
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023
+Giá tiền: 9423040 VND
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023
+Giá tiền: 11200420 VND
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023
+Giá tiền: 16508470 VND
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - SeriesFTHF-VA -Model 2023
+Giá tiền: 12070850 VND
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023
+Giá tiền: 14851100 VND
+9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023
+Giá tiền: 12461240 VND
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023
+Giá tiền: 14917980 VND
+
+Xin hãy cho tôi biết sản phẩm nào bạn quan tâm nhất!
+2024-07-03 10:30:37,453 - ----------------NEW_SESSION--------------
+2024-07-03 10:30:37,453 - User: 197903
+2024-07-03 10:30:37,453 - InputText: /Tôi đang quan tâm Máy Giặt Aqua lồng đứng?
+2024-07-03 10:30:37,546 - ------------llm------------
+2024-07-03 10:30:37,546 - User: /Tôi đang quan tâm Máy Giặt Aqua lồng đứng?
+2024-07-03 10:30:38,061 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:30:38,062 - Retrying request to /openai/v1/chat/completions in 19.000000 seconds
+2024-07-03 10:30:58,856 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 10:30:58,862 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-03 10:30:58,890 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.024s]
+2024-07-03 10:30:59,426 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 10:30:59,435 - Vcc_bot: Chào anh/chị! Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng.
+2024-07-03 10:31:51,042 - ----------------NEW_SESSION--------------
+2024-07-03 10:31:51,042 - User: g
+2024-07-03 10:31:51,042 - InputText: tôi quan tâm máy giặt lồng đứng
+2024-07-03 10:31:51,126 - ------------llm------------
+2024-07-03 10:31:51,126 - User: tôi quan tâm máy giặt lồng đứng
+2024-07-03 10:31:53,009 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 10:31:59,848 - ----------------NEW_SESSION--------------
+2024-07-03 10:31:59,848 - User: g
+2024-07-03 10:31:59,848 - InputText: tôi quan tâm máy giặt lồng đứng
+2024-07-03 10:31:59,931 - ------------llm------------
+2024-07-03 10:31:59,931 - User: tôi quan tâm máy giặt lồng đứng
+2024-07-03 10:32:00,476 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:32:00,476 - Retrying request to /openai/v1/chat/completions in 21.000000 seconds
+2024-07-03 10:32:23,034 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 10:32:23,039 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.003s]
+2024-07-03 10:32:23,046 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.004s]
+2024-07-03 10:32:23,366 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 10:32:23,367 - Retrying request to /openai/v1/chat/completions in 6.000000 seconds
+2024-07-03 10:32:31,851 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 10:32:31,854 - Vcc_bot: Xin chào! Tôi hiểu rằng bạn quan tâm đến máy giặt lồng đứng. Dưới đây là danh sách sản phẩm máy giặt lồng đứng của chúng tôi:
+
+1. Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK
+  Thông số kỹ thuật: Loại máy giặt: Lồng đứng 
+  Động Cơ : Curoa 
+  Khối lượng giặt: 10 kg 
+  Lồng GiặtThép: không gỉ 
+  Khử mùi diệt khuẩn 
+  Khóa trẻ em 
+  Màn hình hiển thị thời gian 
+  Nắp máy,Nắp kính cường lực tràn viền 
+  Dòng điện : 220v/50Hz 
+  Tốc độ vắt: 700 vòng/phút 
+  Kích thước (R*S*C)560 x 630 x 1006 
+  Trọng lượng: 36,5 kg 
+  Sản xuất tại Việt Nam 
+  Bảo hành: 24 Tháng
+  Giá: 6074970
+
+2. Máy Giặt Aqua 9 Kg AQW-F91GT.S
+  Thông số kỹ thuật: 
+  • Loại máy giặt: Cửa trên 
+  • Lồng giặt: Lồng đứng 
+  • Khối lượng giặt: 9 Kg 
+  • Số người sử dụng: Từ 3 - 5 người 
+  • Kiểu động cơ: Truyền động gián tiếp (dây Curoa) 
+  • Tốc độ quay vắt tối đa: 700 vòng/phút 
+  • Chất liệu lồng giặt: Thép không gỉ 
+  • Chất liệu vỏ máy: Kim loại sơn tĩnh điện 
+  • Chất liệu nắp máy: Kính chịu lực 
+  • Hiệu suất sử dụng điện: 10.9 Wh/kg 
+  • Chương trình giặt: Chăn mền, Vắt cực khô, Giặt mạnh, Giặt ngâm, Giặt nhanh, Giặt nhẹ, Giặt thơm, Giặt tiêu chuẩn 
+  • Công nghệ giặt: Diệt khuẩn khử mùi Nano Ag+ Giặt nhiều luồng nước phun MultiJet 
+  • Bảng điều khiển: Song ngữ Anh - Việt 
+  • Tiện ích: Hẹn giờ giặt, Khóa trẻ em, Van sử dụng mực nước thấp, Vệ sinh lồng giặt 
+  • Kích thước, khối lượng: Cao 100.6 cm - Ngang 53.3 cm - Sâu 58 cm - Nặng 36 kg 
+  • Chiều dài ống cấp nước: 128 cm 
+  • Chiều dài ống thoát nước: 77 cm
+  Giá: 5759050
+
+Xin hãy cho tôi biết sản phẩm nào bạn quan tâm nhất!
+2024-07-03 10:34:41,096 - ----------------NEW_SESSION--------------
+2024-07-03 10:34:41,096 - User: 197903
+2024-07-03 10:34:41,096 - InputText: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 10:34:41,190 - ------------llm------------
+2024-07-03 10:34:41,190 - User: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 10:34:42,879 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 10:34:42,886 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-03 10:34:42,895 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.004s]
+2024-07-03 10:34:44,581 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 10:34:44,590 - Vcc_bot: Chào anh/chị! Chúng tôi chỉ bán Máy Giặt Aqua là lồng đứng. Hiện tại, chúng tôi có 2 sản phẩm Máy Giặt Aqua lồng đứng:
+
+1. Máy Giặt Aqua 9 Kg AQW-F91GT.S
+2. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S
+
+Anh/chị có thể đọc thông tin chi tiết về sản phẩm để chọn lựa phù hợp với nhu cầu của mình.
+2024-07-03 11:39:01,390 - HTTP Request: POST http://10.248.243.105:8000/process_image_and_voice/ "HTTP/1.1 500 Internal Server Error"
+2024-07-03 14:00:54,381 - ----------------NEW_SESSION--------------
+2024-07-03 14:00:54,381 - User: 197903
+2024-07-03 14:00:54,381 - InputText: /Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?
+2024-07-03 14:00:54,570 - ------------llm------------
+2024-07-03 14:00:54,571 - User: /Tôi muốn mua sản phẩm Đèn năng mặt trời với giá bình dân?
+2024-07-03 14:00:56,094 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 14:00:56,188 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.091s]
+2024-07-03 14:00:56,439 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.246s]
+2024-07-03 14:00:57,254 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 14:00:57,263 - Vcc_bot: Xin chào anh/chị! Chúng tôi có 2 sản phẩm Đèn Năng Lượng Mặt Trời với giá cả cạnh tranh:
+
+1. Đèn NLMT bàn chải liền thể 100W 3F: giá 736780 VNĐ
+2. Đèn NLMT bàn chải liền thể 200W 3F: giá 866030 VNĐ
+
+Anh/chị có thể đọc thông tin chi tiết về sản phẩm để chọn lựa phù hợp với nhu cầu của mình.
+2024-07-03 14:01:02,465 - ----------------NEW_SESSION--------------
+2024-07-03 14:01:02,466 - User: 197903
+2024-07-03 14:01:02,466 - InputText: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 14:01:02,521 - ------------llm------------
+2024-07-03 14:01:02,521 - User: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 14:01:03,028 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 14:01:03,029 - Retrying request to /openai/v1/chat/completions in 26.000000 seconds
+2024-07-03 14:01:31,489 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 14:01:31,494 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.003s]
+2024-07-03 14:01:31,556 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.058s]
+2024-07-03 14:01:31,998 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 14:01:31,999 - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-07-03 14:01:36,045 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 14:01:36,058 - Vcc_bot: Xin chào anh/chị! Cả hai sản phẩm Máy Giặt Aqua chúng tôi bán đều là lồng đứng, không phải lồng ngang. Anh/chị có thể tham khảo thông tin chi tiết về sản phẩm dưới đây:
+
+1. Máy Giặt Aqua 9 Kg AQW-F91GT.S: Lồng đứng, khối lượng giặt 9 Kg, giá 5759050 VNĐ
+2. Máy Giặt Aqua cửa trên - 8Kg AQW-KS80GT.S: Lồng đứng, khối lượng giặt 8 Kg, giá 4726370 VNĐ
+
+Anh/chị có thể lựa chọn sản phẩm phù hợp với nhu cầu của mình.
+2024-07-03 14:02:14,229 - ----------------NEW_SESSION--------------
+2024-07-03 14:02:14,229 - User: 197903
+2024-07-03 14:02:14,229 - InputText: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 14:02:14,271 - ------------llm------------
+2024-07-03 14:02:14,272 - User: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 14:02:15,374 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 14:02:15,375 - Retrying request to /openai/v1/chat/completions in 5.000000 seconds
+2024-07-03 14:03:20,881 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+2024-07-03 14:03:49,558 - ----------------NEW_SESSION--------------
+2024-07-03 14:03:49,558 - User: 197903
+2024-07-03 14:03:49,558 - InputText: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 14:03:49,608 - ------------llm------------
+2024-07-03 14:03:49,609 - User: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 14:03:51,013 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 14:03:51,019 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.004s]
+2024-07-03 14:03:51,096 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.073s]
+2024-07-03 14:03:52,128 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 14:03:52,145 - Vcc_bot: Xin chào anh/chị! Cả hai sản phẩm Máy Giặt Aqua chúng tôi bán đều là lồng đứng, không phải lồng ngang. Anh/chị có thể tham khảo thông tin chi tiết về sản phẩm dưới đây:
+
+1. Máy Giặt Aqua 9 Kg AQW-F91GT.S: Lồng đứng, khối lượng giặt 9 Kg, giá 5759050 VNĐ
+2. Máy Giặt Aqua cửa trên - 8Kg AQW-KS80GT.S: Lồng đứng, khối lượng giặt 8 Kg, giá 4726370 VNĐ
+
+Anh/chị có thể lựa chọn sản phẩm phù hợp với nhu cầu của mình.
+2024-07-03 14:04:13,645 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6e140>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 14:04:13,646 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6e1a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 14:04:13,647 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6e560>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 14:04:13,648 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6fdf0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 14:04:13,648 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6f850>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 14:04:13,649 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6dc90>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 14:05:47,120 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6f700>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 14:05:47,121 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326c979a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 14:05:47,122 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326c979d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 14:05:47,123 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6f9d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 14:05:47,124 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6ff10>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 14:05:47,125 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6de70>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 14:07:19,277 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6e530>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 14:07:19,277 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6e1a0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 14:07:19,277 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6ffd0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 14:07:19,278 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326c97e20>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 14:07:19,279 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326c97790>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 14:07:19,279 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326c97250>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 14:13:03,105 - ----------------NEW_SESSION--------------
+2024-07-03 14:13:03,105 - User: 197903
+2024-07-03 14:13:03,105 - InputText: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 14:13:03,160 - ------------llm------------
+2024-07-03 14:13:03,160 - User: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 14:13:05,097 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 14:13:08,238 - ----------------NEW_SESSION--------------
+2024-07-03 14:13:08,239 - User: 197903
+2024-07-03 14:13:08,239 - InputText: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 14:13:08,291 - ------------llm------------
+2024-07-03 14:13:08,292 - User: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 14:13:08,588 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 14:13:08,589 - Retrying request to /openai/v1/chat/completions in 22.000000 seconds
+2024-07-03 14:13:31,790 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 14:13:31,796 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.003s]
+2024-07-03 14:13:31,848 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.048s]
+2024-07-03 14:13:32,163 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 14:13:32,164 - Retrying request to /openai/v1/chat/completions in 4.000000 seconds
+2024-07-03 14:13:37,428 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 14:13:37,451 - Vcc_bot: Xin chào anh/chị! Cả hai sản phẩm Máy Giặt Aqua chúng tôi bán đều là lồng đứng, không phải lồng ngang. Anh/chị có thể tham khảo thông tin chi tiết về sản phẩm dưới đây:
+
+1. Máy Giặt Aqua 9 Kg AQW-F91GT.S: Lồng đứng, khối lượng giặt 9 Kg, giá 5759050 VNĐ
+2. Máy Giặt Aqua cửa trên - 8Kg AQW-KS80GT.S: Lồng đứng, khối lượng giặt 8 Kg, giá 4726370 VNĐ
+
+Anh/chị có thể lựa chọn sản phẩm phù hợp với nhu cầu của mình.
+2024-07-03 14:16:23,180 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6fc40>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 14:16:23,181 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6df90>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 14:16:23,181 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6e170>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 14:16:23,182 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f93246f81f0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 14:16:23,182 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f93246f9a20>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 14:16:23,183 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f93246f9cc0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 14:41:49,961 - ----------------NEW_SESSION--------------
+2024-07-03 14:41:49,961 - User: 197903
+2024-07-03 14:41:49,961 - InputText: /Tôi muốn biết VCC bán những gì?
+2024-07-03 14:41:50,024 - Vcc_bot: Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:
+    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất
+    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi
+    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời
+Hôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?
+2024-07-03 15:06:16,282 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9324754040>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 15:06:16,283 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9324757ee0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 15:06:16,284 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9324757190>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 15:06:16,286 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9324754100>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 15:06:16,286 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f93247568f0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 15:06:16,287 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9324756620>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 16:24:23,520 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6fb80>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 16:24:23,520 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6f9d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 16:24:23,521 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6e560>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 16:24:23,522 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6df30>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 16:24:23,522 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6fc70>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 16:24:23,523 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9326a6f820>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 16:24:39,990 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f93247540d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 16:24:39,991 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9324757d30>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 16:24:39,991 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9324757fd0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2/url
+2024-07-03 16:24:39,993 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9324756f80>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 16:24:39,993 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9324757250>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 16:24:39,994 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9324754160>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1ed0a525c183e2d3bf650753d4a82ae2
+2024-07-03 16:27:36,230 - ----------------NEW_SESSION--------------
+2024-07-03 16:27:36,230 - User: j
+2024-07-03 16:27:36,230 - InputText:  điều hòa
+2024-07-03 16:27:36,269 - ------------llm------------
+2024-07-03 16:27:36,269 - User:  điều hòa
+2024-07-03 16:27:38,142 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 16:27:45,502 - ----------------NEW_SESSION--------------
+2024-07-03 16:27:45,502 - User: j
+2024-07-03 16:27:45,502 - InputText:  điều hòa
+2024-07-03 16:27:45,537 - ------------llm------------
+2024-07-03 16:27:45,538 - User:  điều hòa
+2024-07-03 16:27:45,909 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 16:27:45,910 - Retrying request to /openai/v1/chat/completions in 17.000000 seconds
+2024-07-03 16:28:04,795 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 16:28:15,822 - ----------------NEW_SESSION--------------
+2024-07-03 16:28:15,822 - User: j
+2024-07-03 16:28:15,822 - InputText:  điều hòa
+2024-07-03 16:28:15,855 - ------------llm------------
+2024-07-03 16:28:15,855 - User:  điều hòa
+2024-07-03 16:28:16,177 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 16:28:16,178 - Retrying request to /openai/v1/chat/completions in 27.000000 seconds
+2024-07-03 16:28:45,037 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 16:31:21,951 - ----------------NEW_SESSION--------------
+2024-07-03 16:31:21,953 - User: j
+2024-07-03 16:31:21,953 - InputText:  điều hòa
+2024-07-03 16:31:21,992 - ------------llm------------
+2024-07-03 16:31:21,993 - User:  điều hòa
+2024-07-03 16:31:23,968 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 16:33:08,172 - ----------------NEW_SESSION--------------
+2024-07-03 16:33:08,172 - User: j
+2024-07-03 16:33:08,172 - InputText:  điều hòa
+2024-07-03 16:33:08,213 - ------------llm------------
+2024-07-03 16:33:08,213 - User:  điều hòa
+2024-07-03 16:33:10,846 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 16:37:43,378 - ----------------NEW_SESSION--------------
+2024-07-03 16:37:43,378 - User: j
+2024-07-03 16:37:43,378 - InputText:  điều hòa
+2024-07-03 16:37:43,421 - ------------llm------------
+2024-07-03 16:37:43,421 - User:  điều hòa
+2024-07-03 16:37:45,385 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 16:37:49,812 - ----------------NEW_SESSION--------------
+2024-07-03 16:37:49,812 - User: j
+2024-07-03 16:37:49,812 - InputText:  điều hòa
+2024-07-03 16:37:49,854 - ------------llm------------
+2024-07-03 16:37:49,854 - User:  điều hòa
+2024-07-03 16:37:50,120 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-07-03 16:37:50,120 - Retrying request to /openai/v1/chat/completions in 20.000000 seconds
+2024-07-03 16:38:11,706 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 16:38:11,718 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.009s]
+2024-07-03 16:38:11,810 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.089s]
+2024-07-03 16:38:14,164 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 16:38:14,166 - Vcc_bot: Xin chào! Chúng tôi bán các sản phẩm điều hòa sau:
+
+1. Điều hòa MDV - Inverter 9000 BTU, giá 6014184 VND
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023, giá 7246030 VND
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023, giá 11740520 VND
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023, giá 9423040 VND
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023, giá 11200420 VND
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023, giá 16508470 VND
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - Series FTHF-VA - Model 2023, giá 12070850 VND
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023, giá 14851100 VND
+9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023, giá 12461240 VND
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023, giá 14917980 VND
+
+Để giúp bạn chọn sản phẩm phù hợp, xin vui lòng cho biết nhu cầu của bạn là gì?
+2024-07-03 16:39:10,368 - ----------------NEW_SESSION--------------
+2024-07-03 16:39:10,368 - User: j
+2024-07-03 16:39:10,368 - InputText:  điều hòa
+2024-07-03 16:39:10,411 - ------------llm------------
+2024-07-03 16:39:10,412 - User:  điều hòa
+2024-07-03 16:39:11,101 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-07-03 16:39:13,969 - ----------------NEW_SESSION--------------
+2024-07-03 16:39:13,970 - User: j
+2024-07-03 16:39:13,970 - InputText:  điều hòa
+2024-07-03 16:39:14,014 - ------------llm------------
+2024-07-03 16:39:14,014 - User:  điều hòa
+2024-07-03 16:39:14,336 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-07-03 16:39:15,159 - ----------------NEW_SESSION--------------
+2024-07-03 16:39:15,159 - User: j
+2024-07-03 16:39:15,159 - InputText:  điều hòa
+2024-07-03 16:39:15,205 - ------------llm------------
+2024-07-03 16:39:15,205 - User:  điều hòa
+2024-07-03 16:39:15,514 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-07-03 16:39:16,287 - ----------------NEW_SESSION--------------
+2024-07-03 16:39:16,287 - User: j
+2024-07-03 16:39:16,287 - InputText:  điều hòa
+2024-07-03 16:39:16,334 - ------------llm------------
+2024-07-03 16:39:16,335 - User:  điều hòa
+2024-07-03 16:39:16,659 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-07-03 16:39:17,324 - ----------------NEW_SESSION--------------
+2024-07-03 16:39:17,324 - User: j
+2024-07-03 16:39:17,324 - InputText:  điều hòa
+2024-07-03 16:39:17,372 - ------------llm------------
+2024-07-03 16:39:17,372 - User:  điều hòa
+2024-07-03 16:39:17,700 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-07-03 16:39:18,231 - ----------------NEW_SESSION--------------
+2024-07-03 16:39:18,231 - User: j
+2024-07-03 16:39:18,232 - InputText:  điều hòa
+2024-07-03 16:39:18,281 - ------------llm------------
+2024-07-03 16:39:18,281 - User:  điều hòa
+2024-07-03 16:39:18,595 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-07-03 16:39:19,067 - ----------------NEW_SESSION--------------
+2024-07-03 16:39:19,067 - User: j
+2024-07-03 16:39:19,068 - InputText:  điều hòa
+2024-07-03 16:39:19,119 - ------------llm------------
+2024-07-03 16:39:19,120 - User:  điều hòa
+2024-07-03 16:39:19,434 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-07-03 16:39:19,883 - ----------------NEW_SESSION--------------
+2024-07-03 16:39:19,884 - User: j
+2024-07-03 16:39:19,884 - InputText:  điều hòa
+2024-07-03 16:39:19,938 - ------------llm------------
+2024-07-03 16:39:19,939 - User:  điều hòa
+2024-07-03 16:39:20,248 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-07-03 16:39:20,704 - ----------------NEW_SESSION--------------
+2024-07-03 16:39:20,704 - User: j
+2024-07-03 16:39:20,704 - InputText:  điều hòa
+2024-07-03 16:39:20,757 - ------------llm------------
+2024-07-03 16:39:20,757 - User:  điều hòa
+2024-07-03 16:39:21,083 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-07-03 16:39:21,544 - ----------------NEW_SESSION--------------
+2024-07-03 16:39:21,545 - User: j
+2024-07-03 16:39:21,545 - InputText:  điều hòa
+2024-07-03 16:39:21,598 - ------------llm------------
+2024-07-03 16:39:21,598 - User:  điều hòa
+2024-07-03 16:39:21,953 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-07-03 16:39:36,235 - ----------------NEW_SESSION--------------
+2024-07-03 16:39:36,235 - User: j
+2024-07-03 16:39:36,235 - InputText:  điều hòa
+2024-07-03 16:39:36,291 - ------------llm------------
+2024-07-03 16:39:36,291 - User:  điều hòa
+2024-07-03 16:39:37,005 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 404 Not Found"
+2024-07-03 16:44:28,270 - ----------------NEW_SESSION--------------
+2024-07-03 16:44:28,271 - User: j
+2024-07-03 16:44:28,271 - InputText:  điều hòa
+2024-07-03 16:44:28,328 - ------------llm------------
+2024-07-03 16:44:28,328 - User:  điều hòa
+2024-07-03 16:44:29,755 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 16:44:29,760 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-03 16:44:30,999 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 16:44:31,002 - Vcc_bot: Xin chào! Tôi thấy bạn đang tìm kiếm thông tin về điều hòa. Bạn có thể cho tôi biết nhu cầu của bạn là gì? Bạn cần điều hòa cho phòng ngủ, phòng khách hay văn phòng? Đánh giá công suất điều hòa bạn cần là bao nhiêu BTU?
+2024-07-03 16:49:32,902 - ----------------NEW_SESSION--------------
+2024-07-03 16:49:32,902 - User: 197903
+2024-07-03 16:49:32,902 - InputText: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 16:49:32,975 - ------------llm------------
+2024-07-03 16:49:32,975 - User: /Tôi đang quan tâm Máy Giặt Aqua là lồng ngang hay lồng đứng?
+2024-07-03 16:49:34,635 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 16:49:34,641 - HEAD http://10.248.243.105:9200/product5 [status:200 duration:0.002s]
+2024-07-03 16:49:34,663 - POST http://10.248.243.105:9200/product5/_search [status:200 duration:0.018s]
+2024-07-03 16:49:36,203 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 16:49:36,218 - Vcc_bot: Chào bạn! Máy Giặt Aqua của chúng tôi đều là loại lồng đứng. Cụ thể, chúng tôi có 2 model là:
+
+1. Máy Giặt Aqua 9 Kg AQW-F91GT.S: Lồng đứng, khối lượng giặt 9 Kg, phù hợp cho gia đình 3-5 người.
+2. Máy Giặt Aqua cửa trên - 8Kg AQW-KS80GT.S: Lồng đứng, khối lượng giặt 8 Kg.
+
+Cả hai model đều có các tính năng hiện đại và hiệu suất sử dụng điện cao. Nếu bạn cần thêm thông tin, xin vui lòng cho tôi biết!
+2024-07-03 18:07:13,180 - ----------------NEW_SESSION--------------
+2024-07-03 18:07:13,180 - User: l
+2024-07-03 18:07:13,180 - InputText: xin chào
+2024-07-03 18:10:30,022 - ----------------NEW_SESSION--------------
+2024-07-03 18:10:30,022 - User: l
+2024-07-03 18:10:30,022 - InputText: xin chào
+2024-07-03 18:10:57,868 - ----------------NEW_SESSION--------------
+2024-07-03 18:10:57,868 - User: l
+2024-07-03 18:10:57,868 - InputText: điều hòa
+2024-07-03 18:11:00,739 - ----------------NEW_SESSION--------------
+2024-07-03 18:11:00,739 - User: l
+2024-07-03 18:11:00,739 - InputText: điều hòa
+2024-07-03 18:27:21,160 - ----------------NEW_SESSION--------------
+2024-07-03 18:27:21,160 - User: g
+2024-07-03 18:27:21,160 - InputText: xin chào
+2024-07-03 18:27:21,207 - Vcc_bot: Xin chào quý khách! Tôi là trợ lý mua sắm.
+Tôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-07-03 18:28:12,534 - ----------------NEW_SESSION--------------
+2024-07-03 18:28:12,534 - User: g
+2024-07-03 18:28:12,534 - InputText: thông số kỹ thuật điều hòa
+2024-07-03 18:28:12,575 - ------------llm------------
+2024-07-03 18:28:12,576 - User: thông số kỹ thuật điều hòa
+2024-07-03 18:29:14,740 - ----------------NEW_SESSION--------------
+2024-07-03 18:29:14,740 - User: g
+2024-07-03 18:29:14,741 - InputText: thông số kỹ thuật điều hòa
+2024-07-03 18:29:14,775 - ------------llm------------
+2024-07-03 18:29:14,775 - User: thông số kỹ thuật điều hòa
+2024-07-03 18:29:16,158 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 18:29:16,857 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/product3 [status:200 duration:0.663s]
+2024-07-03 18:30:00,958 - ----------------NEW_SESSION--------------
+2024-07-03 18:30:00,958 - User: g
+2024-07-03 18:30:00,958 - InputText: thông số kỹ thuật điều hòa
+2024-07-03 18:30:01,000 - ------------llm------------
+2024-07-03 18:30:01,001 - User: thông số kỹ thuật điều hòa
+2024-07-03 18:30:03,038 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 18:30:03,783 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/product3 [status:200 duration:0.709s]
+2024-07-03 18:30:03,993 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/product3/_search [status:200 duration:0.207s]
+2024-07-03 18:30:05,896 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 18:30:07,770 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 18:30:07,773 - Vcc_bot: Xin chào quý khách! Tôi đã trả lời câu hỏi của quý khách về thông số kỹ thuật điều hòa trước đó. Để quý khách tiện tham khảo, tôi sẽ liệt kê lại các sản phẩm điều hòa của chúng tôi:
+
+1. Điều hòa MDV - Inverter 9000 BTU, giá tiền: 6.014.184 VND
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023, giá tiền: 7.246.030 VND
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023, giá tiền: 11.740.520 VND
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023, giá tiền: 9.423.040 VND
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023, giá tiền: 11.200.420 VND
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023, giá tiền: 16.508.470 VND
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - Series FTHF-VA - Model 2023, giá tiền: 12.070.850 VND
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023, giá tiền: 14.851.100 VND
+9. Điều hòa Carrier 2 chiều Inverter Công suất: 9.000 BTU/h (1 HP) - Model 2023, giá tiền: 12.461.240 VND
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023, giá tiền: 14.917.980 VND
+
+Nếu quý khách có nhu cầu tìm kiếm sản phẩm điều hòa cụ thể, xin vui lòng cho tôi biết thêm thông tin về nhu cầu của quý khách, chẳng hạn như diện tích phòng, số lượng người sử dụng, hoặc các yêu cầu đặc biệt khác. Tôi sẽ giúp quý khách tìm kiếm sản phẩm điều hòa phù hợp nhất với nhu cầu của quý khách.
+2024-07-03 18:36:35,481 - ----------------NEW_SESSION--------------
+2024-07-03 18:36:35,482 - User: a
+2024-07-03 18:36:35,482 - InputText: thông số kỹ thuật điều hòa
+2024-07-03 18:36:35,522 - ------------llm------------
+2024-07-03 18:36:35,523 - User: thông số kỹ thuật điều hòa
+2024-07-03 18:36:36,940 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 18:36:37,694 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/product3 [status:200 duration:0.718s]
+2024-07-03 18:36:37,914 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/product3/_search [status:200 duration:0.217s]
+2024-07-03 18:36:39,871 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 18:36:41,728 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 18:36:41,732 - Vcc_bot: Xin chào! Tôi đã cung cấp thông tin về các sản phẩm điều hòa chúng tôi đang kinh doanh. Bạn có thể tham khảo lại danh sách sản phẩm dưới đây:
+
+1. Điều hòa MDV - Inverter 9000 BTU
+	* Giá tiền: 6014184 VND
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023
+	* Giá tiền: 7246030 VND
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023
+	* Giá tiền: 11740520 VND
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023
+	* Giá tiền: 9423040 VND
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023
+	* Giá tiền: 11200420 VND
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023
+	* Giá tiền: 16508470 VND
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - Series FTHF-VA - Model 2023
+	* Giá tiền: 12070850 VND
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023
+	* Giá tiền: 14851100 VND
+9. Điều hòa Carrier 2 chiều Inverter - Công suất: 9.000 BTU/h (1 HP) - Model 2023
+	* Giá tiền: 12461240 VND
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023
+	* Giá tiền: 14917980 VND
+
+Nếu bạn có bất kỳ câu hỏi nào về thông số kỹ thuật của các sản phẩm này, xin vui lòng cho tôi biết!
+2024-07-03 18:43:44,839 - ----------------NEW_SESSION--------------
+2024-07-03 18:43:44,840 - User: a
+2024-07-03 18:43:44,840 - InputText: thông số kỹ thuật điều hòa
+2024-07-03 18:43:44,884 - ------------llm------------
+2024-07-03 18:43:44,884 - User: thông số kỹ thuật điều hòa
+2024-07-03 18:43:50,308 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 18:43:51,082 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/product3 [status:200 duration:0.737s]
+2024-07-03 18:43:51,306 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/product3/_search [status:200 duration:0.220s]
+2024-07-03 18:43:53,500 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 18:43:55,657 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 18:43:55,660 - Vcc_bot: Xin chào! Tôi đã cung cấp thông tin về các sản phẩm điều hòa chúng tôi đang kinh doanh. Bạn có thể tham khảo lại danh sách sản phẩm dưới đây:
+
+1. Điều hòa MDV - Inverter 9000 BTU
+	* Giá tiền: 6014184 VND
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023
+	* Giá tiền: 7246030 VND
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023
+	* Giá tiền: 11740520 VND
+4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023
+	* Giá tiền: 9423040 VND
+5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023
+	* Giá tiền: 11200420 VND
+6. Điều hòa Carrier 1 chiều Inverter 18.000 BTU/h (2 HP) - Model 2023
+	* Giá tiền: 16508470 VND
+7. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - Series FTHF-VA - Model 2023
+	* Giá tiền: 12070850 VND
+8. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023
+	* Giá tiền: 14851100 VND
+9. Điều hòa Carrier 2 chiều Inverter - Công suất: 9.000 BTU/h (1 HP) - Model 2023
+	* Giá tiền: 12461240 VND
+10. Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023
+	* Giá tiền: 14917980 VND
+
+Nếu bạn có bất kỳ câu hỏi nào về thông số kỹ thuật của các sản phẩm này, xin vui lòng cho tôi biết!
+
+Về yêu cầu của bạn, chúng tôi có một số sản phẩm điều hòa có giá khoảng 5 triệu và dung tích 2L như sau:
+
+1. Bình đun nước có giá khoảng 5tr có dung tích 2L
+	* Giá tiền: 4.800.000 VND
+	* Dung tích: 2L
+	* Công suất: 750W
+
+Nếu bạn có bất kỳ câu hỏi nào về sản phẩm này, xin vui lòng cho tôi biết!
+2024-07-03 18:56:45,864 - ----------------NEW_SESSION--------------
+2024-07-03 18:56:45,864 - User: a
+2024-07-03 18:56:45,864 - InputText: thông số kỹ thuật điều hòa
+2024-07-03 18:56:45,914 - ------------llm------------
+2024-07-03 18:56:45,914 - User: thông số kỹ thuật điều hòa
+2024-07-03 18:56:47,323 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 18:56:48,073 - HEAD https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/product5 [status:200 duration:0.713s]
+2024-07-03 18:56:48,283 - POST https://3a101a8fbdc645098db02c6d55ee6257.us-central1.gcp.cloud.es.io:443/product5/_search [status:200 duration:0.207s]
+2024-07-03 18:56:51,316 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 18:56:54,438 - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-03 18:56:54,443 - Vcc_bot: Xin chào! Tôi đã cung cấp thông tin về các sản phẩm điều hòa chúng tôi đang kinh doanh. Bạn có thể tham khảo lại danh sách sản phẩm dưới đây:
+
+1. Điều hòa Daikin 9000BTU 2 chiều Inverter - Dòng tiêu chuẩn - Series FTHF-VA - Model 2023
+	* Loại: Điều hòa 2 chiều Inverter
+	* Công suất: 9.000 BTU/h (1 HP)
+	* Diện tích sử dụng: 15 - 20m²
+	* Mức tiêu thụ điện: Làm lạnh: 555 (230 - 1.250) W/h, Sưởi ấm: 670 (190 - 1.530) W/h
+	* Hiệu suất năng lượng: Làm lạnh: 6.13 (A**), Sưởi ấm: 5.14 (A)
+	* Gas: R32
+	* Chế độ Inverter: Có
+	* Công nghệ: Công nghệ inverter tiết kiệm điện, Công nghệ luồng gió Coanda, Mắt thần thông minh, Phin lọc Apatit Titan, Chế độ Powerful làm lạnh nhanh, Chế độ vận hành khi ngủ
+	* Chức năng: Làm lạnh nhanh, Sưởi ấm, Lọc bụi mịn PM2.5, Khử mùi, Hẹn giờ, Điều khiển từ xa
+	* Độ ồn: Dàn lạnh: 28/25 dB(A), Dàn nóng: 49 dB(A)
+	* Kích thước: Dàn lạnh: 285 x 770 x 223 mm, Dàn nóng: 540 x 670 x 240 mm
+	* Trọng lượng: Dàn lạnh: 12 kg, Dàn nóng: 24 kg
+	* Giá: 12070850 VND
+
+2. Điều hòa Daikin 12000BTU 2 chiều Inverter - Dòng tiêu chuẩn - FTHF-VA - Model 2023
+	* Loại: Điều hòa 2 chiều Inverter
+	* Công suất: 12.000 BTU/h (1.5 HP)
+	* Diện tích sử dụng: 20 - 30m²
+	* Mức tiêu thụ điện: Làm lạnh: 585 (230 - 1.310) W/h, Sưởi ấm: 700 (190 - 1.600) W/h
+	* Hiệu suất năng lượng: Làm lạnh: 6.11 (A**), Sưởi ấm: 5.08 (A)
+	* Gas: R32
+	* Chế độ Inverter: Có
+	* Công nghệ: Công nghệ inverter tiết kiệm điện, Công nghệ luồng gió Coanda, Mắt thần thông minh, Phin lọc Apatit Titan, Chế độ Powerful làm lạnh nhanh, Chế độ vận hành khi ngủ
+	* Chức năng: Làm lạnh nhanh, Sưởi ấm, Lọc bụi mịn PM2.5, Khử mùi, Hẹn giờ, Điều khiển từ xa
+	* Độ ồn: Dàn lạnh: 28/25 dB(A), Dàn nóng: 49 dB(A)
+	* Kích thước: Dàn lạnh: 285 x 770 x 223 mm, Dàn nóng: 540 x 670 x 240 mm
+	* Trọng lượng: Dàn lạnh: 13 kg, Dàn nóng: 26 kg
+	* Giá: 14851100 VND
+
+Nếu bạn có bất kỳ câu hỏi nào về thông số kỹ thuật của các sản phẩm này, xin vui lòng cho tôi biết!

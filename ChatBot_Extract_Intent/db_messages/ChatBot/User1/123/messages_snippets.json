@@ -1,0 +1,326 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm Nồi cơm điện mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Nồi cơm điện AIO Smart AIORCO3L23G/4CO\n  Giá tiền: 2076250 VND\n  2. Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991\n  Giá tiền: 4387680 VND\n  3. Nồi cơm điện KALITE KL-619, dung tích 1,8 lít\n  Giá tiền: 845240 VND\n  4. Nồi cơm điện Kalite KL-618, dung tích 1,8 lít\n  Giá tiền: 697070 VND\n  5. Nồi cơm điện tử KALITE KL-620, dung tích 1,8 lít\n  Giá tiền: 1100990 VND\nChúng tôi có kinh doanh sản phẩm Nồi áp suất mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Nồi Áp Suất Bluestone Pcb-5748\n  Giá tiền: 2040830 VND\n  2. Nồi áp suất AIO Smart AIOPTO3L23S/6CO\n  Giá tiền: 2076250 VND\n  3. Nồi áp suất điện KALITE KL-636 6 lít\n  Giá tiền: 1980440 VND\n  4. Nồi Áp Suất Bluestone PCB-5648 4,5 lít 900W\n  Giá tiền: 2040830 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi rất vui được hỗ trợ bạn tìm kiếm sản phẩm Nồi cơm điện và Nồi áp suất. Chúng tôi có các sản phẩm sau:\n\n**Nồi cơm điện:**\n\n1. Nồi cơm điện AIO Smart AIORCO3L23G/4CO - 2,076,250 VND\n2. Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991 - 4,387,680 VND\n3. Nồi cơm điện KALITE KL-619, dung tích 1,8 lít - 845,240 VND\n4. Nồi cơm điện Kalite KL-618, dung tích 1,8 lít - 697,070 VND\n5. Nồi cơm điện tử KALITE KL-620, dung tích 1,8 lít - 1,100,990 VND\n\n**Nồi áp suất:**\n\n1. Nồi Áp Suất Bluestone Pcb-5748 - 2,040,830 VND\n2. Nồi áp suất AIO Smart AIOPTO3L23S/6CO - 2,076,250 VND\n3. Nồi áp suất điện KALITE KL-636 6 lít - 1,980,440 VND\n4. Nồi Áp Suất Bluestone PCB-5648 4,5 lít 900W - 2,040,830 VND\n\nBạn có thể chia sẻ thêm về nhu cầu và ngân sách của mình để tôi có thể tư vấn sản phẩm phù hợp hơn nhé!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm Nồi cơm điện mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Nồi cơm điện AIO Smart AIORCO3L23G/4CO\n  Giá tiền: 2076250 VND\n  2. Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991\n  Giá tiền: 4387680 VND\n  3. Nồi cơm điện KALITE KL-619, dung tích 1,8 lít\n  Giá tiền: 845240 VND\n  4. Nồi cơm điện Kalite KL-618, dung tích 1,8 lít\n  Giá tiền: 697070 VND\n  5. Nồi cơm điện tử KALITE KL-620, dung tích 1,8 lít\n  Giá tiền: 1100990 VND\nChúng tôi có kinh doanh sản phẩm Nồi áp suất mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Nồi Áp Suất Bluestone Pcb-5748\n  Giá tiền: 2040830 VND\n  2. Nồi áp suất AIO Smart AIOPTO3L23S/6CO\n  Giá tiền: 2076250 VND\n  3. Nồi áp suất điện KALITE KL-636 6 lít\n  Giá tiền: 1980440 VND\n  4. Nồi Áp Suất Bluestone PCB-5648 4,5 lít 900W\n  Giá tiền: 2040830 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi rất vui được hỗ trợ bạn tìm kiếm sản phẩm Nồi cơm điện và Nồi áp suất. Chúng tôi có các sản phẩm sau:\n\n**Nồi cơm điện:**\n\n1. Nồi cơm điện AIO Smart AIORCO3L23G/4CO - 2,076,250 VND\n2. Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991 - 4,387,680 VND\n3. Nồi cơm điện KALITE KL-619, dung tích 1,8 lít - 845,240 VND\n4. Nồi cơm điện Kalite KL-618, dung tích 1,8 lít - 697,070 VND\n5. Nồi cơm điện tử KALITE KL-620, dung tích 1,8 lít - 1,100,990 VND\n\n**Nồi áp suất:**\n\n1. Nồi Áp Suất Bluestone Pcb-5748 - 2,040,830 VND\n2. Nồi áp suất AIO Smart AIOPTO3L23S/6CO - 2,076,250 VND\n3. Nồi áp suất điện KALITE KL-636 6 lít - 1,980,440 VND\n4. Nồi Áp Suất Bluestone PCB-5648 4,5 lít 900W - 2,040,830 VND\n\nBạn có thể chia sẻ thêm về nhu cầu và ngân sách của mình để tôi có thể tư vấn sản phẩm phù hợp hơn nhé!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi cần tìm sản phẩm Nồi cơm điện,Nồi áp suất,",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi rất vui được hỗ trợ bạn tìm kiếm sản phẩm Nồi cơm điện và Nồi áp suất. Chúng tôi có các sản phẩm sau:\n\n**Nồi cơm điện:**\n\n1. Nồi cơm điện AIO Smart AIORCO3L23G/4CO - 2,076,250 VND\n2. Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991 - 4,387,680 VND\n3. Nồi cơm điện KALITE KL-619, dung tích 1,8 lít - 845,240 VND\n4. Nồi cơm điện Kalite KL-618, dung tích 1,8 lít - 697,070 VND\n5. Nồi cơm điện tử KALITE KL-620, dung tích 1,8 lít - 1,100,990 VND\n\n**Nồi áp suất:**\n\n1. Nồi Áp Suất Bluestone Pcb-5748 - 2,040,830 VND\n2. Nồi áp suất AIO Smart AIOPTO3L23S/6CO - 2,076,250 VND\n3. Nồi áp suất điện KALITE KL-636 6 lít - 1,980,440 VND\n4. Nồi Áp Suất Bluestone PCB-5648 4,5 lít 900W - 2,040,830 VND\n\nBạn có thể chia sẻ thêm về nhu cầu và ngân sách của mình để tôi có thể tư vấn sản phẩm phù hợp hơn nhé!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm điều hòa mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n\n1. Điều hòa MDV - Inverter 9000 BTU\n  Thông số kỹ thuật: Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184\n\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n  Thông số kỹ thuật: Model: MDVG-13CRDN8 \nCông suất: 12.000 BTU/h\n Loại: 1 chiều Inverter\n Diện tích sử dụng: 15 - 20m² \nGas: R32\nMức tiêu thụ điện: 1.15 kW/h \nĐộ ồn: 22/19 dB(A) \nKích thước dàn lạnh: 810 x 285 x 210 mm \nKích thước dàn nóng: 770 x 285 x 540 mm \nTrọng lượng dàn lạnh: 14 kg \nTrọng lượng dàn nóng: 25 kg\ngiá: 7246030\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Chúng tôi có 2 sản phẩm điều hòa mà bạn quan tâm:\n\n**Điều hòa:**\n\n1. Điều hòa MDV - Inverter 9000 BTU\n\t* Công suất: 9500 Btu/h\n\t* Kích thước máy trong: 726x210x291 (mm)\n\t* Giá: 6,014,184 VND\n\t* Bảo hành 3 năm cho sản phẩm, 5 năm cho máy nén\n\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n\t* Công suất: 12.000 BTU/h\n\t* Diện tích sử dụng: 15 - 20m²\n\t* Mức tiêu thụ điện: 1.15 kW/h\n\t* Giá: 7,246,030 VND\n\nXin hỏi, bạn đang tìm kiếm điều hòa cho diện tích bao nhiêu và có ngân sách bao nhiêu? Tôi sẽ tư vấn sản phẩm phù hợp hơn cho bạn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm điều hòa mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n\n1. Điều hòa MDV - Inverter 9000 BTU\n  Thông số kỹ thuật: Nguồn điện: 220-240V \nCông suất: 9500 Btu/h \nCông suất tiêu thụ: 745 W \nCường độ dòng điện: 3.4 A\n ERR: 3.54 W/W \nInverter : Có Kích thước máy trong ( DxRxC): 726x210x291 (mm) \nKhối lượng thực máy trong/ khối lượng đóng gói: 8.2/10.3 Kg \nKích thước máy ngoài (DxRxC): 835x300x540 (mm) \nKhối lương thực máy ngoài / khối lượng đóng gói: 21.7/23.2 kg \nLoại gas/ khối lượng nạp: R32/0.38 \nÁp suất thiết kế: 4.3/1.7 Mpa \nChiều dài đường ống tối đa: 25m \nChênh lệch độ cao tối đa: 10m Phạm vi lành lạnh hiệu quả : 12~18 m2 \nHiệu suất năng lượng : 4.48 CSPF \nBảo hành 3 năm cho sản phẩm \nBảo hành 5 năm cho máy nén \nSuất xứ : Thái lan\ngiá: 6014184\n\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n  Thông số kỹ thuật: Model: MDVG-13CRDN8 \nCông suất: 12.000 BTU/h\n Loại: 1 chiều Inverter\n Diện tích sử dụng: 15 - 20m² \nGas: R32\nMức tiêu thụ điện: 1.15 kW/h \nĐộ ồn: 22/19 dB(A) \nKích thước dàn lạnh: 810 x 285 x 210 mm \nKích thước dàn nóng: 770 x 285 x 540 mm \nTrọng lượng dàn lạnh: 14 kg \nTrọng lượng dàn nóng: 25 kg\ngiá: 7246030\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Chúng tôi có 2 sản phẩm điều hòa mà bạn quan tâm:\n\n**Điều hòa:**\n\n1. Điều hòa MDV - Inverter 9000 BTU\n\t* Công suất: 9500 Btu/h\n\t* Kích thước máy trong: 726x210x291 (mm)\n\t* Giá: 6,014,184 VND\n\t* Bảo hành 3 năm cho sản phẩm, 5 năm cho máy nén\n\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n\t* Công suất: 12.000 BTU/h\n\t* Diện tích sử dụng: 15 - 20m²\n\t* Mức tiêu thụ điện: 1.15 kW/h\n\t* Giá: 7,246,030 VND\n\nXin hỏi, bạn đang tìm kiếm điều hòa cho diện tích bao nhiêu và có ngân sách bao nhiêu? Tôi sẽ tư vấn sản phẩm phù hợp hơn cho bạn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng sản phẩm điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Chúng tôi có 2 sản phẩm điều hòa mà bạn quan tâm:\n\n**Điều hòa:**\n\n1. Điều hòa MDV - Inverter 9000 BTU\n\t* Công suất: 9500 Btu/h\n\t* Kích thước máy trong: 726x210x291 (mm)\n\t* Giá: 6,014,184 VND\n\t* Bảo hành 3 năm cho sản phẩm, 5 năm cho máy nén\n\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n\t* Công suất: 12.000 BTU/h\n\t* Diện tích sử dụng: 15 - 20m²\n\t* Mức tiêu thụ điện: 1.15 kW/h\n\t* Giá: 7,246,030 VND\n\nXin hỏi, bạn đang tìm kiếm điều hòa cho diện tích bao nhiêu và có ngân sách bao nhiêu? Tôi sẽ tư vấn sản phẩm phù hợp hơn cho bạn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm Nồi cơm điện mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Nồi cơm điện AIO Smart AIORCO3L23G/4CO\n  Giá tiền: 2076250 VND\n  2. Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991\n  Giá tiền: 4387680 VND\n  3. Nồi cơm điện KALITE KL-619, dung tích 1,8 lít\n  Giá tiền: 845240 VND\n  4. Nồi cơm điện Kalite KL-618, dung tích 1,8 lít\n  Giá tiền: 697070 VND\n  5. Nồi cơm điện tử KALITE KL-620, dung tích 1,8 lít\n  Giá tiền: 1100990 VND\nChúng tôi có kinh doanh sản phẩm Nồi áp suất mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Nồi Áp Suất Bluestone Pcb-5748\n  Giá tiền: 2040830 VND\n  2. Nồi áp suất AIO Smart AIOPTO3L23S/6CO\n  Giá tiền: 2076250 VND\n  3. Nồi áp suất điện KALITE KL-636 6 lít\n  Giá tiền: 1980440 VND\n  4. Nồi Áp Suất Bluestone PCB-5648 4,5 lít 900W\n  Giá tiền: 2040830 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Chúng tôi có các sản phẩm Nồi cơm điện và Nồi áp suất mà bạn quan tâm:\n\n**Nồi cơm điện:**\n\n1. Nồi cơm điện AIO Smart AIORCO3L23G/4CO\n\t* Giá tiền: 2,076,250 VND\n2. Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991\n\t* Giá tiền: 4,387,680 VND\n3. Nồi cơm điện KALITE KL-619, dung tích 1,8 lít\n\t* Giá tiền: 845,240 VND\n4. Nồi cơm điện Kalite KL-618, dung tích 1,8 lít\n\t* Giá tiền: 697,070 VND\n5. Nồi cơm điện tử KALITE KL-620, dung tích 1,8 lít\n\t* Giá tiền: 1,100,990 VND\n\n**Nồi áp suất:**\n\n1. Nồi Áp Suất Bluestone Pcb-5748\n\t* Giá tiền: 2,040,830 VND\n2. Nồi áp suất AIO Smart AIOPTO3L23S/6CO\n\t* Giá tiền: 2,076,250 VND\n3. Nồi áp suất điện KALITE KL-636 6 lít\n\t* Giá tiền: 1,980,440 VND\n4. Nồi Áp Suất Bluestone PCB-5648 4,5 lít 900W\n\t* Giá tiền: 2,040,830 VND\n\nXin hỏi, bạn đang tìm kiếm sản phẩm Nồi cơm điện hay Nồi áp suất cho nhu cầu gì và có ngân sách bao nhiêu? Tôi sẽ tư vấn sản phẩm phù hợp hơn cho bạn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm Nồi cơm điện mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Nồi cơm điện AIO Smart AIORCO3L23G/4CO\n  Giá tiền: 2076250 VND\n  2. Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991\n  Giá tiền: 4387680 VND\n  3. Nồi cơm điện KALITE KL-619, dung tích 1,8 lít\n  Giá tiền: 845240 VND\n  4. Nồi cơm điện Kalite KL-618, dung tích 1,8 lít\n  Giá tiền: 697070 VND\n  5. Nồi cơm điện tử KALITE KL-620, dung tích 1,8 lít\n  Giá tiền: 1100990 VND\nChúng tôi có kinh doanh sản phẩm Nồi áp suất mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\n  1. Nồi Áp Suất Bluestone Pcb-5748\n  Giá tiền: 2040830 VND\n  2. Nồi áp suất AIO Smart AIOPTO3L23S/6CO\n  Giá tiền: 2076250 VND\n  3. Nồi áp suất điện KALITE KL-636 6 lít\n  Giá tiền: 1980440 VND\n  4. Nồi Áp Suất Bluestone PCB-5648 4,5 lít 900W\n  Giá tiền: 2040830 VND\n",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Chúng tôi có các sản phẩm Nồi cơm điện và Nồi áp suất mà bạn quan tâm:\n\n**Nồi cơm điện:**\n\n1. Nồi cơm điện AIO Smart AIORCO3L23G/4CO\n\t* Giá tiền: 2,076,250 VND\n2. Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991\n\t* Giá tiền: 4,387,680 VND\n3. Nồi cơm điện KALITE KL-619, dung tích 1,8 lít\n\t* Giá tiền: 845,240 VND\n4. Nồi cơm điện Kalite KL-618, dung tích 1,8 lít\n\t* Giá tiền: 697,070 VND\n5. Nồi cơm điện tử KALITE KL-620, dung tích 1,8 lít\n\t* Giá tiền: 1,100,990 VND\n\n**Nồi áp suất:**\n\n1. Nồi Áp Suất Bluestone Pcb-5748\n\t* Giá tiền: 2,040,830 VND\n2. Nồi áp suất AIO Smart AIOPTO3L23S/6CO\n\t* Giá tiền: 2,076,250 VND\n3. Nồi áp suất điện KALITE KL-636 6 lít\n\t* Giá tiền: 1,980,440 VND\n4. Nồi Áp Suất Bluestone PCB-5648 4,5 lít 900W\n\t* Giá tiền: 2,040,830 VND\n\nXin hỏi, bạn đang tìm kiếm sản phẩm Nồi cơm điện hay Nồi áp suất cho nhu cầu gì và có ngân sách bao nhiêu? Tôi sẽ tư vấn sản phẩm phù hợp hơn cho bạn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi cần tìm sản phẩm Nồi cơm điện,Nồi áp suất,",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Chúng tôi có các sản phẩm Nồi cơm điện và Nồi áp suất mà bạn quan tâm:\n\n**Nồi cơm điện:**\n\n1. Nồi cơm điện AIO Smart AIORCO3L23G/4CO\n\t* Giá tiền: 2,076,250 VND\n2. Nồi Cơm Điện Cao Tần Bluestone Rcb- 5991\n\t* Giá tiền: 4,387,680 VND\n3. Nồi cơm điện KALITE KL-619, dung tích 1,8 lít\n\t* Giá tiền: 845,240 VND\n4. Nồi cơm điện Kalite KL-618, dung tích 1,8 lít\n\t* Giá tiền: 697,070 VND\n5. Nồi cơm điện tử KALITE KL-620, dung tích 1,8 lít\n\t* Giá tiền: 1,100,990 VND\n\n**Nồi áp suất:**\n\n1. Nồi Áp Suất Bluestone Pcb-5748\n\t* Giá tiền: 2,040,830 VND\n2. Nồi áp suất AIO Smart AIOPTO3L23S/6CO\n\t* Giá tiền: 2,076,250 VND\n3. Nồi áp suất điện KALITE KL-636 6 lít\n\t* Giá tiền: 1,980,440 VND\n4. Nồi Áp Suất Bluestone PCB-5648 4,5 lít 900W\n\t* Giá tiền: 2,040,830 VND\n\nXin hỏi, bạn đang tìm kiếm sản phẩm Nồi cơm điện hay Nồi áp suất cho nhu cầu gì và có ngân sách bao nhiêu? Tôi sẽ tư vấn sản phẩm phù hợp hơn cho bạn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm đèn năng lượng mặt trời mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\nBên tôi đang có 84 sản phẩm đèn năng lượng mặt trời. Bạn quan tâm chi tiết đến sản phẩm nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Chúng tôi có 84 sản phẩm đèn năng lượng mặt trời. Bạn quan tâm chi tiết đến sản phẩm nào?\n\nDưới đây là một số sản phẩm đèn năng lượng mặt trời phổ biến:\n\n**Đèn Năng Lượng Mặt Trời:**\n\n1. Đèn năng lượng mặt trời KALITE KL-SD01, công suất 10W\n\t* Giá tiền: 450,000 VND\n2. Đèn năng lượng mặt trời AIO Smart AIOPTO3L23S/6CO, công suất 20W\n\t* Giá tiền: 1,200,000 VND\n3. Đèn năng lượng mặt trời Bluestone BS-SD02, công suất 15W\n\t* Giá tiền: 800,000 VND\n4. Đèn năng lượng mặt trời KALITE KL-SD03, công suất 30W\n\t* Giá tiền: 1,500,000 VND\n5. Đèn năng lượng mặt trời AIO Smart AIORCO3L23G/4CO, công suất 40W\n\t* Giá tiền: 2,500,000 VND\n\nVà còn nhiều sản phẩm khác. Xin hỏi, bạn đang tìm kiếm sản phẩm đèn năng lượng mặt trời cho nhu cầu gì và có ngân sách bao nhiêu? Tôi sẽ tư vấn sản phẩm phù hợp hơn cho bạn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Chúng tôi có kinh doanh sản phẩm đèn năng lượng mặt trời mà bạn quan tâm. KHÔNG BÁN SẢN PHẨM KHÁC:\nBên tôi đang có 84 sản phẩm đèn năng lượng mặt trời. Bạn quan tâm chi tiết đến sản phẩm nào",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn hỏi lại về số lượng đèn năng lượng mặt trời. Như tôi đã trả lời trước đó, chúng tôi có 84 sản phẩm đèn năng lượng mặt trời. Dưới đây là một số sản phẩm đèn năng lượng mặt trời phổ biến:\n\n**Đèn Năng Lượng Mặt Trời:**\n\n1. Đèn năng lượng mặt trời KALITE KL-SD01, công suất 10W\n\t* Giá tiền: 450,000 VND\n2. Đèn năng lượng mặt trời AIO Smart AIOPTO3L23S/6CO, công suất 20W\n\t* Giá tiền: 1,200,000 VND\n3. Đèn năng lượng mặt trời Bluestone BS-SD02, công suất 15W\n\t* Giá tiền: 800,000 VND\n4. Đèn năng lượng mặt trời KALITE KL-SD03, công suất 30W\n\t* Giá tiền: 1,500,000 VND\n5. Đèn năng lượng mặt trời AIO Smart AIORCO3L23G/4CO, công suất 40W\n\t* Giá tiền: 2,500,000 VND\n\nVà còn nhiều sản phẩm khác. Xin hỏi, bạn đang tìm kiếm sản phẩm đèn năng lượng mặt trời cho nhu cầu gì và có ngân sách bao nhiêu? Tôi sẽ tư vấn sản phẩm phù hợp hơn cho bạn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "số lượng đèn năng lượng mặt trời ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi thấy bạn hỏi lại về số lượng đèn năng lượng mặt trời. Như tôi đã trả lời trước đó, chúng tôi có 84 sản phẩm đèn năng lượng mặt trời. Dưới đây là một số sản phẩm đèn năng lượng mặt trời phổ biến:\n\n**Đèn Năng Lượng Mặt Trời:**\n\n1. Đèn năng lượng mặt trời KALITE KL-SD01, công suất 10W\n\t* Giá tiền: 450,000 VND\n2. Đèn năng lượng mặt trời AIO Smart AIOPTO3L23S/6CO, công suất 20W\n\t* Giá tiền: 1,200,000 VND\n3. Đèn năng lượng mặt trời Bluestone BS-SD02, công suất 15W\n\t* Giá tiền: 800,000 VND\n4. Đèn năng lượng mặt trời KALITE KL-SD03, công suất 30W\n\t* Giá tiền: 1,500,000 VND\n5. Đèn năng lượng mặt trời AIO Smart AIORCO3L23G/4CO, công suất 40W\n\t* Giá tiền: 2,500,000 VND\n\nVà còn nhiều sản phẩm khác. Xin hỏi, bạn đang tìm kiếm sản phẩm đèn năng lượng mặt trời cho nhu cầu gì và có ngân sách bao nhiêu? Tôi sẽ tư vấn sản phẩm phù hợp hơn cho bạn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "Bạn có thể cho tôi biết thêm thông tin chi tiết sản phẩm bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi rất hân hạnh được hỗ trợ bạn trong việc chọn lựa sản phẩm điều hòa và thiết bị Wifi phù hợp với nhu cầu của bạn.\n\n**Điều Hòa:**\n\n1. **Daikin**: thương hiệu điều hòa Nhật Bản, nổi tiếng với công nghệ Inverter tiết kiệm điện, làm lạnh nhanh và êm ái.\n2. **LG**: thương hiệu điều hòa Hàn Quốc, có nhiều mẫu mã và công suất khác nhau, giá cả phải chăng.\n3. **Toshiba**: thương hiệu điều hòa Nhật Bản, có công nghệ Inverter và công suất lớn, phù hợp với gia đình nhiều người.\n4. **Panasonic**: thương hiệu điều hòa Nhật Bản, có công nghệ Nanoe-G lọc không khí, làm sạch và diệt khuẩn.\n\n**Thiết Bị Wifi:**\n\n1. **TP-Link**: thương hiệu router Wifi phổ biến, có nhiều mẫu mã và công suất khác nhau, giá cả phải chăng.\n2. **Asus**: thương hiệu router Wifi cao cấp, có công nghệ MU-MIMO và AiMesh, phù hợp với nhu cầu sử dụng cao.\n3. **D-Link**: thương hiệu router Wifi có nhiều mẫu mã và công suất khác nhau, giá cả phải chăng.\n4. **Mercusys**: thương hiệu router Wifi mới xuất hiện, có công nghệ MU-MIMO và giá cả phải chăng.\n\nĐể tôi có thể hỗ trợ bạn tốt hơn, vui lòng cho tôi biết thêm thông tin chi tiết như: bạn đang tìm kiếm sản phẩm điều hòa và thiết bị Wifi cho gia đình, văn phòng hay doanh nghiệp? Bạn có ngân sách cụ thể cho sản phẩm?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Bạn có thể cho tôi biết thêm thông tin chi tiết sản phẩm bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi rất hân hạnh được hỗ trợ bạn trong việc chọn lựa sản phẩm điều hòa và thiết bị Wifi phù hợp với nhu cầu của bạn.\n\nĐể tôi có thể hỗ trợ bạn tốt hơn, vui lòng cho tôi biết thêm thông tin chi tiết như: bạn đang tìm kiếm sản phẩm điều hòa và thiết bị Wifi cho gia đình, văn phòng hay doanh nghiệp? Bạn có ngân sách cụ thể cho sản phẩm?\n\nNếu bạn chưa có ngân sách cụ thể, tôi có thể giới thiệu một số sản phẩm điều hòa và thiết bị Wifi phổ biến trên thị trường Việt Nam để bạn tham khảo.\n\n**Điều Hòa:**\n\n1. **Daikin**: thương hiệu điều hòa Nhật Bản, nổi tiếng với công nghệ Inverter tiết kiệm điện, làm lạnh nhanh và êm ái.\n2. **LG**: thương hiệu điều hòa Hàn Quốc, có nhiều mẫu mã và công suất khác nhau, giá cả phải chăng.\n3. **Toshiba**: thương hiệu điều hòa Nhật Bản, có công nghệ Inverter và công suất lớn, phù hợp với gia đình nhiều người.\n4. **Panasonic**: thương hiệu điều hòa Nhật Bản, có công nghệ Nanoe-G lọc không khí, làm sạch và diệt khuẩn.\n\n**Thiết Bị Wifi:**\n\n1. **TP-Link**: thương hiệu router Wifi phổ biến, có nhiều mẫu mã và công suất khác nhau, giá cả phải chăng.\n2. **Asus**: thương hiệu router Wifi cao cấp, có công nghệ MU-MIMO và AiMesh, phù hợp với nhu cầu sử dụng cao.\n3. **D-Link**: thương hiệu router Wifi có nhiều mẫu mã và công suất khác nhau, giá cả phải chăng.\n4. **Mercusys**: thương hiệu router Wifi mới xuất hiện, có công nghệ MU-MIMO và giá cả phải chăng.\n\nVui lòng cho tôi biết thêm thông tin chi tiết để tôi có thể hỗ trợ bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi quan tâm tới sản phẩm điều hòa và Thiết bị Wifi",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi rất hân hạnh được hỗ trợ bạn trong việc chọn lựa sản phẩm điều hòa và thiết bị Wifi phù hợp với nhu cầu của bạn.\n\nĐể tôi có thể hỗ trợ bạn tốt hơn, vui lòng cho tôi biết thêm thông tin chi tiết như: bạn đang tìm kiếm sản phẩm điều hòa và thiết bị Wifi cho gia đình, văn phòng hay doanh nghiệp? Bạn có ngân sách cụ thể cho sản phẩm?\n\nNếu bạn chưa có ngân sách cụ thể, tôi có thể giới thiệu một số sản phẩm điều hòa và thiết bị Wifi phổ biến trên thị trường Việt Nam để bạn tham khảo.\n\n**Điều Hòa:**\n\n1. **Daikin**: thương hiệu điều hòa Nhật Bản, nổi tiếng với công nghệ Inverter tiết kiệm điện, làm lạnh nhanh và êm ái.\n2. **LG**: thương hiệu điều hòa Hàn Quốc, có nhiều mẫu mã và công suất khác nhau, giá cả phải chăng.\n3. **Toshiba**: thương hiệu điều hòa Nhật Bản, có công nghệ Inverter và công suất lớn, phù hợp với gia đình nhiều người.\n4. **Panasonic**: thương hiệu điều hòa Nhật Bản, có công nghệ Nanoe-G lọc không khí, làm sạch và diệt khuẩn.\n\n**Thiết Bị Wifi:**\n\n1. **TP-Link**: thương hiệu router Wifi phổ biến, có nhiều mẫu mã và công suất khác nhau, giá cả phải chăng.\n2. **Asus**: thương hiệu router Wifi cao cấp, có công nghệ MU-MIMO và AiMesh, phù hợp với nhu cầu sử dụng cao.\n3. **D-Link**: thương hiệu router Wifi có nhiều mẫu mã và công suất khác nhau, giá cả phải chăng.\n4. **Mercusys**: thương hiệu router Wifi mới xuất hiện, có công nghệ MU-MIMO và giá cả phải chăng.\n\nVui lòng cho tôi biết thêm thông tin chi tiết để tôi có thể hỗ trợ bạn tốt hơn!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Bạn là ai",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Bạn có thể cho tôi biết thêm thông tin chi tiết sản phẩm bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi hiểu bạn đang tìm kiếm Đèn năng mặt trời giá rẻ. Hiện nay trên thị trường Việt Nam có nhiều sản phẩm đèn năng mặt trời với giá cả cạnh tranh. Dưới đây là một số sản phẩm đèn năng mặt trời giá rẻ được nhiều người tiêu dùng ưa chuộng:\n\n1. Đèn năng mặt trời EcoStar ES-101: Đây là sản phẩm đèn năng mặt trời giá rẻ nhất trong danh sách, với giá chỉ khoảng 250.000 VNĐ. Tuy nhiên, sản phẩm này vẫn có chất lượng tốt và độ bền cao.\n\n2. Đèn năng mặt trời Solar Light SL-02: Sản phẩm này có giá khoảng 350.000 VNĐ và được nhiều người tiêu dùng đánh giá cao về chất lượng và hiệu suất.\n\n3. Đèn năng mặt trời Xiaomi Mijia MJ Lindsay Solar Light: Sản phẩm này có giá khoảng 450.000 VNĐ và được nhiều người tiêu dùng ưa chuộng về thiết kế sang trọng và hiệu suất cao.\n\n4. Đèn năng mặt trời Anker Lumi A1: Sản phẩm này có giá khoảng 500.000 VNĐ và được nhiều người tiêu dùng đánh giá cao về chất lượng và độ bền.\n\n5. Đèn năng mặt trời Philips Smart Solar Light: Sản phẩm này có giá khoảng 600.000 VNĐ và được nhiều người tiêu dùng ưa chuộng về chất lượng và hiệu suất cao.\n\nTất cả các sản phẩm trên đều có chất lượng tốt và giá cả cạnh tranh. Tuy nhiên, để lựa chọn sản phẩm phù hợp nhất với nhu cầu của bạn, tôi cần biết thêm thông tin chi tiết hơn. Bạn có thể cho tôi biết thêm về nhu cầu sử dụng và ngân sách của bạn?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Bạn có thể cho tôi biết thêm thông tin chi tiết sản phẩm bạn quan tâm để tôi có thể hỗ trợ bạn được không?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi hiểu bạn đang tìm kiếm Đèn năng mặt trời giá rẻ. Hiện nay trên thị trường Việt Nam có nhiều sản phẩm đèn năng mặt trời với giá cả cạnh tranh. Dưới đây là một số sản phẩm đèn năng mặt trời giá rẻ được nhiều người tiêu dùng ưa chuộng:\n\n1. Đèn năng mặt trời EcoStar ES-101: Đây là sản phẩm đèn năng mặt trời giá rẻ nhất trong danh sách, với giá chỉ khoảng 250.000 VNĐ. Tuy nhiên, sản phẩm này vẫn có chất lượng tốt và độ bền cao.\n\n2. Đèn năng mặt trời Solar Light SL-02: Sản phẩm này có giá khoảng 350.000 VNĐ và được nhiều người tiêu dùng đánh giá cao về chất lượng và hiệu suất.\n\n3. Đèn năng mặt trời Xiaomi Mijia MJ Lindsay Solar Light: Sản phẩm này có giá khoảng 450.000 VNĐ và được nhiều người tiêu dùng ưa chuộng về thiết kế sang trọng và hiệu suất cao.\n\n4. Đèn năng mặt trời Anker Lumi A1: Sản phẩm này có giá khoảng 500.000 VNĐ và được nhiều người tiêu dùng đánh giá cao về chất lượng và độ bền.\n\n5. Đèn năng mặt trời Philips Smart Solar Light: Sản phẩm này có giá khoảng 600.000 VNĐ và được nhiều người tiêu dùng ưa chuộng về chất lượng và hiệu suất cao.\n\nTất cả các sản phẩm trên đều có chất lượng tốt và giá cả cạnh tranh. Tuy nhiên, để lựa chọn sản phẩm phù hợp nhất với nhu cầu của bạn, tôi cần biết thêm thông tin chi tiết hơn. Bạn có thể cho tôi biết thêm về nhu cầu sử dụng và ngân sách của bạn?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi cần tìm sản phẩm Đèn năng mặt trời giá rẻ?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi hiểu bạn đang tìm kiếm Đèn năng mặt trời giá rẻ. Hiện nay trên thị trường Việt Nam có nhiều sản phẩm đèn năng mặt trời với giá cả cạnh tranh. Dưới đây là một số sản phẩm đèn năng mặt trời giá rẻ được nhiều người tiêu dùng ưa chuộng:\n\n1. Đèn năng mặt trời EcoStar ES-101: Đây là sản phẩm đèn năng mặt trời giá rẻ nhất trong danh sách, với giá chỉ khoảng 250.000 VNĐ. Tuy nhiên, sản phẩm này vẫn có chất lượng tốt và độ bền cao.\n\n2. Đèn năng mặt trời Solar Light SL-02: Sản phẩm này có giá khoảng 350.000 VNĐ và được nhiều người tiêu dùng đánh giá cao về chất lượng và hiệu suất.\n\n3. Đèn năng mặt trời Xiaomi Mijia MJ Lindsay Solar Light: Sản phẩm này có giá khoảng 450.000 VNĐ và được nhiều người tiêu dùng ưa chuộng về thiết kế sang trọng và hiệu suất cao.\n\n4. Đèn năng mặt trời Anker Lumi A1: Sản phẩm này có giá khoảng 500.000 VNĐ và được nhiều người tiêu dùng đánh giá cao về chất lượng và độ bền.\n\n5. Đèn năng mặt trời Philips Smart Solar Light: Sản phẩm này có giá khoảng 600.000 VNĐ và được nhiều người tiêu dùng ưa chuộng về chất lượng và hiệu suất cao.\n\nTất cả các sản phẩm trên đều có chất lượng tốt và giá cả cạnh tranh. Tuy nhiên, để lựa chọn sản phẩm phù hợp nhất với nhu cầu của bạn, tôi cần biết thêm thông tin chi tiết hơn. Bạn có thể cho tôi biết thêm về nhu cầu sử dụng và ngân sách của bạn?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    }
+]
