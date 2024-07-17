@@ -1,0 +1,804 @@
+server:
+    ip_address: "0.0.0.0"
+    port: 8099
+    port2: 9099
+
+parameter:
+    #path data
+    DATA_PATH: "data/"
+    DB_MESSAGES: "ChatBot_Extract_Intent/db_messages/"
+    data_private: ./ChatBot_Extract_Intent/data/product_final_300_extract.xlsx
+    #llm
+    embeddings_name: "sentence-transformers/all-MiniLM-L6-v2"
+    #   gpt_model_to_use: "gpt-3.5-turbo-16k"
+    gpt_model_to_use: "gpt-3.5-turbo-0125"
+    grog_model_to_use: "llama3-8b-8192"
+    temperature: 0
+    gpt_max_tokens: 256
+    search_number_messages: 1
+    prompt_number_snippets: 1
+
+    #elasticsearch
+    elastic_url: "http://10.248.243.105:9200"
+    num_size_elas: 5
+    num_product: 1  # Số lượng sản phẩm tối đa cần tìm
+
+    raw_answer: ["Mình là trợ lý AI của VCC. Mình được tạo ra để hỗ trợ và giải đáp về các sản phẩm của VCC, hiện tại mình vẫn đang trong quá trình phát triển nên không phải lúc nào cũng đúng. Bạn có thể phản hồi để giúp mình cải thiện tốt hơn.",
+                "Mình là trợ lý AI của VCC. Mình được tạo ra để hỗ trợ và giải đáp về các sản phẩm của VCC như: Thông tin sản phẩm, giá tiền, số lượng, thông số sản phẩm, . . . Hãy hỏi mĩnh những thông tin này để mình giúp đỡ."]
+  
+    can_not_res: ['Rất tiếc về điều này. Tôi vẫn đang trong quá trình học và cải thiện, nên không thể giúp bạn với câu hỏi này vào lúc này. Hãy đặt câu hỏi khác để tôi có thể hỗ trợ bạn tốt hơn!',
+                'Xin lỗi về sự bất tiện này. Tôi đang cố gắng nâng cao khả năng của mình mỗi ngày, nhưng hiện tại vẫn chưa đủ để xử lý câu hỏi này. Mong bạn thông cảm và tiếp tục hỏi câu hỏi khác nếu cần!',
+                'Xin lỗi về sự phiền toái này. Tôi đang trong quá trình học hỏi và cải thiện từng ngày, nhưng vẫn chưa đủ để giải quyết câu hỏi của bạn. Hãy để tôi biết nếu có bất kỳ điều gì khác mà bạn cần giúp đỡ!',
+                'Xin lỗi về sự bất tiện này. Hiện tại, tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!',
+                'Xin lỗi, hiện tại tôi vẫn đang trong quá trình học và cải thiện, nên chưa thể giúp bạn với câu hỏi này. Tuy nhiên, tôi rất sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi nào khác bạn có. Hãy đặt câu hỏi khác để tôi có thể giúp bạn tốt hơn!']
+
+    rasa_button: [
+        {
+        "payload": "Tôi muốn tìm kiếm sản phẩm tương tự.",
+        "title": "Tôi muốn tìm kiếm sản phẩm tương tự."
+        },
+        {
+        "payload": "Tôi muốn tra cứu hàng tồn kho",
+        "title": "Tôi muốn tra cứu hàng tồn kho"
+        },
+        {
+        "payload": "Tôi muốn tìm sản phẩm Đèn năng lượng mặt trời cao cấp?",
+        "title": "Tôi muốn tìm sản phẩm Đèn năng lượng mặt trời cao cấp?"
+        },
+        {
+        "payload": "Thời gian lâu nhất mà đèn năng lượng mặt trời có thể sử dụng là bao lâu?",
+        "title": "Thời gian lâu nhất mà đèn năng lượng mặt trời có thể sử dụng là bao lâu?"
+        }]
+    rasa_button_random_01: [
+        {
+        "payload": "Tôi cần tìm đèn năng lượng mặt trời giá 500k",
+        "title": "Tôi cần tìm đèn năng lượng mặt trời giá 500k"
+        },
+        {
+        "payload": "Tôi cần tìm điều hòa có công suất 9000BTU",
+        "title": "Tôi cần tìm điều hòa có công suất 9000BTU"
+        },
+        {
+        "payload": "Cho tôi bình nước nóng có dung tích 30 lít",
+        "title": "Cho tôi bình nước nóng có dung tích 30 lít"
+        },
+        {
+        "payload": "Đèn năng lượng mặt trời có câm nặng tầm 3kg",
+        "title": "Đèn năng lượng mặt trời có câm nặng tầm 3kg"
+        }]
+    rasa_button_random_02: [
+        {
+        "payload": "Nồi cơm điện và nồi áp suất có điểm gì khác nhau?",
+        "title": "Nồi cơm điện và nồi áp suất có điểm gì khác nhau?"
+        },
+        {
+        "payload": "Số lượng lò nướng KALITE 4 lít hiện còn bao nhiêu?",
+        "title": "Số lượng lò nướng KALITE 4 lít hiện còn bao nhiêu?"
+        },
+        {
+        "payload": "Tôi quan tâm điều hòa có giá trên 10 triệu",
+        "title": "Tôi quan tâm điều hòa có giá trên 10 triệu"
+        },
+        {
+        "payload": "Tôi quan tâm đèn năng lượng mặt trời 50w",
+        "title": "Tôi quan tâm đèn năng lượng mặt trời 50w"
+        }]
+    rasa_button_random_03: [
+        {
+        "payload": "Tôi cần tìm bình đun nước có sức chứa 50ml",
+        "title": "Tôi cần tìm bình đun nước có sức chứa 50ml"
+        },
+        {
+        "payload": "Tôi cần máy giặt nào có khối lượng giặt 10kg",
+        "title": "Tôi cần máy giặt nào có khối lượng giặt 10kg"
+        },
+        {
+        "payload": "So với điều hòa Daikin thì điều hòa MDV có ưu điểm là gì",
+        "title": "So với điều hòa Daikin thì điều hòa MDV có ưu điểm là gì"
+        },
+        {
+        "payload": "Bên bạn có bao nhiêu loại bếp từ công suất lớn?",
+        "title": "Bên bạn có bao nhiêu loại bếp từ công suất lớn?"
+        }]
+    rasa_button_random_04: [
+        {
+        "payload": "Bạn có thiết bị wifi nào giá rẻ không?",
+        "title": "Bạn có thiết bị wifi nào giá rẻ không?"
+        },
+        {
+        "payload": "Có sản phẩm nào có công suất trên 500w",
+        "title": "Có sản phẩm nào có công suất trên 500w"
+        },
+        {
+        "payload": "Có máy giặt nào có dung tích lớn hơn 10l không",
+        "title": "Có máy giặt nào có dung tích lớn hơn 10l không"
+        },
+        {
+        "payload": "Khối lượng của ghế masage daikiosan",
+        "title": "Khối lượng của ghế masage daikiosan"
+        }]
+        
+    example_correct_spelling: [
+        {
+            "input_text":"điều hòa nào có khốilượng từ 5kg trở lên",
+            "command":"điều hòa nào có khối lượng từ 5 kilogram trở lên"
+        },
+        {
+            "input_text":"lo nướng KALITE 4l",
+            "command":"lò nướng KALITE 4l"
+        },
+        {
+            "input_text":"lovisong gia 5k dong",
+            "command":"lò vi sóng giá 5k đồng"
+        },
+        {
+            "input_text":"DEN NAng Luong mat trọi có can nag tam 3kg có giá 1tr",
+            "command":"đèn năng lượng mặt trời có cân nặng tầm 3kg có giá dưới 1tr."
+        },
+        {
+            "input_text":"DIEU hoa dai kin 9000BTU 2 chieuinverter 2023",
+            "command":"Điều hòa Daikin 9000BTU 2 chiều Inverter 2023"
+        }]
+    
+    example_price: [
+        {
+            "input_text":"điều hòa daikin 9000",
+            "object":["điều hòa daikin 9000"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"điều hòa daikin 9000 btu 2 chiều inverter ",
+            "object":["điều hòa daikin 9000 btu 2 chiều inverter"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"robot hút bụi nào có tính năng hẹn giờ và hệ thống điều hướng AIVI 3D giá rẻ nhất",
+            "object":["robot hút bụi"],
+            "power":"",           
+            "value":["giá rẻ nhất"],
+            "weight":"",
+            "volume":"",
+            "intent":"tính năng hẹn giờ và hệ thống điều hướng AIVI 3D"
+        },
+        {
+            "input_text":"Tôi muốn tìm điều hòa giá 10tr có tính năng inverter, diện tích lam mát khoảng 20m2",
+            "object":["điều hòa"],
+            "power":"",           
+            "value":["giá 10tr"],
+            "weight":"",
+            "volume":"",
+            "intent":"tính năng inverter, diện tích lam mát khoảng 20m2"
+        },
+        {
+            "input_text":"Tôi cần điều hòa giá 11.5tr",
+            "object":["điều hòa"],
+            "power":"",           
+            "value":["giá 11.5tr"],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"lò vi sóng 5 nghìn đồng",
+            "object":["lò vi sóng"],
+            "power":"",           
+            "value":["5 nghìn đồng"],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"Tôi muốn mua bàn là giá 500k và máy sấy 100k",
+            "object":["bàn là", "máy sấy"],
+            "power":"",           
+            "value":["giá 500k", "100k"],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"Điều hòa rẻ",
+            "object":["điều hòa"],
+            "power":"",           
+            "value":["rẻ"],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"Máy giặt khoảng 20tr",
+            "object":["máy giặt "],
+            "power":"",           
+            "value":["khoảng 20tr"],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"đèn năng lượng mặt trời có đắt nhất, có diện tích chiếu sáng 100m2",
+            "object":["đèn năng lượng mặt trời"],
+            "power":"",           
+            "value":["đắt nhất"],
+            "weight":"",
+            "volume":"",
+            "intent":"diện tích chiếu sáng 100m2"
+        },
+        {
+            "input_text":"bếp từ có giá thấp nhất nhưng tiết kiệm điện",
+            "object":["bếp từ"],
+            "power":"",           
+            "value":["giá thấp nhất"],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"robot hút bụi có giá thành 3 tỉ, điều hòa có giá 5tr",
+            "object":["robot hút bụi", "điều hòa"],
+            "power":"",           
+            "value":["giá 3 tỉ", "5tr"],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"Tôi cần tìm đèn năng lượng mặt trời có cân nặng tầm 3kg có dưới 1tr, thời gian chiếu sáng 20h",
+            "object":["đèn năng lượng mặt trời"],
+            "power":"",           
+            "value":["dưới 1tr"],
+            "weight":"3kg",
+            "volume":"",
+            "intent":"thời gian chiếu sáng 20h"
+        }
+        ]
+
+    example_power: [
+        {
+            "input_text":"đèn năng lượng mặt trời công suất 90W",
+            "object":["đèn năng lượng mặt trời"],
+            "power":"90W",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"Bếp từ nào có công suất lớn nhất",
+            "object":["bếp từ"],
+            "power":"lớn nhất",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"tôi cần tủ lạnh công suất trên 1000kw",
+            "object":["tủ lạnh"],
+            "power":"trên 1000kw",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"Điều hòa Daikin 2 chiều Inverter 2023 bao nhiêu w",
+            "object":["Điều hòa Daikin"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"tôi cần tìm đèn năng lượng bàn chải rời thể 400w",
+            "object":["đèn năng lượng bàn chải rời thể "],
+            "power":"400w",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"cho tôi xem sản phẩm bình nước nóng có công suất tầm 700w",
+            "object":["bình nước nóng"],
+            "power":"700w",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"với công suất 300w thì có những sản phẩm nồi cơm điện nào",
+            "object":["nồi cơm điện"],
+            "power":"300w",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"đèn năng lượng mặt trời nào có công suất nhỏ",
+            "object":["đèn năng lượng mặt trời"],
+            "power":"nhỏ",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"Diện tích chiếu sáng đèn năng lượng mặt trời công suất 90W",
+            "object":["đèn năng lượng mặt trời"],
+            "power":"90w",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"Diện tích chiếu sáng"
+        },
+        {
+            "input_text":"Bên bán có bán điều hòa có công suất 12000w có tính năng Inverter",
+            "object":["điều hòa"],
+            "power":"12000w",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"tính năng Inverter"
+        }]
+
+    example_volume: [
+        {
+            "input_text":"cho tôi bình nước nóng có dung tích 30 lít",
+            "object":["bình nước nóng"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"30 lít",
+            "intent":""
+        },
+        {
+            "input_text":"máy giặt nào có thể tích từ 5 lít trở lên",
+            "object":["máy giặt"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"từ 5 lít",
+            "intent":""
+        },
+        {
+            "input_text":"lò nướng KALITE 4 lít",
+            "object":["lò nướng KALITE"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"4 lít",
+            "intent":""
+        },
+        {
+            "input_text":"bình nước nóng nào có dung tích trên 500ml",
+            "object":["bình nước nóng"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"trên 500ml",
+            "intent":""
+        },
+        {
+            "input_text":"Có máy giặt nào có dung tích lớn hơn 10l không",
+            "object":["máy giặt"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"lớn hơn 10l",
+            "intent":""
+        },
+        {
+            "input_text":"Sản phẩm bàn là loại hơi nước xanh dương nhạt nào 5 lít",
+            "object":["bàn là"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"5 lít",
+            "intent":"hơi nước xanh dương nhạt"
+        },
+        {
+            "input_text":"tôi cần tìm máy giặt có dung tích lớn",
+            "object":["máy giặt"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"dung tích lớn",
+            "intent":""
+        },
+        {
+            "input_text":"bình nước nóng nào đang có thể tích nhỏ",
+            "object":["bình nước nóng"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"thể tích nhỏ",
+            "intent":""
+        }]
+
+    example_weight: [
+        {
+            "input_text":"đèn năng lượng mặt trời có cân nặng tầm 3kg",
+            "object":["đèn năng lượng mặt trời"],
+            "power":"",           
+            "value":[""],
+            "weight":"3kg",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"cho tôi máy giặt có khối lượng 13kg",
+            "object":["máy giặt"],
+            "power":"",           
+            "value":[""],
+            "weight":"13kg",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"cho tôi robot hút bụi 5g",
+            "object":["robot hút bụi"],
+            "power":"",           
+            "value":[""],
+            "weight":"5g",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"máy giặt có sức chứa 3000g",
+            "object":["máy giặt"],
+            "power":"",           
+            "value":[""],
+            "weight":"3000g",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"tôi cần tìm điều hòa có cân nặng 10kg",
+            "object":["điều hòa"],
+            "power":"",           
+            "value":[""],
+            "weight":"10kg",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"cho xem lò nướng nặng nhất",
+            "object":["lò nướng"],
+            "power":"",           
+            "value":[""],
+            "weight":"nặng nhất",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"tìm robot hút bụi nhẹ ",
+            "object":["robot hút bụi"],
+            "power":"",           
+            "value":[""],
+            "weight":"nhẹ",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"bàn là có khối lượng nhỏ",
+            "object":["bàn là"],
+            "power":"",           
+            "value":[""],
+            "weight":"khối lượng nhỏ",
+            "volume":"",
+            "intent":""
+        }]
+    
+    example_compare: [
+        {
+            "input_text":"so sánh điều hòa daikin và điều hòa LG tầm giá 10tr",
+            "object":["điều hòa daikin","điều hòa LG"],
+            "power":"",           
+            "value":["10tr"],
+            "weight":"",
+            "volume":"",
+            "intent":"so sánh"
+        },
+        {
+            "input_text":"Điều hòa Daikin 2 chiều Inverter 2023 có khả năng làm lạnh hiệu quả hơn điều hòa MDV 2 chiều Inverter 2023 không",
+            "object":["điều hòa daikin","điều hòa MDV"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"hơn"
+        },
+        {
+            "input_text":"máy lọc nước Karofi KAQ-U06V và Máy lọc nước Empire Nóng Nguội - 10 cấp lọc EPML038 cái nào tốt hơn?",
+            "object":["máy lọc nước"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"tốt hơn"
+        },
+        {
+            "input_text":"nồi cơm điện và nồi áp suất có điểm gì khác nhau",
+            "object":["nồi cơm điện", "nồi áp suất"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"khác nhau"
+        },
+        {
+            "input_text":"so sánh điều hòa daikin và điều hòa Carrier tầm giá 10tr",
+            "object":["điều hòa"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"so sánh"
+        },
+        {
+            "input_text":"sự khác biệt giữa sản phẩm máy lọc không khí và máy lọc nước",
+            "object":["máy lọc không khí", "máy lọc nước"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"sự khác biệt"
+        },
+        {
+            "input_text":"so với điều hòa Daikin thì điều hòa Mdv có ưu điểm là gì",
+            "object":["điều hòa Daikin", "điều hòa Mdv"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"so"
+        },
+        {
+            "input_text":"giá của điều hòa Carrier với điều hòa Daikin có tương đương nhau không",
+            "object":["điều hòa Carrier", "điều hòa Daikin"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"tương đương"
+        },
+        {
+            "input_text":"phân biệt nồi cơm điện và nồi áp suất",
+            "object":["nồi cơm điện ", "nồi áp suất"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"phân biệt"
+        },
+        {
+            "input_text":"nồi cơm điện và nồi áp suất có gì giống nhau",
+            "object":["nồi cơm điện", "nồi áp suất"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"giống"
+        },
+        {
+            "input_text":"lấy cho tôi sản phẩm điều hòa có giá tương tự với điều hòa Daikin",
+            "object":["điều hòa", "điều hòa Daikin"],
+            "power":"",           
+            "value":["giá"],
+            "weight":"",
+            "volume":"",
+            "intent":"tương tự"
+        },
+        {
+            "input_text":"so sánh điều hòa daikin và điều hòa LG",
+            "object":["điều hòa daikin","điều hòa LG"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"so sánh"
+        }]
+
+    example_quantity: [
+        {
+            "input_text":"bao nhiêu điều hòa giá 10tr",
+            "object":["điều hòa"],
+            "power":"",           
+            "value":["10tr"],
+            "weight":"",
+            "volume":"",
+            "intent":"bao nhiêu"
+        },
+        {
+            "input_text":"số lượng sản phẩm điều hòa",
+            "object":["điều hòa"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"số lượng"
+        },
+        {
+            "input_text":"có mấy cái đèn năng lượng mặt trời có cân nặng tầm 3kg có giá dưới 1tr",
+            "object":["đèn năng lượng mặt trời"],
+            "power":"",           
+            "value":["dưới 1tr"],
+            "weight":"3kg",
+            "volume":"",
+            "intent":"mấy"
+        },
+        {
+            "input_text":"bao nhiêu điều hòa có công suất trên 9000BTU, giá trên 10 triệu, cân nặng dưới 10kg",
+            "object":["điều hòa"],
+            "power":"9000BTU",           
+            "value":["trên 10 triệu"],
+            "weight":"dưới 10kg",
+            "volume":"",
+            "intent":"bao nhiêu"
+        },
+        {
+            "input_text":"số lượng bàn là giá 500k và máy sấy 100k",
+            "object":["bàn là"],
+            "power":"",           
+            "value":["500k", "100k"],
+            "weight":"",
+            "volume":"",
+            "intent":"số lượng"
+        },
+        {
+            "input_text":"tổng số đèn năng lượng mặt trời có câm nặng tầm 3kg có giá dưới 1tr",
+            "object":["đèn năng lượng mặt trời"],
+            "power":"",           
+            "value":["dưới 1tr"],
+            "weight":"tầm 3kg",
+            "volume":"",
+            "intent":"tổng số"
+        },
+        {
+            "input_text":"cho tôi xem bên bạn bán bao nhiêu máy xay",
+            "object":["máy xay"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"bao nhiêu"
+        },
+        {
+            "input_text":"danh sách  điều hòa giá 10tr",
+            "object":["điều hòa"],
+            "power":"",           
+            "value":["10tr"],
+            "weight":"",
+            "volume":"",
+            "intent":"danh sách"
+        }]
+
+    example_descriptions: [
+        {
+            "input_text":"điều hòa nào có Gas R32",
+            "object": ["điều hòa"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"Gas R32"
+        },
+        {
+            "input_text":"danh sách quạt không khí",
+            "object": ["quạt không khí"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"danh sách"
+        },
+        {
+            "input_text":"Máy Giặt Aqua 9 Kg AQW-F91GT.S là lồng ngang hay lồng đứng",
+            "object":["Máy Giặt Aqua 9 Kg AQW-F91GT.S"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"lồng ngang hay lồng đứng"
+        },
+        {
+            "input_text": "Thời gian sử dụng trung bình của ghế massage daikiosan là bao lâu?",
+            "object": ["Ghế massage daikiosan"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"Thời gian sử dụng"
+        },
+        {    
+            "input_text":"máy giặt 5 triệu có chức năng khóa trẻ em không",
+            "object": [" máy giặt"],
+            "power":"",           
+            "value":["5 triệu"],
+            "weight":"",
+            "volume":"",
+            "intent":"chức năng khóa trẻ em"
+        },
+        {   
+            "input_text":"tôi muốn tìm sản phẩm đèn năng lượng mặt trời cao cấp",
+            "object": ["đèn năng lượng mặt"],
+            "power":"",           
+            "value":["cao cấp"],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {   
+            "input_text":"robot hút bụi nào có tính năng hẹn giờ và hệ thống điều hướng AIVI 3D",
+            "object": ["robot hút bụi"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"tính năng hẹn giờ và hệ thống điều hướng AIVI 3D"
+        },
+        {   
+            "input_text":"robot hút bụi nào có hẹn giờ và công nghệ SpinFlow Power Clean",
+            "object": ["robot hút bụi"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"hẹn giờ và công nghệ SpinFlow Power Clean"
+        },
+        {   
+            "input_text":"Tôi quan tâm tới sản phẩm đèn năng lượng mặt trời và Thiết bị Wifi có giá tiết kiệm",
+            "object": ["đèn năng lượng mặt trời", "Thiết bị Wifi"],
+            "power":"",           
+            "value":["tiết kiệm"],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"thời gian lâu nhất mà đèn năng lượng mặt trời có thể sử dụng là bao lâu",
+            "object": ["đèn năng lượng mặt trời"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":"thời gian lâu nhất"
+        },
+        {
+            "input_text":"tìm kiếm sản phẩm đèn năng lượng mặt trời đèn nlmt rời thể 1 pha 400w vip (nhôm)",
+            "object": ["đèn năng lượng mặt trời đèn nlmt rời thể 1 pha"],
+            "power":"400w",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },{
+            "input_text":"tôi cần tìm đèn năng lượng mặt trời",
+            "object": ["đèn năng lượng mặt trời"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        },
+        {
+            "input_text":"điều hòa, đèn năng lượng mặt trời, lò vi sóng",
+            "object": ["điều hòa","đèn năng lượng mặt trời", "lò vi sóng"],
+            "power":"",           
+            "value":[""],
+            "weight":"",
+            "volume":"",
+            "intent":""
+        }
+        ]

@@ -1888,5 +1888,1115 @@
             "invalid_tool_calls": [],
             "usage_metadata": null
         }
+<<<<<<< HEAD
+=======
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Ngã đi hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi có thể giúp gì cho bạn về sản phẩm điều hòa?\n\n(Vui lòng nhập câu hỏi của bạn về sản phẩm điều hòa)",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Ngã đi hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi có thể giúp gì cho bạn về sản phẩm điều hòa?\n\nBạn đang quan tâm đến sản phẩm điều hòa nào? Chúng tôi có các sản phẩm điều hòa sau:\n\n1. Điều hòa MDV - Inverter 9000 BTU\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n\nVui lòng chọn sản phẩm điều hòa bạn quan tâm để tôi có thể cung cấp thêm thông tin cho bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Ngã đi hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi có thể giúp gì cho bạn về sản phẩm điều hòa?\n\nBạn đang quan tâm đến sản phẩm điều hòa nào? Chúng tôi có các sản phẩm điều hòa sau:\n\n1. Điều hòa MDV - Inverter 9000 BTU\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n\nVui lòng chọn sản phẩm điều hòa bạn quan tâm để tôi có thể cung cấp thêm thông tin cho bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " TOP 10 SẢN PHẨM ĐIỀU HÒA",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào!\n\nNếu bạn đang quan tâm đến top 10 sản phẩm điều hòa, chúng tôi hiện đang kinh doanh sản phẩm điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023.\n\nĐây là một trong những sản phẩm điều hòa được ưa chuộng nhất hiện nay, với các thông số kỹ thuật sau:\n\n* Loại: Điều hòa 2 chiều Inverter\n* Công suất: 12.000 BTU/h (1.5 HP)\n* Diện tích sử dụng: 15 - 20m²\n* Mức tiêu thụ điện: Làm lạnh: 0.83 (0.24-1.12) kW/h, Sưởi ấm: 0.94 (0.22-1.22) kW/h\n* Hiệu suất năng lượng: Làm lạnh: 5.8 (A++), Sưởi ấm: 4.8 (A+)\n* Gas: R32\n* Chế độ Inverter: Có\n* Chức năng: Làm lạnh nhanh, Tự làm sạch, Lọc bụi mịn PM2.5, Khử mùi, Chế độ gió Coanda, Hẹn giờ, Điều khiển từ xa\n* Độ ồn: Dàn lạnh: 22/19 dB(A), Dàn nóng: 52/48 dB(A)\n* Kích thước: Dàn lạnh: 293 x 798 x 230 mm, Dàn nóng: 530 x 660 x 240 mm\n* Trọng lượng: Dàn lạnh: 10 kg, Dàn nóng: 25 kg\n* Giá: 14917980\n\nNếu bạn có bất kỳ câu hỏi nào về sản phẩm này, vui lòng hỏi tôi!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " TOP 10 SẢN PHẨM ĐIỀU HÒA",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào!\n\nNếu bạn đang quan tâm đến top 10 sản phẩm điều hòa, chúng tôi hiện đang kinh doanh sản phẩm điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023.\n\nĐây là một trong những sản phẩm điều hòa được ưa chuộng nhất hiện nay, với các thông số kỹ thuật sau:\n\n* Loại: Điều hòa 2 chiều Inverter\n* Công suất: 12.000 BTU/h (1.5 HP)\n* Diện tích sử dụng: 15 - 20m²\n* Mức tiêu thụ điện: Làm lạnh: 0.83 (0.24-1.12) kW/h, Sưởi ấm: 0.94 (0.22-1.22) kW/h\n* Hiệu suất năng lượng: Làm lạnh: 5.8 (A++), Sưởi ấm: 4.8 (A+)\n* Gas: R32\n* Chế độ Inverter: Có\n* Chức năng: Làm lạnh nhanh, Tự làm sạch, Lọc bụi mịn PM2.5, Khử mùi, Chế độ gió Coanda, Hẹn giờ, Điều khiển từ xa\n* Độ ồn: Dàn lạnh: 22/19 dB(A), Dàn nóng: 52/48 dB(A)\n* Kích thước: Dàn lạnh: 293 x 798 x 230 mm, Dàn nóng: 530 x 660 x 240 mm\n* Trọng lượng: Dàn lạnh: 10 kg, Dàn nóng: 25 kg\n* Giá: 14917980\n\nNếu bạn có bất kỳ câu hỏi nào về sản phẩm này, vui lòng hỏi tôi!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " TOP 10 SẢN PHẨM ĐIỀU HÒA",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào!\n\nNếu bạn đang quan tâm đến top 10 sản phẩm điều hòa, chúng tôi hiện đang kinh doanh sản phẩm điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023.\n\nĐây là một trong những sản phẩm điều hòa được ưa chuộng nhất hiện nay, với các thông số kỹ thuật sau:\n\n* Loại: Điều hòa 2 chiều Inverter\n* Công suất: 12.000 BTU/h (1.5 HP)\n* Diện tích sử dụng: 15 - 20m²\n* Mức tiêu thụ điện: Làm lạnh: 0.83 (0.24-1.12) kW/h, Sưởi ấm: 0.94 (0.22-1.22) kW/h\n* Hiệu suất năng lượng: Làm lạnh: 5.8 (A++), Sưởi ấm: 4.8 (A+)\n* Gas: R32\n* Chế độ Inverter: Có\n* Chức năng: Làm lạnh nhanh, Tự làm sạch, Lọc bụi mịn PM2.5, Khử mùi, Chế độ gió Coanda, Hẹn giờ, Điều khiển từ xa\n* Độ ồn: Dàn lạnh: 22/19 dB(A), Dàn nóng: 52/48 dB(A)\n* Kích thước: Dàn lạnh: 293 x 798 x 230 mm, Dàn nóng: 530 x 660 x 240 mm\n* Trọng lượng: Dàn lạnh: 10 kg, Dàn nóng: 25 kg\n* Giá: 14917980\n\nNếu bạn có bất kỳ câu hỏi nào về sản phẩm này, vui lòng hỏi tôi!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Điều hòa châu tượng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào!\n\nTôi không tìm thấy thông tin về điều hòa Châu Tượng trong danh sách sản phẩm hiện có của chúng tôi. Chúng tôi hiện đang kinh doanh các sản phẩm điều hòa của hãng MDV và Carrier. Nếu bạn quan tâm đến các sản phẩm điều hòa của chúng tôi, vui lòng cho tôi biết để tôi có thể giới thiệu thêm cho bạn.\n\nCác sản phẩm điều hòa của chúng tôi bao gồm:\n\n1. Điều hòa MDV - Inverter 9000 BTU\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n\nVui lòng cho tôi biết nếu bạn cần thêm thông tin về các sản phẩm này.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Điều hòa châu tượng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào!\n\nTôi không tìm thấy thông tin về điều hòa Châu Tượng trong danh sách sản phẩm hiện có của chúng tôi. Chúng tôi hiện đang kinh doanh các sản phẩm điều hòa của hãng MDV và Carrier. Nếu bạn quan tâm đến các sản phẩm điều hòa của chúng tôi, vui lòng cho tôi biết để tôi có thể giới thiệu thêm cho bạn.\n\nCác sản phẩm điều hòa của chúng tôi bao gồm:\n\n1. Điều hòa MDV - Inverter 9000 BTU\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n\nVui lòng cho tôi biết nếu bạn cần thêm thông tin về các sản phẩm này.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Điều hòa châu tượng",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào!\n\nTôi không tìm thấy thông tin về điều hòa Châu Tượng trong danh sách sản phẩm hiện có của chúng tôi. Chúng tôi hiện đang kinh doanh các sản phẩm điều hòa của hãng MDV và Carrier. Nếu bạn quan tâm đến các sản phẩm điều hòa của chúng tôi, vui lòng cho tôi biết để tôi có thể giới thiệu thêm cho bạn.\n\nCác sản phẩm điều hòa của chúng tôi bao gồm:\n\n1. Điều hòa MDV - Inverter 9000 BTU\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n\nVui lòng cho tôi biết nếu bạn cần thêm thông tin về các sản phẩm này.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Điều hòa treo tường",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào!\n\nTôi thấy rằng bạn đang quan tâm đến điều hòa treo tường. Chúng tôi hiện đang kinh doanh các sản phẩm điều hòa treo tường của hãng MDV và Carrier.\n\nCác sản phẩm điều hòa treo tường của chúng tôi bao gồm:\n\n1. Điều hòa MDV - Inverter 9000 BTU\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n\nTất cả các sản phẩm điều hòa treo tường của chúng tôi đều có thông số kỹ thuật và giá tiền khác nhau. Nếu bạn cần thêm thông tin về các sản phẩm này, vui lòng cho tôi biết.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Điều hòa treo tường",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào!\n\nTôi thấy rằng bạn đang quan tâm đến điều hòa treo tường. Chúng tôi hiện đang kinh doanh các sản phẩm điều hòa treo tường của hãng MDV và Carrier.\n\nCác sản phẩm điều hòa treo tường của chúng tôi bao gồm:\n\n1. Điều hòa MDV - Inverter 9000 BTU\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n\nTất cả các sản phẩm điều hòa treo tường của chúng tôi đều có thông số kỹ thuật và giá tiền khác nhau. Nếu bạn cần thêm thông tin về các sản phẩm này, vui lòng cho tôi biết.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Điều hòa treo tường",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào!\n\nTôi thấy rằng bạn đang quan tâm đến điều hòa treo tường. Chúng tôi hiện đang kinh doanh các sản phẩm điều hòa treo tường của hãng MDV và Carrier.\n\nCác sản phẩm điều hòa treo tường của chúng tôi bao gồm:\n\n1. Điều hòa MDV - Inverter 9000 BTU\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n\nTất cả các sản phẩm điều hòa treo tường của chúng tôi đều có thông số kỹ thuật và giá tiền khác nhau. Nếu bạn cần thêm thông tin về các sản phẩm này, vui lòng cho tôi biết.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Giá bao nhiêu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin lỗi, nhưng tôi không hiểu câu hỏi của bạn. Bạn có thể giải thích rõ hơn được không? Tôi sẽ cố gắng giúp bạn.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Giá của điều hòa trêu tường",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Giá của điều hòa treo tường như sau:\n\n1. Điều hòa MDV - Inverter 9000 BTU: 6,014,184 VNĐ\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023: 7,246,030 VNĐ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Giá của điều hòa trêu tường",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Giá của điều hòa treo tường như sau:\n\n1. Điều hòa MDV - Inverter 9000 BTU: 6,014,184 VNĐ\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023: 7,246,030 VNĐ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Giá của điều hòa trêu tường",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Giá của điều hòa treo tường như sau:\n\n1. Điều hòa MDV - Inverter 9000 BTU: 6,014,184 VNĐ\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023: 7,246,030 VNĐ",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi cần tìm sản phẩm Máy Giặt,Công tắc, ổ cắm thông minh,Điều hòa,Lò vi sóng,",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào bạn! Chúng tôi có các sản phẩm sau:\n\n**Máy Giặt**\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S: 5,759,050 VNĐ\n2. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB: 14,450,040 VNĐ\n3. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S: 4,726,370 VNĐ\n4. Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK: 6,074,970 VNĐ\n5. Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB: 11,898,480 VNĐ\n\n**Công tắc, ổ cắm thông minh**\n\n1. Công tắc cảm ứng 1 nút chữ nhật - 2 dây màu trắng: 1,063,000 VNĐ\n2. Công tắc cảm ứng 2 nút chữ nhật - 2 dây màu trắng: 1,106,000 VNĐ\n3. Công tắc cảm ứng 3 nút chữ nhật - 2 dây màu trắng: 1,169,000 VNĐ\n4. Công tắc cảm ứng 4 nút chữ nhật - 2 dây màu trắng: 1,254,000 VNĐ\n5. Bộ điều khiển trung tâm Home Controller (HC): 2,277,000 VNĐ\n\n**Điều hòa**\n\n1. Điều hòa MDV - Inverter 9000 BTU: 6,014,184 VNĐ\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023: 7,246,030 VNĐ\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023: 11,740,520 VNĐ\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023: 9,423,040 VNĐ\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023: 11,200,420 VNĐ\n\n**Lò vi sóng**\n\n1. Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít: 2,346,850 VNĐ\n2. Lò Nướng Bluestone Eob-7567: 3,606,640 VNĐ\n3. Nồi lẩu nướng Đa năng KALITE KL- 666 4 lít: 1,981,000 VNĐ\n\nVui lòng cho chúng tôi biết bạn cần sản phẩm nào!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi cần tìm sản phẩm Máy Giặt,Công tắc, ổ cắm thông minh,Điều hòa,Lò vi sóng,",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào bạn! Chúng tôi có các sản phẩm sau:\n\n**Máy Giặt**\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S: 5,759,050 VNĐ\n2. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB: 14,450,040 VNĐ\n3. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S: 4,726,370 VNĐ\n4. Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK: 6,074,970 VNĐ\n5. Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB: 11,898,480 VNĐ\n\n**Công tắc, ổ cắm thông minh**\n\n1. Công tắc cảm ứng 1 nút chữ nhật - 2 dây màu trắng: 1,063,000 VNĐ\n2. Công tắc cảm ứng 2 nút chữ nhật - 2 dây màu trắng: 1,106,000 VNĐ\n3. Công tắc cảm ứng 3 nút chữ nhật - 2 dây màu trắng: 1,169,000 VNĐ\n4. Công tắc cảm ứng 4 nút chữ nhật - 2 dây màu trắng: 1,254,000 VNĐ\n5. Bộ điều khiển trung tâm Home Controller (HC): 2,277,000 VNĐ\n\n**Điều hòa**\n\n1. Điều hòa MDV - Inverter 9000 BTU: 6,014,184 VNĐ\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023: 7,246,030 VNĐ\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023: 11,740,520 VNĐ\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023: 9,423,040 VNĐ\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023: 11,200,420 VNĐ\n\n**Lò vi sóng**\n\n1. Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít: 2,346,850 VNĐ\n2. Lò Nướng Bluestone Eob-7567: 3,606,640 VNĐ\n3. Nồi lẩu nướng Đa năng KALITE KL- 666 4 lít: 1,981,000 VNĐ\n\nVui lòng cho chúng tôi biết bạn cần sản phẩm nào!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi cần tìm sản phẩm Máy Giặt,Công tắc, ổ cắm thông minh,Điều hòa,Lò vi sóng,",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào bạn! Chúng tôi có các sản phẩm sau:\n\n**Máy Giặt**\n\n1. Máy Giặt Aqua 9 Kg AQW-F91GT.S: 5,759,050 VNĐ\n2. Máy giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB: 14,450,040 VNĐ\n3. Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S: 4,726,370 VNĐ\n4. Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK: 6,074,970 VNĐ\n5. Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB: 11,898,480 VNĐ\n\n**Công tắc, ổ cắm thông minh**\n\n1. Công tắc cảm ứng 1 nút chữ nhật - 2 dây màu trắng: 1,063,000 VNĐ\n2. Công tắc cảm ứng 2 nút chữ nhật - 2 dây màu trắng: 1,106,000 VNĐ\n3. Công tắc cảm ứng 3 nút chữ nhật - 2 dây màu trắng: 1,169,000 VNĐ\n4. Công tắc cảm ứng 4 nút chữ nhật - 2 dây màu trắng: 1,254,000 VNĐ\n5. Bộ điều khiển trung tâm Home Controller (HC): 2,277,000 VNĐ\n\n**Điều hòa**\n\n1. Điều hòa MDV - Inverter 9000 BTU: 6,014,184 VNĐ\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023: 7,246,030 VNĐ\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023: 11,740,520 VNĐ\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023: 9,423,040 VNĐ\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023: 11,200,420 VNĐ\n\n**Lò vi sóng**\n\n1. Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít: 2,346,850 VNĐ\n2. Lò Nướng Bluestone Eob-7567: 3,606,640 VNĐ\n3. Nồi lẩu nướng Đa năng KALITE KL- 666 4 lít: 1,981,000 VNĐ\n\nVui lòng cho chúng tôi biết bạn cần sản phẩm nào!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Bạn là ai?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi muốn biết VCC bán những gì?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:\n    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất\n    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi\n    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời\nHôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Thời gian lâu nhất mà đèn năng lượng mặt trời có thể sử dụng là bao lâu?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tuổi thọ bóng đèn LED của đèn năng lượng mặt trời là 50.000 giờ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Thời gian lâu nhất mà đèn năng lượng mặt trời có thể sử dụng là bao lâu?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tuổi thọ bóng đèn LED của đèn năng lượng mặt trời là 50.000 giờ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Thời gian lâu nhất mà đèn năng lượng mặt trời có thể sử dụng là bao lâu?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Tuổi thọ bóng đèn LED của đèn năng lượng mặt trời là 50.000 giờ.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Bạn là ai?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi là trợ lý mua sắm.\nTôi có thể giúp bạn tìm kiếm sản phẩm, đặt hàng và trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, chất lượng sản phẩm, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " điều hoàn",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi có thể giúp bạn tìm kiếm sản phẩm điều hòa.\n\nChúng tôi có 5 sản phẩm điều hòa khác nhau:\n\n1. Điều hòa MDV - Inverter 9000 BTU\nGiá tiền: 6014184 VND\nThông số kỹ thuật: Nguồn điện: 220-240V, Công suất: 9500 Btu/h, ...\n\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\nGiá tiền: 7246030 VND\nThông số kỹ thuật: Model: MDVG-13CRDN8, Công suất: 12.000 BTU/h, ...\n\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\nGiá tiền: 11740520 VND\nThông số kỹ thuật: Model: MDVG-18CRDN8, Công suất: 18.000 BTU/h, ...\n\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\nGiá tiền: 9423040 VND\nThông số kỹ thuật: Loại: Điều hòa 1 chiều Inverter, Công suất: 9.000 BTU/h (1 HP), ...\n\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\nGiá tiền: 11200420 VND\nThông số kỹ thuật: Loại: Điều hòa 1 chiều Inverter, Công suất: 12.000 BTU/h (1.5 HP), ...\n\nBạn có thể hỏi thêm thông tin về sản phẩm điều hòa nào?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " điều hoàn",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi có thể giúp bạn tìm kiếm sản phẩm điều hòa.\n\nChúng tôi có 5 sản phẩm điều hòa khác nhau:\n\n1. Điều hòa MDV - Inverter 9000 BTU\nGiá tiền: 6014184 VND\nThông số kỹ thuật: Nguồn điện: 220-240V, Công suất: 9500 Btu/h, ...\n\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\nGiá tiền: 7246030 VND\nThông số kỹ thuật: Model: MDVG-13CRDN8, Công suất: 12.000 BTU/h, ...\n\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\nGiá tiền: 11740520 VND\nThông số kỹ thuật: Model: MDVG-18CRDN8, Công suất: 18.000 BTU/h, ...\n\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\nGiá tiền: 9423040 VND\nThông số kỹ thuật: Loại: Điều hòa 1 chiều Inverter, Công suất: 9.000 BTU/h (1 HP), ...\n\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\nGiá tiền: 11200420 VND\nThông số kỹ thuật: Loại: Điều hòa 1 chiều Inverter, Công suất: 12.000 BTU/h (1.5 HP), ...\n\nBạn có thể hỏi thêm thông tin về sản phẩm điều hòa nào?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " điều hoàn",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Xin chào! Tôi có thể giúp bạn tìm kiếm sản phẩm điều hòa.\n\nChúng tôi có 5 sản phẩm điều hòa khác nhau:\n\n1. Điều hòa MDV - Inverter 9000 BTU\nGiá tiền: 6014184 VND\nThông số kỹ thuật: Nguồn điện: 220-240V, Công suất: 9500 Btu/h, ...\n\n2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023\nGiá tiền: 7246030 VND\nThông số kỹ thuật: Model: MDVG-13CRDN8, Công suất: 12.000 BTU/h, ...\n\n3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\nGiá tiền: 11740520 VND\nThông số kỹ thuật: Model: MDVG-18CRDN8, Công suất: 18.000 BTU/h, ...\n\n4. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\nGiá tiền: 9423040 VND\nThông số kỹ thuật: Loại: Điều hòa 1 chiều Inverter, Công suất: 9.000 BTU/h (1 HP), ...\n\n5. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\nGiá tiền: 11200420 VND\nThông số kỹ thuật: Loại: Điều hòa 1 chiều Inverter, Công suất: 12.000 BTU/h (1.5 HP), ...\n\nBạn có thể hỏi thêm thông tin về sản phẩm điều hòa nào?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hoà inverter là gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Điều hòa inverter là một loại điều hòa có công nghệ inverter. Công nghệ inverter cho phép điều hòa hoạt động hiệu quả và tiết kiệm điện hơn so với các loại điều hòa thông thường. Nó có thể điều chỉnh công suất hoạt động để thích ứng với nhu cầu làm mát của phòng, giúp giảm tiêu thụ điện năng và tăng tuổi thọ của máy.\n\nTrong danh sách sản phẩm của chúng tôi, có 4 sản phẩm điều hòa inverter:\n\n1. Điều hòa MDV - Inverter 9000 BTU\n2. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n3. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n4. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n\nBạn có thể hỏi thêm thông tin về các sản phẩm này?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hoà inverter là gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Điều hòa inverter là một loại điều hòa có công nghệ inverter. \nCông nghệ inverter cho phép điều hòa hoạt động hiệu quả và tiết kiệm điện hơn so với các loại điều hòa thông thường. \nNó có thể điều chỉnh công suất hoạt động để thích ứng với nhu cầu làm mát của phòng, \ngiúp giảm tiêu thụ điện năng và tăng tuổi thọ của máy.\n\nTrong danh sách sản phẩm của chúng tôi, có 4 sản phẩm điều hòa inverter:\n\n1. Điều hòa MDV - Inverter 9000 BTU\n2. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n3. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n4. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n\nBạn có thể hỏi thêm thông tin về các sản phẩm này?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "điều hoà inverter là gì",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Điều hòa inverter là một loại điều hòa có công nghệ inverter. \nCông nghệ inverter cho phép điều hòa hoạt động hiệu quả và tiết kiệm điện hơn so với các loại điều hòa thông thường. \nNó có thể điều chỉnh công suất hoạt động để thích ứng với nhu cầu làm mát của phòng, \ngiúp giảm tiêu thụ điện năng và tăng tuổi thọ của máy.\n\nTrong danh sách sản phẩm của chúng tôi, có 4 sản phẩm điều hòa inverter:\n\n1. Điều hòa MDV - Inverter 9000 BTU\n2. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n3. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n4. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n\nBạn có thể hỏi thêm thông tin về các sản phẩm này?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Tôi muốn tìm kiếm điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Bên mình có một số đề xuất mới cho bạn!\n\nNếu bạn đang tìm kiếm điều hòa, bên mình có 4 sản phẩm điều hòa inverter để lựa chọn:\n\n1. Điều hòa MDV - Inverter 9000 BTU\n2. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n3. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n4. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n\nĐiều hòa inverter là loại điều hòa có công nghệ inverter, giúp điều hòa hoạt động hiệu quả và tiết kiệm điện hơn so với các loại điều hòa thông thường. Nó có thể điều chỉnh công suất hoạt động để thích ứng với nhu cầu làm mát của phòng, giúp giảm tiêu thụ điện năng và tăng tuổi thọ của máy.\n\nBạn có thể hỏi thêm thông tin về các sản phẩm này?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Tôi muốn tìm kiếm điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Bên mình có một số đề xuất mới cho bạn!\n\nNếu bạn đang tìm kiếm điều hòa, bên mình có 4 sản phẩm điều hòa inverter để lựa chọn:\n\n1. Điều hòa MDV - Inverter 9000 BTU\n2. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n3. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n4. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n\nĐiều hòa inverter là loại điều hòa có công nghệ inverter, giúp điều hòa hoạt động hiệu quả và tiết kiệm điện hơn so với các loại điều hòa thông thường. Nó có thể điều chỉnh công suất hoạt động để thích ứng với nhu cầu làm mát của phòng, giúp giảm tiêu thụ điện năng và tăng tuổi thọ của máy.\n\nBạn có thể hỏi thêm thông tin về các sản phẩm này?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " Tôi muốn tìm kiếm điều hòa",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Bên mình có một số đề xuất mới cho bạn!\n\nNếu bạn đang tìm kiếm điều hòa, bên mình có 4 sản phẩm điều hòa inverter để lựa chọn:\n\n1. Điều hòa MDV - Inverter 9000 BTU\n2. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023\n3. Điều hòa 1 chiều Carrier Inverter 9000 BTU/h (1 HP) - Model 2023\n4. Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023\n\nĐiều hòa inverter là loại điều hòa có công nghệ inverter, giúp điều hòa hoạt động hiệu quả và tiết kiệm điện hơn so với các loại điều hòa thông thường. Nó có thể điều chỉnh công suất hoạt động để thích ứng với nhu cầu làm mát của phòng, giúp giảm tiêu thụ điện năng và tăng tuổi thọ của máy.\n\nBạn có thể hỏi thêm thông tin về các sản phẩm này?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "Tôi muốn biết VCC bán những gì?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chúng tôi cung cấp đa dạng các sản phẩm, bao gồm:\n    Thiết bị nhà bếp: Bình nước nóng, Bình đun nước, Lò vi sóng, Máy xay, Nồi chiên không dầu, Nồi cơm điện, Nồi áp suất\n    Thiết bị gia đình: Bàn là - Bàn ủi, Máy sấy tóc, Ghế massage Daikiosan, Máy giặt, Máy sấy, Máy lọc không khí - Máy hút bụi, Máy lọc nước, Robot hút bụi\n    Thiết bị thông minh: Thiết bị Wifi, Thiết bị Webcam, Thiết bị Camera Đèn năng lượng mặt trời\nHôm nay bạn muốn tìm hiểu về sản phẩm nào của VCC?",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi cần điều hoà giá đắt nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Điều hòa giá đắt nhất của chúng tôi là Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023, với giá tiền là 11,740,520 VND.\n\nThông số kỹ thuật của sản phẩm này như sau:\n\n* Model: MDVG-18CRDN8\n* Công suất: 18.000 BTU/h\n* Loại: 1 chiều Inverter\n* Diện tích sử dụng: 20 - 30m²\n* Gas: R32\n* Mức tiêu thụ điện: 1.65 kW/h\n* Độ ồn: 22/19 dB(A)\n* Kích thước dàn lạnh: 969 x 320 x 241 mm\n* Kích thước dàn nóng: 770 x 285 x 540 mm\n* Trọng lượng dàn lạnh: 18 kg\n* Trọng lượng dàn nóng: 28 kg",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi cần điều hoà giá đắt nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Điều hòa giá đắt nhất của chúng tôi là Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023, với giá tiền là 11,740,520 VND.\n\nThông số kỹ thuật của sản phẩm này như sau:\n\n* Model: MDVG-18CRDN8\n* Công suất: 18.000 BTU/h\n* Loại: 1 chiều Inverter\n* Diện tích sử dụng: 20 - 30m²\n* Gas: R32\n* Mức tiêu thụ điện: 1.65 kW/h\n* Độ ồn: 22/19 dB(A)\n* Kích thước dàn lạnh: 969 x 320 x 241 mm\n* Kích thước dàn nóng: 770 x 285 x 540 mm\n* Trọng lượng dàn lạnh: 18 kg\n* Trọng lượng dàn nóng: 28 kg",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi cần điều hoà giá đắt nhất",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Điều hòa giá đắt nhất của chúng tôi là Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023, với giá tiền là 11,740,520 VND.\n\nThông số kỹ thuật của sản phẩm này như sau:\n\n* Model: MDVG-18CRDN8\n* Công suất: 18.000 BTU/h\n* Loại: 1 chiều Inverter\n* Diện tích sử dụng: 20 - 30m²\n* Gas: R32\n* Mức tiêu thụ điện: 1.65 kW/h\n* Độ ồn: 22/19 dB(A)\n* Kích thước dàn lạnh: 969 x 320 x 241 mm\n* Kích thước dàn nóng: 770 x 285 x 540 mm\n* Trọng lượng dàn lạnh: 18 kg\n* Trọng lượng dàn nóng: 28 kg",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " sản phẩm điều hòa giá 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào anh/chị!\n\nTôi tìm thấy sản phẩm điều hòa giá khoảng 10 triệu VND là Điều hòa Carrier 1 chiều Inverter 12.000 BTU/h (1.5 HP) - Model 2023.\n\nThông số kỹ thuật của sản phẩm này như sau:\n\n* Loại: Điều hòa 1 chiều Inverter\n* Công suất: 12.000 BTU/h (1.5 HP)\n* Diện tích sử dụng: 15 - 20m²\n* Mức tiêu thụ điện: Làm lạnh: 1.20 kW/h, Sưởi ấm: -\n* Hiệu suất năng lượng: 5.8 (A++)\n* Gas: R32\n* Chế độ Inverter: Có\n* Chức năng: Làm lạnh nhanh, tự làm sạch, lọc bụi mịn PM2.5, khử mùi, chế độ gió Coanda, hẹn giờ, điều khiển từ xa, độ ồn: 22/19 dB(A)\n* Kích thước:\n\t+ Dàn lạnh: 840 x 295 x 200 mm\n\t+ Dàn nóng: 770 x 285 x 540 mm\n* Trọng lượng:\n\t+ Dàn lạnh: 13 kg\n\t+ Dàn nóng: 25 kg\n* Giá tiền: 11,200,420 VND\n\nHy vọng thông tin trên giúp anh/chị.",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " sản phẩm điều hòa giá 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào anh/chị!\n\nTôi tìm thấy 2 sản phẩm điều hòa giá khoảng 10 triệu VND:\n\n1. Điều hòa MDV 1 chiều Inverter 18,000 BTU - Model 2023:\n\t* Giá tiền: 11,740,520 VND\n\t* Thông số kỹ thuật: Model: MDVG-18CRDN8, Công suất: 18,000 BTU/h, Loại: 1 chiều Inverter, Diện tích sử dụng: 20 - 30m², Gas: R32, Mức tiêu thụ điện: 1.65 kW/h, Độ ồn: 22/19 dB(A), Kích thước dàn lạnh: 969 x 320 x 241 mm, Trọng lượng dàn lạnh: 18 kg\n2. Điều hòa Carrier 1 chiều Inverter 12,000 BTU/h (1.5 HP) - Model 2023:\n\t* Giá tiền: 11,200,420 VND\n\t* Thông số kỹ thuật: Loại: Điều hòa 1 chiều Inverter, Công suất: 12,000 BTU/h (1.5 HP), Diện tích sử dụng: 15 - 20m², Mức tiêu thụ điện: Làm lạnh: 1.20 kW/h, Sưởi ấm: -, Hiệu suất năng lượng: 5.8 (A++), Gas: R32, Chế độ Inverter: Có, Chức năng: Làm lạnh nhanh, tự làm sạch, lọc bụi mịn PM2.5, khử mùi, chế độ gió Coanda, hẹn giờ, điều khiển từ xa, độ ồn: 22/19 dB(A)\n\nHy vọng thông tin trên giúp anh/chị!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": " sản phẩm điều hòa giá 10 triệu",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Chào anh/chị!\n\nTôi tìm thấy 2 sản phẩm điều hòa giá khoảng 10 triệu VND:\n\n1. Điều hòa MDV 1 chiều Inverter 18,000 BTU - Model 2023:\n\t* Giá tiền: 11,740,520 VND\n\t* Thông số kỹ thuật: Model: MDVG-18CRDN8, Công suất: 18,000 BTU/h, Loại: 1 chiều Inverter, Diện tích sử dụng: 20 - 30m², Gas: R32, Mức tiêu thụ điện: 1.65 kW/h, Độ ồn: 22/19 dB(A), Kích thước dàn lạnh: 969 x 320 x 241 mm, Trọng lượng dàn lạnh: 18 kg\n2. Điều hòa Carrier 1 chiều Inverter 12,000 BTU/h (1.5 HP) - Model 2023:\n\t* Giá tiền: 11,200,420 VND\n\t* Thông số kỹ thuật: Loại: Điều hòa 1 chiều Inverter, Công suất: 12,000 BTU/h (1.5 HP), Diện tích sử dụng: 15 - 20m², Mức tiêu thụ điện: Làm lạnh: 1.20 kW/h, Sưởi ấm: -, Hiệu suất năng lượng: 5.8 (A++), Gas: R32, Chế độ Inverter: Có, Chức năng: Làm lạnh nhanh, tự làm sạch, lọc bụi mịn PM2.5, khử mùi, chế độ gió Coanda, hẹn giờ, điều khiển từ xa, độ ồn: 22/19 dB(A)\n\nHy vọng thông tin trên giúp anh/chị!",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+>>>>>>> update new version code before golive
     }
 ]

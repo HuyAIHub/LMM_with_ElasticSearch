@@ -1,0 +1,12 @@
+2024-07-15 16:33:33,176 - INFO - ----------------NEW_SESSION--------------
+2024-07-15 16:33:33,176 - INFO - InputText: điều hòa
+2024-07-15 16:33:33,176 - INFO - ---ChatText---
+2024-07-15 16:33:33,881 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 16:33:33,884 - INFO - =====rasa=====
+2024-07-15 16:33:34,054 - INFO - +rasa out+:
+LLM_predict
+2024-07-15 16:33:34,055 - INFO - ====rasa done!====
+2024-07-15 16:33:34,055 - INFO - =====LLM=====
+2024-07-15 16:33:34,837 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 16:33:35,639 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 16:33:35,644 - INFO - HEAD http://10.248.243.105:9200/test9 [status:200 duration:0.002s]

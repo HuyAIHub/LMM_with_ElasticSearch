@@ -1,0 +1,154 @@
+2024-07-15 14:17:02,037 - INFO - ----------------NEW_SESSION--------------
+2024-07-15 14:17:02,038 - INFO - InputText: điều hòa
+2024-07-15 14:17:02,038 - INFO - ---ChatText---
+2024-07-15 14:17:02,914 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:17:02,917 - INFO - =====rasa=====
+2024-07-15 14:19:30,346 - INFO - ----------------NEW_SESSION--------------
+2024-07-15 14:19:30,346 - INFO - InputText: điều hòa
+2024-07-15 14:19:30,346 - INFO - ---ChatText---
+2024-07-15 14:19:31,082 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:19:31,084 - INFO - =====rasa=====
+2024-07-15 14:19:31,234 - INFO - +rasa out+:
+LLM_predict
+2024-07-15 14:19:31,234 - INFO - ====rasa done!====
+2024-07-15 14:19:31,234 - INFO - =====LLM=====
+2024-07-15 14:19:31,989 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:19:32,789 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:19:32,795 - INFO - HEAD http://10.248.243.105:9200/test9 [status:200 duration:0.002s]
+2024-07-15 14:19:32,961 - INFO - POST http://10.248.243.105:9200/test9/_search [status:200 duration:0.078s]
+2024-07-15 14:19:32,962 - INFO - ==Conversation==
+2024-07-15 14:19:33,342 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2024-07-15 14:22:38,898 - INFO - ----------------NEW_SESSION--------------
+2024-07-15 14:22:38,899 - INFO - InputText: None
+2024-07-15 14:22:38,899 - INFO - ---SEARCH_IMAGE---
+2024-07-15 14:22:38,913 - WARNING - Retrying (Retry(total=4, connect=4, read=5, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fde91f165c0>: Failed to establish a new connection: [Errno 111] Connection refused')': /process_image_and_voice/
+2024-07-15 14:22:40,915 - WARNING - Retrying (Retry(total=3, connect=3, read=5, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fde91f16650>: Failed to establish a new connection: [Errno 111] Connection refused')': /process_image_and_voice/
+2024-07-15 14:22:44,920 - WARNING - Retrying (Retry(total=2, connect=2, read=5, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fde91f16a40>: Failed to establish a new connection: [Errno 111] Connection refused')': /process_image_and_voice/
+2024-07-15 14:22:52,929 - WARNING - Retrying (Retry(total=1, connect=1, read=5, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fde91f162c0>: Failed to establish a new connection: [Errno 111] Connection refused')': /process_image_and_voice/
+2024-07-15 14:23:08,947 - WARNING - Retrying (Retry(total=0, connect=0, read=5, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fde91f16080>: Failed to establish a new connection: [Errno 111] Connection refused')': /process_image_and_voice/
+2024-07-15 14:28:36,639 - INFO - ----------------NEW_SESSION--------------
+2024-07-15 14:28:36,640 - INFO - InputText: điều hòa
+2024-07-15 14:28:36,640 - INFO - ---ChatText---
+2024-07-15 14:28:37,545 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:28:37,553 - INFO - =====rasa=====
+2024-07-15 14:28:55,076 - INFO - +rasa out+:
+LLM_predict
+2024-07-15 14:28:55,076 - INFO - ====rasa done!====
+2024-07-15 14:28:55,076 - INFO - =====LLM=====
+2024-07-15 14:28:56,388 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:28:57,433 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:28:57,442 - INFO - HEAD http://10.248.243.105:9200/test9 [status:200 duration:0.003s]
+2024-07-15 14:28:57,715 - INFO - POST http://10.248.243.105:9200/test9/_search [status:200 duration:0.006s]
+2024-07-15 14:28:57,716 - INFO - ==Conversation==
+2024-07-15 14:29:20,828 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:29:24,579 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:29:28,004 - INFO - +LLM out+:
+Xin chào! Bạn đang tìm kiếm thông tin về điều hòa, đúng không? Vui lòng cho tôi biết bạn đang tìm kiếm thông tin về điều hòa loại nào, để tôi có thể hỗ trợ bạn tốt nhất.
+
+Dưới đây là một số thông tin về điều hòa MDV và quạt điều hòa không khí Everest 6000D. Xin vui lòng chọn loại điều hòa bạn quan tâm để tôi có thể cung cấp thông tin chi tiết hơn.
+
+1. Điều hòa MDV - Inverter 9000 BTU
+2. Điều hòa MDV 1 chiều 12000 BTU - Model 2023
+3. Điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023
+4. Quạt điều hòa không khí Everest 6000D
+2024-07-15 14:29:28,006 - INFO - =====LLM done!=====
+2024-07-15 14:31:01,776 - INFO - ----------------NEW_SESSION--------------
+2024-07-15 14:31:01,776 - INFO - InputText: điều hòa
+2024-07-15 14:31:01,777 - INFO - ---ChatText---
+2024-07-15 14:31:02,485 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:31:02,493 - INFO - =====rasa=====
+2024-07-15 14:31:02,704 - INFO - +rasa out+:
+LLM_predict
+2024-07-15 14:31:02,704 - INFO - ====rasa done!====
+2024-07-15 14:31:02,704 - INFO - =====LLM=====
+2024-07-15 14:31:03,564 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:31:04,381 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:31:04,390 - INFO - HEAD http://10.248.243.105:9200/test9 [status:200 duration:0.003s]
+2024-07-15 14:31:04,666 - INFO - POST http://10.248.243.105:9200/test9/_search [status:200 duration:0.015s]
+2024-07-15 14:31:04,668 - INFO - ==Conversation==
+2024-07-15 14:31:05,445 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:31:06,861 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:31:06,864 - INFO - +LLM out+:
+Xin chào! Bạn đang tìm kiếm thông tin về điều hòa, đúng không? Chúng tôi có 4 loại điều hòa khác nhau, bao gồm điều hòa MDV - Inverter 9000 BTU, điều hòa MDV 1 chiều 12000 BTU - Model 2023, điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 và quạt điều hòa không khí Everest 6000D. Xin vui lòng chọn loại điều hòa bạn quan tâm để tôi có thể cung cấp thông tin chi tiết hơn.
+
+Lựa chọn của bạn là: 
+
+(Please enter the corresponding number of the air conditioner you are interested in, for example 1, 2, 3, 4)
+2024-07-15 14:31:06,865 - INFO - =====LLM done!=====
+2024-07-15 14:31:49,921 - INFO - ----------------NEW_SESSION--------------
+2024-07-15 14:31:49,921 - INFO - InputText: điều hòa
+2024-07-15 14:31:49,921 - INFO - ---ChatText---
+2024-07-15 14:31:50,788 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:31:50,797 - INFO - =====rasa=====
+2024-07-15 14:31:51,004 - INFO - +rasa out+:
+LLM_predict
+2024-07-15 14:31:51,005 - INFO - ====rasa done!====
+2024-07-15 14:31:51,005 - INFO - =====LLM=====
+2024-07-15 14:31:51,851 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:31:52,629 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:31:52,639 - INFO - HEAD http://10.248.243.105:9200/test9 [status:200 duration:0.003s]
+2024-07-15 14:31:52,906 - INFO - POST http://10.248.243.105:9200/test9/_search [status:200 duration:0.004s]
+2024-07-15 14:31:52,907 - INFO - ==Conversation==
+2024-07-15 14:31:54,204 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:31:54,757 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:31:54,761 - INFO - +LLM out+:
+Xin chào! Bạn đang tìm kiếm thông tin về điều hòa, đúng không? Chúng tôi có 4 loại điều hòa khác nhau, bao gồm điều hòa MDV - Inverter 9000 BTU, điều hòa MDV 1 chiều 12000 BTU - Model 2023, điều hòa MDV 1 chiều Inverter 18000 BTU - Model 2023 và quạt điều hòa không khí Everest 6000D. Xin vui lòng chọn loại điều hòa bạn quan tâm để tôi có thể cung cấp thông tin chi tiết hơn.
+
+Lựa chọn của bạn là:
+
+(Please enter the corresponding number of the air conditioner you are interested in, for example 1, 2, 3, 4)
+2024-07-15 14:31:54,761 - INFO - =====LLM done!=====
+2024-07-15 14:32:50,062 - INFO - ----------------NEW_SESSION--------------
+2024-07-15 14:32:50,062 - INFO - InputText: điều hòa
+2024-07-15 14:32:50,063 - INFO - ---ChatText---
+2024-07-15 14:32:50,827 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:32:50,838 - INFO - =====rasa=====
+2024-07-15 14:32:51,047 - INFO - +rasa out+:
+LLM_predict
+2024-07-15 14:32:51,047 - INFO - ====rasa done!====
+2024-07-15 14:32:51,047 - INFO - =====LLM=====
+2024-07-15 14:32:51,976 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:32:52,819 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:32:52,828 - INFO - HEAD http://10.248.243.105:9200/test9 [status:200 duration:0.003s]
+2024-07-15 14:32:53,094 - INFO - POST http://10.248.243.105:9200/test9/_search [status:200 duration:0.005s]
+2024-07-15 14:32:53,095 - INFO - ==Conversation==
+2024-07-15 14:32:53,494 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2024-07-15 14:33:53,117 - INFO - ----------------NEW_SESSION--------------
+2024-07-15 14:33:53,118 - INFO - InputText: điều hòa
+2024-07-15 14:33:53,118 - INFO - ---ChatText---
+2024-07-15 14:33:53,928 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:33:53,936 - INFO - =====rasa=====
+2024-07-15 14:33:54,046 - INFO - +rasa out+:
+LLM_predict
+2024-07-15 14:33:54,047 - INFO - ====rasa done!====
+2024-07-15 14:33:54,047 - INFO - =====LLM=====
+2024-07-15 14:33:55,144 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:33:55,967 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:33:55,974 - INFO - HEAD http://10.248.243.105:9200/test9 [status:200 duration:0.003s]
+2024-07-15 14:33:56,248 - INFO - POST http://10.248.243.105:9200/test9/_search [status:200 duration:0.012s]
+2024-07-15 14:33:56,249 - INFO - ==Conversation==
+2024-07-15 14:33:56,598 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2024-07-15 14:34:11,645 - INFO - ----------------NEW_SESSION--------------
+2024-07-15 14:34:11,645 - INFO - InputText: điều hòa
+2024-07-15 14:34:11,645 - INFO - ---ChatText---
+2024-07-15 14:34:13,535 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:34:13,544 - INFO - =====rasa=====
+2024-07-15 14:34:29,855 - INFO - +rasa out+:
+LLM_predict
+2024-07-15 14:34:29,855 - INFO - ====rasa done!====
+2024-07-15 14:34:29,856 - INFO - =====LLM=====
+2024-07-15 14:34:30,674 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:34:31,786 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:34:31,797 - INFO - HEAD http://10.248.243.105:9200/test9 [status:200 duration:0.005s]
+2024-07-15 14:34:32,177 - INFO - POST http://10.248.243.105:9200/test9/_search [status:200 duration:0.115s]
+2024-07-15 14:34:32,178 - INFO - ==Conversation==
+2024-07-15 14:34:43,861 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2024-07-15 14:40:51,136 - INFO - ----------------NEW_SESSION--------------
+2024-07-15 14:40:51,136 - INFO - InputText: hello
+2024-07-15 14:40:51,137 - INFO - ---ChatText---
+2024-07-15 14:40:52,077 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-15 14:40:52,337 - INFO - =====rasa=====
+2024-07-15 14:40:57,017 - INFO - +rasa out+:
+Chào Anh/chị! Tôi là trợ lý mua sắm của VCC.
+Tôi có thể giúp bạn trả lời các câu hỏi liên quan đến mua sắm. Bạn có thể hỏi về các sản phẩm cụ thể, thông tin về giá cả, sản phẩm tương tự, hoặc bất kỳ câu hỏi nào liên quan đến dịch vụ. Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào khác!
+2024-07-15 14:40:57,017 - INFO - ====rasa done!====

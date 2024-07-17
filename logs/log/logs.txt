@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /home/aiai01/.local/lib/python3.10/site-packages/langchain/__init__.py:29: UserWarning: Importing PromptTemplate from langchain root module is no longer supported. Please use langchain_core.prompts.PromptTemplate instead.
   warnings.warn(
 /home/aiai01/.local/lib/python3.10/site-packages/langchain/chat_models/__init__.py:31: LangChainDeprecationWarning: Importing chat models from langchain is deprecated. Importing from langchain will no longer be supported as of langchain==0.2.0. Please import from langchain-community instead:
@@ -6,11 +7,24 @@
 
 To install langchain-community run `pip install -U langchain-community`.
   warnings.warn(
+=======
+>>>>>>> update new version code before golive
 /data/anaconda3/envs/langchain/lib/python3.10/site-packages/fuzzywuzzy/fuzz.py:11: UserWarning: Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning
   warnings.warn('Using slow pure-python SequenceMatcher. Install python-Levenshtein to remove this warning')
 /data/anaconda3/envs/langchain/lib/python3.10/site-packages/langchain_core/_api/deprecation.py:139: LangChainDeprecationWarning: The class `ChatOpenAI` was deprecated in LangChain 0.0.10 and will be removed in 0.2.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import ChatOpenAI`.
   warn_deprecated(
+<<<<<<< HEAD
 INFO:     Started server process [814936]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
 INFO:     Uvicorn running on http://0.0.0.0:8099 (Press CTRL+C to quit)
+=======
+/home/aiai01/.local/lib/python3.10/site-packages/langchain/__init__.py:29: UserWarning: Importing PromptTemplate from langchain root module is no longer supported. Please use langchain_core.prompts.PromptTemplate instead.
+  warnings.warn(
+INFO:     Started server process [1867030]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8099 (Press CTRL+C to quit)
+INFO:     10.207.112.37:45588 - "GET /docs HTTP/1.1" 200 OK
+INFO:     10.207.112.37:45588 - "GET /openapi.json HTTP/1.1" 200 OK
+>>>>>>> update new version code before golive

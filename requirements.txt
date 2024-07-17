@@ -20,3 +20,4 @@ openpyxl
 librosa
 
 #ps aux | grep rasa
+# pip freeze | grep packaging  

@@ -1,0 +1,83 @@
+[
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi cần tìm sản phẩm Đèn Năng Lượng Mặt Trời,Thiết bị Webcam,Lò vi sóng,",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Here are the products you're looking for:\n\n**Đèn Năng Lượng Mặt Trời**\n\n1. Đèn Trụ cổng Năng Lượng Mặt Trời - Giá: 745030 VND\n\t* Công suất định mức: 5W\n\t* Nhiệt độ làm việc: -20C ~ 65C\n\t* Nhiệt độ màu: 6500K\n\t* Tuổi thọ bóng đèn LED: 50.000 giờ\n\t* Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời sáng\n2. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200 - Giá: 1724030 VND\n\t* Công suất định mức: 200W\n\t* Công suất tấm pin NLMT: Polycrystal 6V/30W\n\t* Pin lưu trữ: 3.2V/42.000mAh LiFePO4\n\t* Chip Led: SMD\n\t* Quang thông: 1700lm\n\t* Tuổi thọ: 50.000 giờ\n3. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300 - Giá: 1851740 VND\n\t* Công suất định mức: 300W\n\t* Công suất tấm pin NLMT: Polycrystal 6V/35W\n\t* Pin lưu trữ: 3.2V/48.000mAh LiFePO4\n\t* Chip Led: SMD\n\t* Quang thông: 2750lm\n\t* Tuổi thọ: 50.000 giờ\n4. ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300 - Giá: 1915540 VND\n\t* Công suất định mức: 300W\n\t* Công suất tấm pin NLMT: Polycrystal 6V/40W\n\t* Pin lưu trữ: 3.2V/48.000mAh LiFePO4\n\t* Chip Led: SMD\n\t* Quang thông: 2970lm\n\t* Tuổi thọ: 50.000 giờ\n5. Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK - Giá: 2606230 VND\n\t* Công suất định mức: 400W\n\t* Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/50W\n\t* Nhiệt độ làm việc: -20C ~ 65C\n\t* Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời sang\n\n**Thiết bị Webcam**\n\n1. Webcam Maxhub 1080 UC W10 - Giá: 1266540 VND\n\t* Độ phân giải: 1080p/30fps\n\t* Định dạng xuất: MJPG, H.264 & YUY2\n\t* Tích hợp: 2 micro với khả năng thu lên đến 4 mét\n\t* Công nghệ: 3D-DNR\n\t* Chất lượng hiệu suất: 20 LUX\n2. Webcam 4k, góc nhìn 120 độ UC W21 - Giá: 3799620 VND\n\t* Độ phân giải: Ultra HD 4K @ 25fps\n\t* Góc nhìn: 120° DFoV\n\t* Công nghệ: HDR Mảng Mic 2 phần tử; HDR Lấy nét tự động\n\t* Thuật toán giảm nhiễu: 2D & 3D DNR\n3. Webcam 4k, góc nhìn 80 độ UC W20 - Giá: 3215080 VND\n\t* Chất lượng: 4k @ 30fps\n\t* Hình ảnh: 30fps 4K hoặc 720p Ultra HD\n\t* Công nghệ: DNR 2D & 3D Lấy nét tự động\n4. USB, camera hội nghị 4k, tích hợp mic và loa UC S05 - Giá: 10911780 VND\n\t* Độ phân giải: FPS 4k Ultra-HD\n\t* Góc nhìn: 120°\n\t* Khả năng Zoom: lên đến 15x\n5. Bluetooth mic và loa BM20 - Giá: 3604810 VND\n\t* Số micro: 6 Micro đa hướng\n\t* Xoay ngang: 360 °\n\t* Khoảng cách bắt: 4m\n\n**Lò vi sóng**\n\n1. Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít - Giá: 2346850 VND\n\t* Loại lò: Lò vi sóng có nướng\n\t* Dung tích: 20 lít\n\t* Công suất vi sóng: 1270W\n\t* Công suất nướng: 1000W\n2. Lò Nướng Bluestone Eob-7567 - Giá: 3606640 VND\n\t* Loại lò nướng: Lò nướng thùng\n\t* Dung tích: 45 lít\n\t* Công suất: 2000W\n\t* Hẹn giờ: lên tới 60 phút\n3. Nồi lẩu nướng Đa năng KALITE KL- 666 4 lít - Giá: 1981000 VND\n\t* Thương hiệu: Kalite\n\t* Dung tích: 4 lít\n\t* Công suất: 1300W\n\t* Lòng nồi: Ceramic chống dính",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi cần tìm sản phẩm Đèn Năng Lượng Mặt Trời,Thiết bị Webcam,Lò vi sóng,",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Here are the products you're looking for:\n\n**Đèn Năng Lượng Mặt Trời**\n\n1. Đèn Trụ cổng Năng Lượng Mặt Trời - Giá: 745030 VND\n\t* Công suất định mức: 5W\n\t* Nhiệt độ làm việc: -20C ~ 65C\n\t* Nhiệt độ màu: 6500K\n\t* Tuổi thọ bóng đèn LED: 50.000 giờ\n\t* Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời sáng\n\n2. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200 - Giá: 1724030 VND\n\t* Công suất định mức: 200W\n\t* Công suất tấm pin NLMT: Polycrystal 6V/30W\n\t* Pin lưu trữ: 3.2V/42.000mAh LiFePO4\n\t* Chip Led: SMD\n\t* Quang thông: 1700lm\n\t* Tuổi thọ: 50.000 giờ\n\n3. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300 - Giá: 1851740 VND\n\t* Công suất định mức: 300W\n\t* Công suất tấm pin NLMT: Polycrystal 6V/35W\n\t* Pin lưu trữ: 3.2V/48.000mAh LiFePO4\n\t* Chip Led: SMD\n\t* Quang thông: 2750lm\n\t* Tuổi thọ: 50.000 giờ\n\n4. ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300 - Giá: 1915540 VND\n\t* Công suất định mức: 300W\n\t* Công suất tấm pin NLMT: Polycrystal 6V/40W\n\t* Pin lưu trữ: 3.2V/48.000mAh LiFePO4\n\t* Chip Led: SMD\n\t* Quang thông: 2970lm\n\t* Tuổi thọ: 50.000 giờ\n\n5. Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK - Giá: 2606230 VND\n\t* Công suất định mức: 400W\n\t* Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/50W\n\t* Nhiệt độ làm việc: -20C ~ 65C\n\t* Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời sang\n\n**Thiết bị Webcam**\n\n1. Webcam Maxhub 1080 UC W10 - Giá: 1266540 VND\n\t* Độ phân giải: 1080p/30fps\n\t* Định dạng xuất: MJPG, H.264 & YUY2\n\t* Tích hợp: 2 micro với khả năng thu lên đến 4 mét\n\t* Công nghệ: 3D-DNR\n\t* Chất lượng hiệu suất: 20 LUX\n\n2. Webcam 4k, góc nhìn 120 độ UC W21 - Giá: 3799620 VND\n\t* Độ phân giải: Ultra HD 4K @ 25fps\n\t* Góc nhìn: 120° DFoV\n\t* Công nghệ: HDR Mảng Mic 2 phần tử; HDR Lấy nét tự động\n\t* Thuật toán giảm nhiễu: 2D & 3D DNR\n\n3. Webcam 4k, góc nhìn 80 độ UC W20 - Giá: 3215080 VND\n\t* Chất lượng: 4k @ 30fps\n\t* Hình ảnh: 30fps 4K hoặc 720p Ultra HD\n\t* Công nghệ: DNR 2D & 3D Lấy nét tự động\n\n4. USB, camera hội nghị 4k, tích hợp mic và loa UC S05 - Giá: 10911780 VND\n\t* Độ phân giải: FPS 4k Ultra-HD\n\t* Góc nhìn: 120°\n\t* Khả năng Zoom: lên đến 15x\n\n5. Bluetooth mic và loa BM20 - Giá: 3604810 VND\n\t* Số micro: 6 Micro đa hướng\n\t* Xoay ngang: 360 °\n\t* Khoảng cách bắt: 4m\n\n**Lò vi sóng**\n\n1. Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít - Giá: 2346850 VND\n\t* Loại lò: Lò vi sóng có nướng\n\t* Dung tích: 20 lít\n\t* Công suất vi sóng: 1270W\n\t* Công suất nướng: 1000W\n\n2. Lò Nướng Bluestone Eob-7567 - Giá: 3606640 VND\n\t* Loại lò nướng: Lò nướng thùng\n\t* Dung tích: 45 lít\n\t* Công suất: 2000W\n\t* Hẹn giờ: lên tới 60 phút\n\n3. Nồi lẩu nướng Đa năng KALITE KL- 666 4 lít - Giá: 1981000 VND\n\t* Thương hiệu: Kalite\n\t* Dung tích: 4 lít\n\t* Công suất: 1300W\n\t* Lòng nồi: Ceramic chống dính",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    },
+    {
+        "type": "human",
+        "data": {
+            "content": "tôi cần tìm sản phẩm Đèn Năng Lượng Mặt Trời,Thiết bị Webcam,Lò vi sóng,",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "human",
+            "name": null,
+            "id": null,
+            "example": false
+        }
+    },
+    {
+        "type": "ai",
+        "data": {
+            "content": "Here are the products you're looking for:\n\n**Đèn Năng Lượng Mặt Trời**\n\n1. Đèn Trụ cổng Năng Lượng Mặt Trời - Giá: 745030 VND\n\t* Công suất định mức: 5W\n\t* Nhiệt độ làm việc: -20C ~ 65C\n\t* Nhiệt độ màu: 6500K\n\t* Tuổi thọ bóng đèn LED: 50.000 giờ\n\t* Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời sáng\n\n2. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD200 - Giá: 1724030 VND\n\t* Công suất định mức: 200W\n\t* Công suất tấm pin NLMT: Polycrystal 6V/30W\n\t* Pin lưu trữ: 3.2V/42.000mAh LiFePO4\n\t* Chip Led: SMD\n\t* Quang thông: 1700lm\n\t* Tuổi thọ: 50.000 giờ\n\n3. ĐÈN ĐƯỜNG NĂNG LƯỢNG MẶT TRỜI AIOSMART AD300 - Giá: 1851740 VND\n\t* Công suất định mức: 300W\n\t* Công suất tấm pin NLMT: Polycrystal 6V/35W\n\t* Pin lưu trữ: 3.2V/48.000mAh LiFePO4\n\t* Chip Led: SMD\n\t* Quang thông: 2750lm\n\t* Tuổi thọ: 50.000 giờ\n\n4. ĐÈN CHIẾU PHA NĂNG LƯỢNG MẶT TRỜI AIOSMART AP300 - Giá: 1915540 VND\n\t* Công suất định mức: 300W\n\t* Công suất tấm pin NLMT: Polycrystal 6V/40W\n\t* Pin lưu trữ: 3.2V/48.000mAh LiFePO4\n\t* Chip Led: SMD\n\t* Quang thông: 2970lm\n\t* Tuổi thọ: 50.000 giờ\n\n5. Bộ đèn đường năng lượng mặt trời. Model:S400, hiệu:SUNTEK - Giá: 2606230 VND\n\t* Công suất định mức: 400W\n\t* Bảng điều khiển năng lượng mặt trời: Polycrystal 6V/50W\n\t* Nhiệt độ làm việc: -20C ~ 65C\n\t* Chế độ điều khiển: Tích hợp bộ cảm biến ánh sáng, tự động bật đèn khi trời tối, tắt đèn khi trời sang\n\n**Thiết bị Webcam**\n\n1. Webcam Maxhub 1080 UC W10 - Giá: 1266540 VND\n\t* Độ phân giải: 1080p/30fps\n\t* Định dạng xuất: MJPG, H.264 & YUY2\n\t* Tích hợp: 2 micro với khả năng thu lên đến 4 mét\n\t* Công nghệ: 3D-DNR\n\t* Chất lượng hiệu suất: 20 LUX\n\n2. Webcam 4k, góc nhìn 120 độ UC W21 - Giá: 3799620 VND\n\t* Độ phân giải: Ultra HD 4K @ 25fps\n\t* Góc nhìn: 120° DFoV\n\t* Công nghệ: HDR Mảng Mic 2 phần tử; HDR Lấy nét tự động\n\t* Thuật toán giảm nhiễu: 2D & 3D DNR\n\n3. Webcam 4k, góc nhìn 80 độ UC W20 - Giá: 3215080 VND\n\t* Chất lượng: 4k @ 30fps\n\t* Hình ảnh: 30fps 4K hoặc 720p Ultra HD\n\t* Công nghệ: DNR 2D & 3D Lấy nét tự động\n\n4. USB, camera hội nghị 4k, tích hợp mic và loa UC S05 - Giá: 10911780 VND\n\t* Độ phân giải: FPS 4k Ultra-HD\n\t* Góc nhìn: 120°\n\t* Khả năng Zoom: lên đến 15x\n\n5. Bluetooth mic và loa BM20 - Giá: 3604810 VND\n\t* Số micro: 6 Micro đa hướng\n\t* Xoay ngang: 360 °\n\t* Khoảng cách bắt: 4m\n\n**Lò vi sóng**\n\n1. Lò Vi Sóng Bluestone MOB-7716 có nướng 20 lít - Giá: 2346850 VND\n\t* Loại lò: Lò vi sóng có nướng\n\t* Dung tích: 20 lít\n\t* Công suất vi sóng: 1270W\n\t* Công suất nướng: 1000W\n\n2. Lò Nướng Bluestone Eob-7567 - Giá: 3606640 VND\n\t* Loại lò nướng: Lò nướng thùng\n\t* Dung tích: 45 lít\n\t* Công suất: 2000W\n\t* Hẹn giờ: lên tới 60 phút\n\n3. Nồi lẩu nướng Đa năng KALITE KL- 666 4 lít - Giá: 1981000 VND\n\t* Thương hiệu: Kalite\n\t* Dung tích: 4 lít\n\t* Công suất: 1300W\n\t* Lòng nồi: Ceramic chống dính",
+            "additional_kwargs": {},
+            "response_metadata": {},
+            "type": "ai",
+            "name": null,
+            "id": null,
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": null
+        }
+    }
+]
